@@ -1,0 +1,1721 @@
+{
+    "metadata": {
+        "version": "1.0",
+        "last_updated": "2023-12-04",
+        "total_books": 99,
+        "categories": 9,
+        "framework_tags": 9,
+        "thematic_tags": 50
+    },
+    "categories": [
+    {
+        "id": "F1",
+        "name": "Financial Mindset & Behavior",
+        "description": "Books focusing on mindset shifts, behavioral finance, and psychology of money.",
+        "books": [
+            "B1",
+            "B16",
+            "R12",
+            "R34",
+            "R47",
+            "R27",
+            "R39",
+            "R40",
+            "R98",
+            "R99"
+        ]
+    },
+    {
+        "id": "F2",
+        "name": "Income Streams & Quadrants",
+        "description": "Books on income generation, financial independence, and the Cashflow Quadrant.",
+        "books": [
+            "B2",
+            "B3",
+            "R42",
+            "R41",
+            "R43",
+            "B4",
+            "B5",
+            "R94",
+            "R96",
+            "R89"
+        ]
+    },
+    {
+        "id": "F3",
+        "name": "Building Wealth",
+        "description": "Books on actionable strategies like investing, passive income, and asset building.",
+        "books": [
+            "B1",
+            "R7",
+            "R38",
+            "R56",
+            "R54",
+            "B6",
+            "R77",
+            "R49",
+            "B62",
+            "R50"
+        ]
+    },
+    {
+        "id": "F4",
+        "name": "Financial Literacy & Education",
+        "description": "Books for foundational and advanced financial knowledge.",
+        "books": [
+            "R39",
+            "R40",
+            "R48",
+            "R49",
+            "B7",
+            "R61",
+            "R95",
+            "R97",
+            "R76",
+            "R93"
+        ]
+    },
+    {
+        "id": "F5",
+        "name": "Entrepreneurship & Business",
+        "description": "Books on starting, managing, and scaling businesses.",
+        "books": [
+            "B11",
+            "R30",
+            "R4",
+            "R31",
+            "B12",
+            "R62",
+            "B18",
+            "R81",
+            "R32",
+            "R86"
+        ]
+    },
+    {
+        "id": "F6",
+        "name": "Investment Strategies & Tools",
+        "description": "Books on advanced investing strategies, tools, and fintech innovations.",
+        "books": [
+            "R36",
+            "T1",
+            "T3",
+            "R57",
+            "R9",
+            "R55",
+            "R24",
+            "R64",
+            "R59",
+            "R58"
+        ]
+    },
+    {
+        "id": "F7",
+        "name": "Wealth Preservation & Legacy",
+        "description": "Books on estate planning, generational wealth, and long-term sustainability.",
+        "books": [
+            "P2",
+            "P1",
+            "P3",
+            "R59",
+            "B10",
+            "B13",
+            "R87",
+            "R92",
+            "R93",
+            "R62"
+        ]
+    },
+    {
+        "id": "F8",
+        "name": "Social & Environmental Wealth",
+        "description": "Books on ESG investing, social responsibility, and sustainability.",
+        "books": [
+            "S1",
+            "S2",
+            "S3",
+            "R58",
+            "R37",
+            "T2",
+            "R56",
+            "R91",
+            "R60",
+            "R55"
+        ]
+    },
+    {
+        "id": "F9",
+        "name": "Broader Context & History",
+        "description": "Books providing historical and global perspectives on wealth creation.",
+        "books": [
+            "H1",
+            "H2",
+            "H3",
+            "R32",
+            "R53",
+            "R65",
+            "R23",
+            "R69",
+            "R78",
+            "R79"
+        ]
+    }
+],
+    "framework_tags": [
+    {
+        "id": "F1",
+        "name": "Financial Mindset & Behavior",
+        "description": "Focused on mindset, psychology, and behaviors that influence financial decisions."
+    },
+    {
+        "id": "F2",
+        "name": "Income Streams & Quadrants",
+        "description": "Includes concepts of active, passive, and portfolio income."
+    },
+    {
+        "id": "F3",
+        "name": "Building Wealth",
+        "description": "Covers actionable strategies for growing wealth through investments, assets, and savings."
+    },
+    {
+        "id": "F4",
+        "name": "Financial Literacy & Education",
+        "description": "Includes foundational and advanced knowledge for understanding and managing finances."
+    },
+    {
+        "id": "F5",
+        "name": "Entrepreneurship & Business",
+        "description": "Focuses on starting, growing, and managing businesses effectively."
+    },
+    {
+        "id": "F6",
+        "name": "Investment Strategies & Tools",
+        "description": "Covers advanced investment techniques, strategies, and tools for optimizing returns."
+    },
+    {
+        "id": "F7",
+        "name": "Wealth Preservation & Legacy",
+        "description": "Focuses on sustaining and passing on wealth through estate planning and generational strategies."
+    },
+    {
+        "id": "F8",
+        "name": "Social & Environmental Wealth",
+        "description": "Addresses ESG investing, sustainable practices, and ethical wealth creation."
+    },
+    {
+        "id": "F9",
+        "name": "Broader Context & History",
+        "description": "Provides historical, economic, and cultural perspectives on wealth creation and management."
+    }
+],
+    "thematic_tags": [
+    {
+        "id": "mindset_shift",
+        "name": "Mindset Shift",
+        "description": "Changing perspectives to adopt wealth-building habits and beliefs.",
+        "related_category": "F1"
+    },
+    {
+        "id": "behavioral_finance",
+        "name": "Behavioral Finance",
+        "description": "Understanding the psychological factors influencing financial decisions.",
+        "related_category": "F1"
+    },
+    {
+        "id": "decision_making",
+        "name": "Decision-Making",
+        "description": "Insights and tools for making better financial decisions.",
+        "related_category": "F1"
+    },
+    {
+        "id": "psychology_of_wealth",
+        "name": "Psychology of Wealth",
+        "description": "Exploring the mental and emotional aspects of wealth creation.",
+        "related_category": "F1"
+    },
+    {
+        "id": "financial_education",
+        "name": "Financial Education",
+        "description": "Building foundational and advanced knowledge about money management.",
+        "related_category": "F1"
+    },
+    {
+        "id": "active_income",
+        "name": "Active Income",
+        "description": "Earnings from traditional jobs or self-employment.",
+        "related_category": "F2"
+    },
+    {
+        "id": "passive_income",
+        "name": "Passive Income",
+        "description": "Income from investments, real estate, or side hustles.",
+        "related_category": "F2"
+    },
+    {
+        "id": "cashflow_quadrant",
+        "name": "Cashflow Quadrant",
+        "description": "The four types of income: Employee, Self-Employed, Business Owner, and Investor.",
+        "related_category": "F2"
+    },
+    {
+        "id": "real_estate_income",
+        "name": "Real Estate Income",
+        "description": "Income generated from property investments.",
+        "related_category": "F2"
+    },
+    {
+        "id": "portfolio_income",
+        "name": "Portfolio Income",
+        "description": "Earnings from stocks, bonds, and other financial assets.",
+        "related_category": "F2"
+    },
+    {
+        "id": "wealth_building",
+        "name": "Wealth Building",
+        "description": "Strategies for accumulating and growing wealth over time.",
+        "related_category": "F3"
+    },
+    {
+        "id": "asset_acquisition",
+        "name": "Asset Acquisition",
+        "description": "Building a portfolio of income-generating assets.",
+        "related_category": "F3"
+    },
+    {
+        "id": "compound_interest",
+        "name": "Compound Interest",
+        "description": "The exponential growth of money through reinvestment.",
+        "related_category": "F3"
+    },
+    {
+        "id": "financial_independence",
+        "name": "Financial Independence",
+        "description": "Reaching a state where work becomes optional due to sufficient wealth.",
+        "related_category": "F3"
+    },
+    {
+        "id": "savings_strategies",
+        "name": "Savings Strategies",
+        "description": "Effective methods to save money and manage expenses.",
+        "related_category": "F3"
+    },
+    {
+        "id": "budgeting",
+        "name": "Budgeting",
+        "description": "Managing personal or household finances effectively.",
+        "related_category": "F4"
+    },
+    {
+        "id": "debt_management",
+        "name": "Debt Management",
+        "description": "Strategies to reduce or eliminate financial debt.",
+        "related_category": "F4"
+    },
+    {
+        "id": "investing_basics",
+        "name": "Investing Basics",
+        "description": "Foundational concepts for beginner investors.",
+        "related_category": "F4"
+    },
+    {
+        "id": "advanced_investing",
+        "name": "Advanced Investing",
+        "description": "Sophisticated strategies for experienced investors.",
+        "related_category": "F4"
+    },
+    {
+        "id": "risk_management",
+        "name": "Risk Management",
+        "description": "Minimizing and managing financial risks effectively.",
+        "related_category": "F4"
+    },
+    {
+        "id": "business_growth",
+        "name": "Business Growth",
+        "description": "Strategies to scale a business successfully.",
+        "related_category": "F5"
+    },
+    {
+        "id": "startup_success",
+        "name": "Startup Success",
+        "description": "Practical advice for starting and growing businesses.",
+        "related_category": "F5"
+    },
+    {
+        "id": "systems_thinking",
+        "name": "Systems Thinking",
+        "description": "Using systems and processes to enhance efficiency.",
+        "related_category": "F5"
+    },
+    {
+        "id": "leadership",
+        "name": "Leadership",
+        "description": "Developing skills to lead teams and organizations effectively.",
+        "related_category": "F5"
+    },
+    {
+        "id": "small_business",
+        "name": "Small Business",
+        "description": "Specific guidance for running and growing small enterprises.",
+        "related_category": "F5"
+    },
+    {
+        "id": "value_investing",
+        "name": "Value Investing",
+        "description": "Investing in undervalued assets for long-term growth.",
+        "related_category": "F6"
+    },
+    {
+        "id": "cryptocurrency",
+        "name": "Cryptocurrency",
+        "description": "Understanding and investing in digital currencies like Bitcoin.",
+        "related_category": "F6"
+    },
+    {
+        "id": "fintech",
+        "name": "Fintech",
+        "description": "Leveraging financial technology for investment and management.",
+        "related_category": "F6"
+    },
+    {
+        "id": "real_estate_investing",
+        "name": "Real Estate Investing",
+        "description": "Building wealth through property investments.",
+        "related_category": "F6"
+    },
+    {
+        "id": "stock_market",
+        "name": "Stock Market",
+        "description": "Understanding and participating in the equity markets.",
+        "related_category": "F6"
+    },
+    {
+        "id": "risk_reward",
+        "name": "Risk/Reward",
+        "description": "Balancing risk and potential returns in investments.",
+        "related_category": "F6"
+    },
+    {
+        "id": "estate_planning",
+        "name": "Estate Planning",
+        "description": "Preparing wills, trusts, and strategies to pass wealth.",
+        "related_category": "F7"
+    },
+    {
+        "id": "generational_wealth",
+        "name": "Generational Wealth",
+        "description": "Creating and sustaining wealth across generations.",
+        "related_category": "F7"
+    },
+    {
+        "id": "tax_strategies",
+        "name": "Tax Strategies",
+        "description": "Optimizing taxes to preserve wealth.",
+        "related_category": "F7"
+    },
+    {
+        "id": "retirement_planning",
+        "name": "Retirement Planning",
+        "description": "Preparing financially for retirement.",
+        "related_category": "F7"
+    },
+    {
+        "id": "long_term_wealth",
+        "name": "Long-Term Wealth",
+        "description": "Strategies to sustain wealth for the long term.",
+        "related_category": "F7"
+    },
+    {
+        "id": "esg_investing",
+        "name": "ESG Investing",
+        "description": "Investing with a focus on Environmental, Social, and Governance factors.",
+        "related_category": "F8"
+    },
+    {
+        "id": "sustainable_finance",
+        "name": "Sustainable Finance",
+        "description": "Aligning wealth creation with sustainability goals.",
+        "related_category": "F8"
+    },
+    {
+        "id": "impact_investing",
+        "name": "Impact Investing",
+        "description": "Generating social or environmental impact alongside financial returns.",
+        "related_category": "F8"
+    },
+    {
+        "id": "ethical_capitalism",
+        "name": "Ethical Capitalism",
+        "description": "Wealth creation that considers moral and ethical values.",
+        "related_category": "F8"
+    },
+    {
+        "id": "philanthropy",
+        "name": "Philanthropy",
+        "description": "Effective strategies for charitable giving.",
+        "related_category": "F8"
+    },
+    {
+        "id": "economic_history",
+        "name": "Economic History",
+        "description": "Lessons from past financial trends and events.",
+        "related_category": "F9"
+    },
+    {
+        "id": "global_markets",
+        "name": "Global Markets",
+        "description": "International perspectives on wealth creation.",
+        "related_category": "F9"
+    },
+    {
+        "id": "recession_insights",
+        "name": "Recession Insights",
+        "description": "Understanding economic downturns and recoveries.",
+        "related_category": "F9"
+    },
+    {
+        "id": "economic_theories",
+        "name": "Economic Theories",
+        "description": "Foundational ideas shaping financial systems.",
+        "related_category": "F9"
+    },
+    {
+        "id": "cultural_wealth",
+        "name": "Cultural Wealth",
+        "description": "Examining wealth across different cultures.",
+        "related_category": "F9"
+    }
+],
+    "series": [
+    {
+        "id": "B",
+        "name": "Rich Dad Series",
+        "description": "Books authored or co-authored by Robert Kiyosaki, focused on financial education, wealth-building, and achieving financial independence. The series introduces the Rich Dad philosophy, emphasizing mindset shifts, financial literacy, and unconventional paths to wealth.",
+        "excerpt": "Transform your mindset and learn the strategies to build lasting wealth from Robert Kiyosaki's perspective.",
+        "total_books": 27,
+        "books": [
+            "B1", "B2", "B3", "B4", "B5", "B6", "B7", "B8", "B9", "B10", "B11",
+            "B12", "B13", "B14", "B15", "B16", "B17", "B18", "B19", "B20",
+            "B21", "B22", "B23", "B24", "B25", "B26", "B27"
+        ]
+    },
+    {
+        "id": "R",
+        "name": "Recommended Classics",
+        "description": "A curated collection of foundational and advanced books on personal finance, investing, entrepreneurship, and economic principles. Written by leading experts and thinkers, this series provides timeless lessons on building and preserving wealth.",
+        "excerpt": "Explore the classics that have shaped the financial thinking of generations.",
+        "total_books": 50,
+        "books": [
+            "R1", "R7", "R12", "R24", "R27", "R34", "R36", "R38", "R39", "R40",
+            "R41", "R42", "R43", "R44", "R45", "R46", "R47", "R48", "R50", "R54",
+            "R56", "R57", "R58", "R59", "R60", "R61", "R62", "R63", "R64", "R65",
+            "R66", "R67", "R68", "R69", "R70", "R71", "R72", "R73", "R74", "R75",
+            "R76", "R77", "R78", "R79", "R80", "R81", "R82", "R83", "R84", "R85"
+        ]
+    },
+    {
+        "id": "T",
+        "name": "Technology and Finance",
+        "description": "Books exploring the intersection of financial systems and emerging technologies such as blockchain, fintech, and digital innovation. These works examine how technology reshapes wealth-building strategies and financial systems globally.",
+        "excerpt": "Discover how technology is revolutionizing finance and investment opportunities.",
+        "total_books": 5,
+        "books": ["T1", "T2", "T3", "T4", "T5"]
+    },
+    {
+        "id": "P",
+        "name": "Preservation & Legacy",
+        "description": "Books focused on preserving wealth, planning for retirement, and creating generational financial legacies. This series addresses estate planning, tax strategies, and sustainable wealth transfer across generations.",
+        "excerpt": "Learn how to secure your financial future and create a lasting legacy.",
+        "total_books": 6,
+        "books": ["P1", "P2", "P3", "P4", "P5", "P6"]
+    },
+    {
+        "id": "S",
+        "name": "Sustainability & ESG",
+        "description": "Books on Environmental, Social, and Governance (ESG) investing, impact investing, and sustainable wealth creation. The series emphasizes aligning financial goals with ethical and sustainable values.",
+        "excerpt": "Build wealth while making a positive impact on society and the environment.",
+        "total_books": 5,
+        "books": ["S1", "S2", "S3", "S4", "S5"]
+    }
+], 
+    "keywords": [
+
+    {
+        "keyword": "behavior",
+        "description": "A brief explanation of 'behavior' in the context of wealth literacy."
+    },
+    {
+        "keyword": "behavioral finance",
+        "description": "A brief explanation of 'behavioral finance' in the context of wealth literacy."
+    },
+    {
+        "keyword": "brain",
+        "description": "A brief explanation of 'brain' in the context of wealth literacy."
+    },
+    {
+        "keyword": "cashflow",
+        "description": "A brief explanation of 'cashflow' in the context of wealth literacy."
+    },
+    {
+        "keyword": "common sense",
+        "description": "A brief explanation of 'common sense' in the context of wealth literacy."
+    },
+    {
+        "keyword": "cycles",
+        "description": "A brief explanation of 'cycles' in the context of wealth literacy."
+    },
+    {
+        "keyword": "decision making",
+        "description": "A brief explanation of 'decision making' in the context of wealth literacy."
+    },
+    {
+        "keyword": "education",
+        "description": "A brief explanation of 'education' in the context of wealth literacy."
+    },
+    {
+        "keyword": "finance",
+        "description": "A brief explanation of 'finance' in the context of wealth literacy."
+    },
+    {
+        "keyword": "financial IQ",
+        "description": "A brief explanation of 'financial IQ' in the context of wealth literacy."
+    },
+    {
+        "keyword": "financial freedom",
+        "description": "A brief explanation of 'financial freedom' in the context of wealth literacy."
+    },
+    {
+        "keyword": "financial planning",
+        "description": "A brief explanation of 'financial planning' in the context of wealth literacy."
+    },
+    {
+        "keyword": "freedom",
+        "description": "A brief explanation of 'freedom' in the context of wealth literacy."
+    },
+    {
+        "keyword": "frugality",
+        "description": "A brief explanation of 'frugality' in the context of wealth literacy."
+    },
+    {
+        "keyword": "growth",
+        "description": "A brief explanation of 'growth' in the context of wealth literacy."
+    },
+    {
+        "keyword": "habits",
+        "description": "A brief explanation of 'habits' in the context of wealth literacy."
+    },
+    {
+        "keyword": "income streams",
+        "description": "A brief explanation of 'income streams' in the context of wealth literacy."
+    },
+    {
+        "keyword": "independence",
+        "description": "A brief explanation of 'independence' in the context of wealth literacy."
+    },
+    {
+        "keyword": "index funds",
+        "description": "A brief explanation of 'index funds' in the context of wealth literacy."
+    },
+    {
+        "keyword": "investing",
+        "description": "A brief explanation of 'investing' in the context of wealth literacy."
+    },
+    {
+        "keyword": "knowledge",
+        "description": "A brief explanation of 'knowledge' in the context of wealth literacy."
+    },
+    {
+        "keyword": "management",
+        "description": "A brief explanation of 'management' in the context of wealth literacy."
+    },
+    {
+        "keyword": "millionaires",
+        "description": "A brief explanation of 'millionaires' in the context of wealth literacy."
+    },
+    {
+        "keyword": "mindset",
+        "description": "A brief explanation of 'mindset' in the context of wealth literacy."
+    },
+    {
+        "keyword": "money",
+        "description": "A brief explanation of 'money' in the context of wealth literacy."
+    },
+    {
+        "keyword": "neuroscience",
+        "description": "A brief explanation of 'neuroscience' in the context of wealth literacy."
+    },
+    {
+        "keyword": "passive income",
+        "description": "A brief explanation of 'passive income' in the context of wealth literacy."
+    },
+    {
+        "keyword": "profits",
+        "description": "A brief explanation of 'profits' in the context of wealth literacy."
+    },
+    {
+        "keyword": "prophecy",
+        "description": "A brief explanation of 'prophecy' in the context of wealth literacy."
+    },
+    {
+        "keyword": "psychology",
+        "description": "A brief explanation of 'psychology' in the context of wealth literacy."
+    },
+    {
+        "keyword": "real estate",
+        "description": "A brief explanation of 'real estate' in the context of wealth literacy."
+    },
+    {
+        "keyword": "retire",
+        "description": "A brief explanation of 'retire' in the context of wealth literacy."
+    },
+    {
+        "keyword": "risk",
+        "description": "A brief explanation of 'risk' in the context of wealth literacy."
+    },
+    {
+        "keyword": "risk management",
+        "description": "A brief explanation of 'risk management' in the context of wealth literacy."
+    },
+    {
+        "keyword": "savings",
+        "description": "A brief explanation of 'savings' in the context of wealth literacy."
+    },
+    {
+        "keyword": "simplicity",
+        "description": "A brief explanation of 'simplicity' in the context of wealth literacy."
+    },
+    {
+        "keyword": "stock market",
+        "description": "A brief explanation of 'stock market' in the context of wealth literacy."
+    },
+    {
+        "keyword": "stocks",
+        "description": "A brief explanation of 'stocks' in the context of wealth literacy."
+    },
+    {
+        "keyword": "strategy",
+        "description": "A brief explanation of 'strategy' in the context of wealth literacy."
+    },
+    {
+        "keyword": "thinking",
+        "description": "A brief explanation of 'thinking' in the context of wealth literacy."
+    },
+    {
+        "keyword": "time",
+        "description": "A brief explanation of 'time' in the context of wealth literacy."
+    },
+    {
+        "keyword": "value",
+        "description": "A brief explanation of 'value' in the context of wealth literacy."
+    },
+    {
+        "keyword": "value investing",
+        "description": "A brief explanation of 'value investing' in the context of wealth literacy."
+    },
+    {
+        "keyword": "values",
+        "description": "A brief explanation of 'values' in the context of wealth literacy."
+    },
+    {
+        "keyword": "wealth",
+        "description": "A brief explanation of 'wealth' in the context of wealth literacy."
+    },
+    {
+        "keyword": "young",
+        "description": "A brief explanation of 'young' in the context of wealth literacy."
+    }
+],
+    "books": [
+        {
+            "id": "B1",
+            "title": "Rich Dad Poor Dad",
+            "description": "The classic book that compares two contrasting approaches to financial success.",
+            "excerpt": "A story of two dads with very different ideas about wealth and education.",
+            "framework_tags": ["F1", "F3", "F4"],
+            "thematic_tags": ["mindset_shift", "wealth_building"],
+            "priority": 1,
+            "keywords": ["mindset", "education", "investing"]
+        },
+        {
+            "id": "R7",
+            "title": "The Intelligent Investor",
+            "description": "A foundational book on value investing and financial management.",
+            "excerpt": "Benjamin Graham’s masterpiece that emphasizes disciplined investing strategies.",
+            "framework_tags": ["F3", "F4", "F6"],
+            "thematic_tags": ["value_investing", "risk_management", "stock_market"],
+            "priority": 2,
+            "keywords": ["value investing", "long-term", "portfolio management"]
+        },
+        {
+            "id": "B2",
+            "title": "Rich Dad's CASHFLOW Quadrant",
+            "description": "An exploration of the four ways people generate income and how to move from being an employee to becoming an investor.",
+            "excerpt": "A guide to understanding the Employee, Self-Employed, Business Owner, and Investor quadrants.",
+            "framework_tags": ["F2", "F3", "F4"],
+            "thematic_tags": ["cashflow_quadrant", "passive_income", "financial_independence"],
+            "priority": 3,
+            "keywords": ["cashflow", "income streams", "wealth"]
+        },
+        {
+            "id": "R47",
+            "title": "The Psychology of Money",
+            "description": "Explores the subtle ways psychology and emotions influence financial decisions.",
+            "excerpt": "A unique look at the behaviors and thinking patterns that define financial success.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["behavioral_finance", "psychology_of_wealth"],
+            "priority": 4,
+            "keywords": ["psychology", "mindset", "money"]
+        },
+        {
+            "id": "R34",
+            "title": "Thinking, Fast and Slow",
+            "description": "A deep dive into the two systems of thought that drive human decision-making, including financial choices.",
+            "excerpt": "A book that explains the fast and slow systems of thinking and their impact on our actions.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["decision_making", "behavioral_finance"],
+            "priority": 5,
+            "keywords": ["decision making", "thinking", "behavior"]
+        },
+        {
+            "id": "R42",
+            "title": "The Simple Path to Wealth",
+            "description": "A straightforward guide to achieving financial independence through investing and frugal living.",
+            "excerpt": "A practical manual for building wealth through simplicity and discipline.",
+            "framework_tags": ["F2", "F3", "F4"],
+            "thematic_tags": ["passive_income", "savings_strategies", "financial_independence"],
+            "priority": 6,
+            "keywords": ["simplicity", "investing", "frugality"]
+        },
+        {
+            "id": "R43",
+            "title": "Financial Freedom",
+            "description": "A modern guide to achieving financial freedom through passive income and smart investing.",
+            "excerpt": "A step-by-step blueprint for building wealth and reclaiming your time.",
+            "framework_tags": ["F2", "F3", "F4"],
+            "thematic_tags": ["passive_income", "financial_independence", "wealth_building"],
+            "priority": 7,
+            "keywords": ["financial freedom", "passive income", "time"]
+        },
+        {
+            "id": "R39",
+            "title": "Your Money or Your Life",
+            "description": "A revolutionary guide to transforming your relationship with money and achieving financial independence.",
+            "excerpt": "A timeless classic on managing money and aligning it with your life values.",
+            "framework_tags": ["F1", "F3", "F4"],
+            "thematic_tags": ["budgeting", "savings_strategies", "financial_independence"],
+            "priority": 8,
+            "keywords": ["money", "values", "independence"]
+        },
+        {
+            "id": "B3",
+            "title": "Rich Dad's Guide to Investing",
+            "description": "A deep dive into the principles and strategies that make successful investors.",
+            "excerpt": "Lessons on how to think like an investor and build wealth.",
+            "framework_tags": ["F2", "F3", "F6"],
+            "thematic_tags": ["portfolio_income", "real_estate_investing", "wealth_building"],
+            "priority": 9,
+            "keywords": ["investing", "real estate", "wealth"]
+        },
+        {
+            "id": "R12",
+            "title": "Secrets of the Millionaire Mind",
+            "description": "Unveils the mindset and habits that differentiate millionaires from others.",
+            "excerpt": "A guide to rewiring your brain for wealth creation.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["mindset_shift", "financial_education"],
+            "priority": 10,
+            "keywords": ["mindset", "habits", "wealth"]
+        },
+        {
+            "id": "R7",
+            "title": "The Millionaire Next Door",
+            "description": "An analysis of the habits and behaviors of everyday millionaires.",
+            "excerpt": "A book that reveals the surprising truths about wealth accumulation.",
+            "framework_tags": ["F3", "F4"],
+            "thematic_tags": ["wealth_building", "savings_strategies"],
+            "priority": 11,
+            "keywords": ["millionaires", "habits", "savings"]
+        },
+        {
+            "id": "B4",
+            "title": "Retire Young Retire Rich",
+            "description": "A step-by-step guide to achieving financial independence at an early age.",
+            "excerpt": "Learn how to break free from the rat race and live a life of freedom.",
+            "framework_tags": ["F2", "F3", "F7"],
+            "thematic_tags": ["financial_independence", "passive_income", "real_estate_income"],
+            "priority": 12,
+            "keywords": ["retire", "young", "freedom"]
+        },
+        {
+            "id": "R56",
+            "title": "The Dhandho Investor",
+            "description": "A low-risk, high-return value investing strategy inspired by Indian entrepreneurs.",
+            "excerpt": "Simplified strategies for value investing and building wealth.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["value_investing", "risk_reward"],
+            "priority": 13,
+            "keywords": ["value", "investing", "strategy"]
+        },
+        {
+            "id": "R48",
+            "title": "The Little Book of Common Sense Investing",
+            "description": "A guide to index investing and the benefits of long-term financial growth.",
+            "excerpt": "John Bogle's timeless principles of investing made simple.",
+            "framework_tags": ["F3", "F4", "F6"],
+            "thematic_tags": ["index_investing", "long_term_wealth"],
+            "priority": 14,
+            "keywords": ["common sense", "index funds", "growth"]
+        },
+        {
+            "id": "R57",
+            "title": "The Most Important Thing",
+            "description": "Howard Marks shares insights on risk, cycles, and investing.",
+            "excerpt": "A must-read for understanding the subtleties of investing.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["risk_management", "value_investing", "market_cycles"],
+            "priority": 15,
+            "keywords": ["risk", "investing", "cycles"]
+        },
+        {
+            "id": "B5",
+            "title": "Rich Dad's Prophecy",
+            "description": "A guide to preparing for and profiting from financial downturns.",
+            "excerpt": "Learn how to secure your financial future in uncertain times.",
+            "framework_tags": ["F3", "F6", "F7"],
+            "thematic_tags": ["economic_theories", "risk_management"],
+            "priority": 16,
+            "keywords": ["prophecy", "financial planning", "wealth"]
+        },
+        {
+            "id": "R27",
+            "title": "Your Money and Your Brain",
+            "description": "A fascinating look at how neuroscience impacts financial decision-making.",
+            "excerpt": "Explore the intersection of psychology, brain science, and finance.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["behavioral_finance", "decision_making"],
+            "priority": 17,
+            "keywords": ["neuroscience", "finance", "brain"]
+        },
+        {
+            "id": "B6",
+            "title": "Rich Dad's Who Took My Money?",
+            "description": "An analysis of how traditional investment strategies fail to build wealth.",
+            "excerpt": "Learn alternative methods for growing and protecting wealth.",
+            "framework_tags": ["F3", "F4", "F6"],
+            "thematic_tags": ["wealth_building", "asset_acquisition", "portfolio_income"],
+            "priority": 18,
+            "keywords": ["wealth", "money", "investing"]
+        },
+        {
+            "id": "R50",
+            "title": "Common Stocks and Uncommon Profits",
+            "description": "Philip Fisher's classic on growth investing and choosing high-quality stocks.",
+            "excerpt": "A must-read for understanding business quality in investing.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["value_investing", "stock_market"],
+            "priority": 19,
+            "keywords": ["stocks", "growth", "profits"]
+        },
+        {
+            "id": "B7",
+            "title": "Rich Dad's Increase Your Financial IQ",
+            "description": "A guide to improving your financial knowledge and decision-making skills.",
+            "excerpt": "Unlock the secrets to smarter financial management.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["financial_education", "risk_management"],
+            "priority": 20,
+            "keywords": ["financial IQ", "knowledge", "management"]
+        },
+        {
+            "id": "R38",
+            "title": "The Millionaire Next Door",
+            "description": "An analysis of the habits and behaviors of everyday millionaires.",
+            "excerpt": "A book that reveals the surprising truths about wealth accumulation.",
+            "framework_tags": ["F3", "F7"],
+            "thematic_tags": ["wealth_building", "savings_strategies", "generational_wealth"],
+            "priority": 21,
+            "keywords": ["millionaires", "habits", "wealth"]
+        },
+        {
+            "id": "R54",
+            "title": "The Little Book That Still Beats the Market",
+            "description": "Joel Greenblatt's guide to the magic formula for successful investing.",
+            "excerpt": "A simple and powerful strategy for stock market success.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["value_investing", "stock_market", "risk_reward"],
+            "priority": 22,
+            "keywords": ["investing", "stocks", "formula"]
+        },
+        {
+            "id": "B8",
+            "title": "Rich Dad's Increase Your Financial IQ",
+            "description": "Strategies for improving your financial knowledge and skills.",
+            "excerpt": "Learn to make smarter financial decisions through education.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["financial_education", "risk_management", "wealth_building"],
+            "priority": 23,
+            "keywords": ["IQ", "finance", "skills"]
+        },
+        {
+            "id": "T1",
+            "title": "Blockchain Revolution",
+            "description": "How blockchain technology is transforming business, money, and the world.",
+            "excerpt": "Discover the potential and impact of blockchain.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["cryptocurrency", "fintech", "economic_history"],
+            "priority": 24,
+            "keywords": ["blockchain", "technology", "transformation"]
+        },
+        {
+            "id": "R36",
+            "title": "The Bitcoin Standard",
+            "description": "A comprehensive look at Bitcoin and its role in the financial world.",
+            "excerpt": "An essential guide for understanding cryptocurrency and its implications.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["cryptocurrency", "economic_theories", "fintech"],
+            "priority": 25,
+            "keywords": ["Bitcoin", "crypto", "finance"]
+        },
+        {
+            "id": "B9",
+            "title": "Rich Dad's Success Stories",
+            "description": "Real-life success stories inspired by Rich Dad philosophies.",
+            "excerpt": "Learn how others achieved financial success using Rich Dad principles.",
+            "framework_tags": ["F1", "F5"],
+            "thematic_tags": ["success", "wealth_building", "financial_independence"],
+            "priority": 26,
+            "keywords": ["success", "stories", "Rich Dad"]
+        },
+        {
+            "id": "B10",
+            "title": "Rich Dad's Prophecy",
+            "description": "Robert Kiyosaki predicts financial challenges and how to prepare for them.",
+            "excerpt": "Learn how to safeguard your financial future in uncertain times.",
+            "framework_tags": ["F3", "F6", "F7"],
+            "thematic_tags": ["economic_theories", "risk_management", "financial_independence"],
+            "priority": 27,
+            "keywords": ["prophecy", "wealth", "future"]
+        },
+        {
+            "id": "R9",
+            "title": "Stocks for the Long Run",
+            "description": "A comprehensive guide to long-term investing strategies.",
+            "excerpt": "Learn why stocks are a cornerstone of a solid investment strategy.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["stock_market", "long_term_wealth", "portfolio_income"],
+            "priority": 28,
+            "keywords": ["stocks", "long-term", "investing"]
+        },
+        {
+            "id": "R24",
+            "title": "The Little Book of Behavioral Investing",
+            "description": "How to avoid common psychological pitfalls in investing.",
+            "excerpt": "A practical guide to making better investment decisions.",
+            "framework_tags": ["F1", "F6"],
+            "thematic_tags": ["behavioral_finance", "decision_making", "risk_management"],
+            "priority": 29,
+            "keywords": ["behavioral", "investing", "psychology"]
+        },
+        {
+            "id": "B11",
+            "title": "Rich Dad's Before You Quit Your Job",
+            "description": "Advice on transitioning from employee to entrepreneur.",
+            "excerpt": "A guide to building a successful business while minimizing risk.",
+            "framework_tags": ["F1", "F5"],
+            "thematic_tags": ["business_growth", "leadership", "startup_success"],
+            "priority": 30,
+            "keywords": ["business", "entrepreneurship", "success"]
+        },
+        {
+            "id": "R30",
+            "title": "Good to Great",
+            "description": "Explores what differentiates great companies from good ones.",
+            "excerpt": "Lessons on leadership, strategy, and innovation in business.",
+            "framework_tags": ["F5", "F6"],
+            "thematic_tags": ["business_growth", "leadership", "systems_thinking"],
+            "priority": 31,
+            "keywords": ["greatness", "business", "leadership"]
+        },
+        {
+            "id": "B12",
+            "title": "Rich Dad's Midas Touch",
+            "description": "Robert Kiyosaki and Donald Trump's insights on entrepreneurship.",
+            "excerpt": "Lessons from two successful entrepreneurs on building wealth.",
+            "framework_tags": ["F5", "F6"],
+            "thematic_tags": ["business_growth", "leadership", "wealth_building"],
+            "priority": 32,
+            "keywords": ["Midas", "wealth", "entrepreneurship"]
+        },
+        {
+            "id": "R57",
+            "title": "Mastering the Market Cycle",
+            "description": "Howard Marks' guide to understanding and navigating market cycles.",
+            "excerpt": "A deep dive into the patterns and risks in financial markets.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["market_cycles", "risk_management", "long_term_wealth"],
+            "priority": 33,
+            "keywords": ["market", "cycles", "investing"]
+        },
+        {
+            "id": "B13",
+            "title": "Rich Dad's Unfair Advantage",
+            "description": "Explains the unique strategies that give investors an edge.",
+            "excerpt": "Learn how to identify and capitalize on financial advantages.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["wealth_building", "asset_acquisition", "financial_independence"],
+            "priority": 34,
+            "keywords": ["advantage", "wealth", "strategy"]
+        },
+        {
+            "id": "R58",
+            "title": "Principles: Life and Work",
+            "description": "Ray Dalio shares his guiding principles for success in life and finance.",
+            "excerpt": "A practical guide to decision-making and leadership.",
+            "framework_tags": ["F1", "F5"],
+            "thematic_tags": ["leadership", "decision_making", "ethical_capitalism"],
+            "priority": 35,
+            "keywords": ["principles", "success", "finance"]
+        },
+        {
+            "id": "T3",
+            "title": "Digital Gold",
+            "description": "A narrative of Bitcoin's emergence as a revolutionary financial tool.",
+            "excerpt": "Explore the early days of Bitcoin and its impact on the world.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["cryptocurrency", "economic_history", "risk_reward"],
+            "priority": 36,
+            "keywords": ["Bitcoin", "digital", "gold"]
+        },
+        {
+            "id": "R50",
+            "title": "Common Stocks and Uncommon Profits",
+            "description": "Philip Fisher's seminal work on growth investing and evaluating companies.",
+            "excerpt": "Discover how to identify high-quality companies for investment.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["value_investing", "stock_market", "wealth_building"],
+            "priority": 37,
+            "keywords": ["stocks", "profits", "growth"]
+        },
+        {
+            "id": "P1",
+            "title": "Wealth Can't Wait",
+            "description": "A guide to building wealth faster through mindset and action.",
+            "excerpt": "Learn how to overcome obstacles and accelerate wealth creation.",
+            "framework_tags": ["F3", "F7"],
+            "thematic_tags": ["wealth_building", "generational_wealth", "long_term_wealth"],
+            "priority": 38,
+            "keywords": ["wealth", "strategy", "success"]
+        },
+        {
+            "id": "R41",
+            "title": "I Will Teach You to Be Rich",
+            "description": "A practical guide to financial management for young professionals.",
+            "excerpt": "Learn actionable tips for saving, investing, and living a rich life.",
+            "framework_tags": ["F2", "F4"],
+            "thematic_tags": ["budgeting", "financial_education", "savings_strategies"],
+            "priority": 39,
+            "keywords": ["rich", "finance", "practical"]
+        },
+        {
+            "id": "B14",
+            "title": "Rich Dad's Second Chance",
+            "description": "A discussion on leveraging financial crises as opportunities.",
+            "excerpt": "Learn how to create financial freedom during uncertain times.",
+            "framework_tags": ["F1", "F3"],
+            "thematic_tags": ["financial_independence", "wealth_building", "mindset_shift"],
+            "priority": 40,
+            "keywords": ["second", "chance", "opportunity"]
+        },
+        {
+            "id": "R62",
+            "title": "The E-Myth Revisited",
+            "description": "Explains why most small businesses fail and how to avoid it.",
+            "excerpt": "A guide to building successful and sustainable businesses.",
+            "framework_tags": ["F5"],
+            "thematic_tags": ["small_business", "systems_thinking", "business_growth"],
+            "priority": 41,
+            "keywords": ["business", "systems", "success"]
+        },
+        {
+            "id": "B15",
+            "title": "Rich Dad's Rich Kid Smart Kid",
+            "description": "Teaches parents how to give their children a financial head start.",
+            "excerpt": "Learn how to prepare your kids for financial success.",
+            "framework_tags": ["F1", "F4", "F7"],
+            "thematic_tags": ["financial_education", "generational_wealth", "mindset_shift"],
+            "priority": 42,
+            "keywords": ["kids", "education", "wealth"]
+        },
+        {
+            "id": "B16",
+            "title": "Why 'A' Students Work for 'C' Students",
+            "description": "Explores the limitations of traditional education in preparing for financial success.",
+            "excerpt": "A critique of the education system and a guide to alternative learning.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["financial_education", "mindset_shift", "leadership"],
+            "priority": 43,
+            "keywords": ["education", "students", "success"]
+        },
+        {
+            "id": "B17",
+            "title": "Second Chance",
+            "description": "A guide to using financial crises as opportunities to build wealth.",
+            "excerpt": "Learn how to see financial downturns as opportunities.",
+            "framework_tags": ["F1", "F3", "F7"],
+            "thematic_tags": ["wealth_building", "mindset_shift", "economic_theories"],
+            "priority": 44,
+            "keywords": ["crisis", "opportunity", "wealth"]
+        },
+        {
+            "id": "R8",
+            "title": "The Essays of Warren Buffett",
+            "description": "Lessons on corporate governance and investment strategies.",
+            "excerpt": "Buffett’s thoughts on value investing and the long-term approach.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["value_investing", "long_term_wealth", "corporate_governance"],
+            "priority": 45,
+            "keywords": ["Buffett", "essays", "investment"]
+        },
+        {
+            "id": "R44",
+            "title": "The Barefoot Investor",
+            "description": "A straightforward guide to budgeting, saving, and investing.",
+            "excerpt": "Simple and actionable steps to manage your finances effectively.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["budgeting", "savings_strategies", "financial_independence"],
+            "priority": 46,
+            "keywords": ["budgeting", "investing", "saving"]
+        },
+        {
+            "id": "R45",
+            "title": "The Wealth of Nations",
+            "description": "Adam Smith’s seminal work on economic principles and the foundations of capitalism.",
+            "excerpt": "A deep dive into the principles of markets and wealth creation.",
+            "framework_tags": ["F9"],
+            "thematic_tags": ["economic_theories", "market_cycles", "global_markets"],
+            "priority": 47,
+            "keywords": ["economics", "wealth", "markets"]
+        },
+        {
+            "id": "R46",
+            "title": "The Total Money Makeover",
+            "description": "Dave Ramsey’s proven plan for financial fitness.",
+            "excerpt": "Learn how to take control of your money and achieve financial freedom.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["budgeting", "debt_management", "savings_strategies"],
+            "priority": 48,
+            "keywords": ["money", "makeover", "freedom"]
+        },
+        {
+            "id": "P2",
+            "title": "Family Wealth",
+            "description": "A guide to creating and sustaining generational wealth.",
+            "excerpt": "Learn how to pass down wealth while maintaining family harmony.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["generational_wealth", "estate_planning", "long_term_wealth"],
+            "priority": 49,
+            "keywords": ["family", "wealth", "legacy"]
+        },
+        {
+            "id": "P3",
+            "title": "Estate Planning Basics",
+            "description": "A beginner's guide to wills, trusts, and other estate planning tools.",
+            "excerpt": "Learn how to plan your estate effectively and efficiently.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["estate_planning", "tax_strategies", "wealth_preservation"],
+            "priority": 50,
+            "keywords": ["estate", "planning", "basics"]
+        },
+        {
+            "id": "T2",
+            "title": "FinTech and the Wealth of Nations",
+            "description": "Explores the impact of fintech innovations on global wealth creation.",
+            "excerpt": "Understand the intersection of technology and finance.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["fintech", "global_markets", "cryptocurrency"],
+            "priority": 51,
+            "keywords": ["fintech", "finance", "technology"]
+        },
+        {
+            "id": "R59",
+            "title": "The Book on Rental Property Investing",
+            "description": "A comprehensive guide to building wealth through rental properties.",
+            "excerpt": "Learn actionable strategies for real estate success.",
+            "framework_tags": ["F3", "F7"],
+            "thematic_tags": ["real_estate_investing", "passive_income", "wealth_building"],
+            "priority": 52,
+            "keywords": ["rental", "real estate", "investing"]
+        },
+        {
+            "id": "B18",
+            "title": "8 Lessons in Military Leadership for Entrepreneurs",
+            "description": "Applying military principles to entrepreneurial success.",
+            "excerpt": "Learn how to lead and succeed like a military strategist.",
+            "framework_tags": ["F5"],
+            "thematic_tags": ["leadership", "systems_thinking", "business_growth"],
+            "priority": 53,
+            "keywords": ["military", "leadership", "entrepreneur"]
+        },
+        {
+            "id": "B19",
+            "title": "Rich Dad's Who Took My Pension?",
+            "description": "A critical look at the global pension crisis and its implications.",
+            "excerpt": "Discover how to safeguard your retirement savings.",
+            "framework_tags": ["F7", "F9"],
+            "thematic_tags": ["retirement_planning", "economic_theories", "wealth_preservation"],
+            "priority": 54,
+            "keywords": ["pension", "crisis", "retirement"]
+        },
+        {
+            "id": "R60",
+            "title": "How to Day Trade for a Living",
+            "description": "A guide to earning income through day trading.",
+            "excerpt": "Learn the tools, strategies, and psychology of successful day traders.",
+            "framework_tags": ["F6"],
+            "thematic_tags": ["stock_market", "risk_management", "short_term_trading"],
+            "priority": 55,
+            "keywords": ["day trading", "stocks", "income"]
+        },
+        {
+            "id": "R61",
+            "title": "Mastering the Market Cycle",
+            "description": "Understand the patterns and psychology of financial market cycles.",
+            "excerpt": "Learn how to anticipate and navigate economic cycles.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["market_cycles", "risk_management", "financial_independence"],
+            "priority": 56,
+            "keywords": ["market", "cycles", "finance"]
+        },
+        {
+            "id": "R32",
+            "title": "Zero to One",
+            "description": "Peter Thiel’s take on building groundbreaking companies.",
+            "excerpt": "A roadmap to creating innovation in a competitive world.",
+            "framework_tags": ["F5"],
+            "thematic_tags": ["startup_success", "business_growth", "innovation"],
+            "priority": 57,
+            "keywords": ["startups", "innovation", "success"]
+        },
+        {
+            "id": "R63",
+            "title": "One Up on Wall Street",
+            "description": "Peter Lynch's guide to spotting investment opportunities.",
+            "excerpt": "Learn how to use what you already know to find great investments.",
+            "framework_tags": ["F6"],
+            "thematic_tags": ["value_investing", "stock_market", "long_term_wealth"],
+            "priority": 58,
+            "keywords": ["stocks", "investing", "opportunities"]
+        },
+        {
+            "id": "R64",
+            "title": "You Can Be a Stock Market Genius",
+            "description": "Joel Greenblatt's guide to special situation investing.",
+            "excerpt": "Learn how to profit from overlooked opportunities in the market.",
+            "framework_tags": ["F6"],
+            "thematic_tags": ["stock_market", "risk_reward", "value_investing"],
+            "priority": 59,
+            "keywords": ["stocks", "genius", "opportunities"]
+        },
+        {
+            "id": "S1",
+            "title": "ESG Investing for Dummies",
+            "description": "A beginner’s guide to Environmental, Social, and Governance investing.",
+            "excerpt": "Learn how to align your investments with your values.",
+            "framework_tags": ["F8"],
+            "thematic_tags": ["esg_investing", "sustainable_finance", "impact_investing"],
+            "priority": 60,
+            "keywords": ["ESG", "sustainability", "investing"]
+        },
+        {
+            "id": "S2",
+            "title": "Conscious Capitalism",
+            "description": "Explores how businesses can create wealth while benefiting society.",
+            "excerpt": "Learn how ethical practices lead to sustainable success.",
+            "framework_tags": ["F8"],
+            "thematic_tags": ["ethical_capitalism", "philanthropy", "sustainable_finance"],
+            "priority": 61,
+            "keywords": ["capitalism", "ethics", "sustainability"]
+        },
+        {
+            "id": "S3",
+            "title": "Impact Investing",
+            "description": "How investors can generate financial returns and positive social impact.",
+            "excerpt": "Learn how to align your investments with your values.",
+            "framework_tags": ["F8"],
+            "thematic_tags": ["impact_investing", "esg_investing", "sustainable_finance"],
+            "priority": 62,
+            "keywords": ["impact", "investing", "values"]
+        },
+        {
+            "id": "P4",
+            "title": "How to Retire Happy, Wild, and Free",
+            "description": "Practical advice for creating a fulfilling and financially stable retirement.",
+            "excerpt": "Learn how to enjoy a stress-free retirement.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["retirement_planning", "financial_independence", "long_term_wealth"],
+            "priority": 63,
+            "keywords": ["retirement", "freedom", "happiness"]
+        },
+        {
+            "id": "P5",
+            "title": "The Bogleheads' Guide to Retirement Planning",
+            "description": "A comprehensive guide to planning and managing your retirement.",
+            "excerpt": "Learn the principles of frugal and efficient retirement planning.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["retirement_planning", "index_investing", "financial_independence"],
+            "priority": 64,
+            "keywords": ["retirement", "planning", "Bogleheads"]
+        },
+        {
+            "id": "P6",
+            "title": "Retirement Planning Made Simple",
+            "description": "Simplifies the complexities of retirement planning into actionable steps.",
+            "excerpt": "A beginner-friendly guide to securing your retirement.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["retirement_planning", "long_term_wealth", "financial_independence"],
+            "priority": 65,
+            "keywords": ["retirement", "simple", "planning"]
+        },
+        {
+            "id": "R65",
+            "title": "The Wealth of Nations",
+            "description": "Adam Smith’s analysis of economic systems and wealth creation.",
+            "excerpt": "A foundational text for understanding markets and capitalism.",
+            "framework_tags": ["F9"],
+            "thematic_tags": ["economic_history", "global_markets", "economic_theories"],
+            "priority": 66,
+            "keywords": ["economics", "capitalism", "markets"]
+        },
+        {
+            "id": "R66",
+            "title": "The Simple Path to Wealth",
+            "description": "A straightforward approach to achieving financial independence.",
+            "excerpt": "Focuses on saving and investing in low-cost index funds.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["index_investing", "financial_independence", "savings_strategies"],
+            "priority": 67,
+            "keywords": ["simplicity", "wealth", "index funds"]
+        },
+        {
+            "id": "T4",
+            "title": "Fintech Explained",
+            "description": "An overview of financial technology and its impact on modern finance.",
+            "excerpt": "Understand how technology is reshaping banking and investments.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["fintech", "cryptocurrency", "economic_history"],
+            "priority": 68,
+            "keywords": ["fintech", "technology", "finance"]
+        },
+        {
+            "id": "T5",
+            "title": "Digital Gold",
+            "description": "The history and impact of Bitcoin on the global economy.",
+            "excerpt": "Learn how Bitcoin emerged as a revolutionary financial tool.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["cryptocurrency", "economic_theories", "risk_management"],
+            "priority": 69,
+            "keywords": ["Bitcoin", "crypto", "history"]
+        },
+        {
+            "id": "R67",
+            "title": "A Random Walk Down Wall Street",
+            "description": "Examines the unpredictability of financial markets and the benefits of indexing.",
+            "excerpt": "A must-read for understanding efficient markets and investment strategies.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["index_investing", "risk_management", "stock_market"],
+            "priority": 70,
+            "keywords": ["markets", "indexing", "stocks"]
+        },
+        {
+            "id": "R68",
+            "title": "The Intelligent Asset Allocator",
+            "description": "Explains the principles of portfolio diversification and asset allocation.",
+            "excerpt": "A practical guide to building a balanced investment portfolio.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["portfolio_income", "risk_management", "long_term_wealth"],
+            "priority": 71,
+            "keywords": ["asset", "allocation", "portfolio"]
+        },
+        {
+            "id": "R69",
+            "title": "Principles for Success",
+            "description": "Ray Dalio’s framework for decision-making and achieving success.",
+            "excerpt": "Learn practical principles for life and work.",
+            "framework_tags": ["F1", "F8"],
+            "thematic_tags": ["leadership", "decision_making", "ethical_capitalism"],
+            "priority": 72,
+            "keywords": ["principles", "success", "finance"]
+        },
+        {
+            "id": "B20",
+            "title": "Rich Dad's FAKE: Fake Money, Fake Teachers, Fake Assets",
+            "description": "A critical look at traditional financial systems and education.",
+            "excerpt": "Learn how to recognize and avoid fake financial advice.",
+            "framework_tags": ["F1", "F9"],
+            "thematic_tags": ["economic_theories", "financial_education", "wealth_building"],
+            "priority": 73,
+            "keywords": ["fake", "money", "education"]
+        },
+        {
+            "id": "B21",
+            "title": "Rich Dad's Second Chance",
+            "description": "Lessons on creating financial opportunities during crises.",
+            "excerpt": "Discover how to thrive financially in uncertain times.",
+            "framework_tags": ["F1", "F3"],
+            "thematic_tags": ["wealth_building", "mindset_shift", "economic_theories"],
+            "priority": 74,
+            "keywords": ["second", "chance", "wealth"]
+        },
+        {
+            "id": "R70",
+            "title": "How the Stock Market Works",
+            "description": "An accessible guide to understanding the stock market.",
+            "excerpt": "Learn the basics of stocks, indices, and market mechanics.",
+            "framework_tags": ["F4", "F6"],
+            "thematic_tags": ["stock_market", "investing_basics", "portfolio_income"],
+            "priority": 75,
+            "keywords": ["stocks", "market", "basics"]
+        },
+        {
+            "id": "R71",
+            "title": "The Automatic Millionaire",
+            "description": "A simple, actionable guide to building wealth automatically.",
+            "excerpt": "Learn how small changes can lead to big financial outcomes.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["savings_strategies", "financial_independence", "wealth_building"],
+            "priority": 76,
+            "keywords": ["automatic", "wealth", "millionaire"]
+        },
+        {
+            "id": "R72",
+            "title": "The Richest Man in Babylon",
+            "description": "Timeless lessons on wealth and financial success.",
+            "excerpt": "Discover the secrets to building wealth from ancient Babylon.",
+            "framework_tags": ["F3", "F4"],
+            "thematic_tags": ["savings_strategies", "financial_independence", "wealth_building"],
+            "priority": 77,
+            "keywords": ["Babylon", "wealth", "lessons"]
+        },
+        {
+            "id": "R73",
+            "title": "Your Money and Your Brain",
+            "description": "How neuroscience impacts financial decisions.",
+            "excerpt": "Explore the intersection of brain science and finance.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["behavioral_finance", "decision_making", "psychology_of_wealth"],
+            "priority": 78,
+            "keywords": ["neuroscience", "finance", "decisions"]
+        },
+        {
+            "id": "R74",
+            "title": "The Little Book of Value Investing",
+            "description": "Explains the principles of value investing in a simple format.",
+            "excerpt": "Learn how to find undervalued stocks for long-term gains.",
+            "framework_tags": ["F3", "F6"],
+            "thematic_tags": ["value_investing", "stock_market", "long_term_wealth"],
+            "priority": 79,
+            "keywords": ["value", "investing", "stocks"]
+        },
+        {
+            "id": "R75",
+            "title": "Manias, Panics, and Crashes",
+            "description": "A history of financial crises and their lessons.",
+            "excerpt": "Understand the patterns behind booms and busts.",
+            "framework_tags": ["F6", "F9"],
+            "thematic_tags": ["economic_history", "market_cycles", "risk_management"],
+            "priority": 80,
+            "keywords": ["manias", "panics", "crashes"]
+        },
+        {
+            "id": "B22",
+            "title": "Rich Dad's Retire Young Retire Rich",
+            "description": "A guide to achieving financial freedom early in life.",
+            "excerpt": "Learn how to build wealth and retire on your terms.",
+            "framework_tags": ["F2", "F3", "F7"],
+            "thematic_tags": ["financial_independence", "passive_income", "wealth_building"],
+            "priority": 81,
+            "keywords": ["retire", "young", "freedom"]
+        },
+        {
+            "id": "B23",
+            "title": "Rich Dad's Midas Touch",
+            "description": "Lessons on entrepreneurship from Robert Kiyosaki and Donald Trump.",
+            "excerpt": "Learn the traits that make successful entrepreneurs.",
+            "framework_tags": ["F5"],
+            "thematic_tags": ["entrepreneurship", "business_growth", "leadership"],
+            "priority": 82,
+            "keywords": ["Midas", "touch", "entrepreneurship"]
+        },
+        {
+            "id": "R76",
+            "title": "The Millionaire Mind",
+            "description": "Explores the traits and habits of successful millionaires.",
+            "excerpt": "Learn how millionaires think and operate differently.",
+            "framework_tags": ["F1", "F3"],
+            "thematic_tags": ["mindset_shift", "wealth_building", "generational_wealth"],
+            "priority": 83,
+            "keywords": ["millionaires", "mind", "wealth"]
+        },
+        {
+            "id": "R77",
+            "title": "The Automatic Millionaire",
+            "description": "Teaches how to automate wealth-building strategies.",
+            "excerpt": "Learn simple steps to financial freedom.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["savings_strategies", "financial_independence", "long_term_wealth"],
+            "priority": 84,
+            "keywords": ["automatic", "millionaire", "wealth"]
+        },
+        {
+            "id": "R78",
+            "title": "The Wealthy Gardener",
+            "description": "A story about creating wealth and purpose through discipline.",
+            "excerpt": "Lessons on building a prosperous and meaningful life.",
+            "framework_tags": ["F1", "F3"],
+            "thematic_tags": ["wealth_building", "mindset_shift", "savings_strategies"],
+            "priority": 85,
+            "keywords": ["gardener", "wealth", "purpose"]
+        },
+        {
+            "id": "R79",
+            "title": "Family Fortunes",
+            "description": "Focuses on building and preserving generational wealth.",
+            "excerpt": "Learn how to pass on financial success to the next generation.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["generational_wealth", "estate_planning", "long_term_wealth"],
+            "priority": 86,
+            "keywords": ["family", "fortunes", "wealth"]
+        },
+        {
+            "id": "B24",
+            "title": "Rich Dad's Fake Teachers",
+            "description": "Examines the flaws in traditional education for financial success.",
+            "excerpt": "Learn why self-education is key to wealth.",
+            "framework_tags": ["F1", "F4"],
+            "thematic_tags": ["financial_education", "mindset_shift"],
+            "priority": 87,
+            "keywords": ["fake", "teachers", "education"]
+        },
+        {
+            "id": "R80",
+            "title": "Wealth Can't Wait",
+            "description": "Strategies for building wealth faster through actionable insights.",
+            "excerpt": "A modern guide to accelerating financial success.",
+            "framework_tags": ["F3", "F7"],
+            "thematic_tags": ["wealth_building", "generational_wealth", "financial_independence"],
+            "priority": 88,
+            "keywords": ["wealth", "strategy", "success"]
+        },
+        {
+            "id": "S4",
+            "title": "Sustainable Investing Essentials",
+            "description": "How to align investments with sustainability goals.",
+            "excerpt": "Learn how to invest ethically and responsibly.",
+            "framework_tags": ["F8"],
+            "thematic_tags": ["sustainable_finance", "impact_investing", "esg_investing"],
+            "priority": 89,
+            "keywords": ["sustainability", "investing", "essentials"]
+        },
+        {
+            "id": "S5",
+            "title": "ESG Investing: How to Do Good and Do Well",
+            "description": "Practical steps for ESG-focused investing.",
+            "excerpt": "Learn how to generate returns while making a positive impact.",
+            "framework_tags": ["F8"],
+            "thematic_tags": ["esg_investing", "sustainable_finance", "impact_investing"],
+            "priority": 90,
+            "keywords": ["ESG", "investing", "impact"]
+        },
+        {
+            "id": "B25",
+            "title": "Rich Dad's Midas Touch for Women",
+            "description": "A guide to empowering women in entrepreneurship and wealth creation.",
+            "excerpt": "Learn how women can achieve financial independence.",
+            "framework_tags": ["F5", "F7"],
+            "thematic_tags": ["entrepreneurship", "leadership", "financial_independence"],
+            "priority": 91,
+            "keywords": ["Midas", "women", "entrepreneurship"]
+        },
+        {
+            "id": "R81",
+            "title": "Conscious Wealth",
+            "description": "Explores wealth creation with mindfulness and purpose.",
+            "excerpt": "Align your financial goals with your life purpose.",
+            "framework_tags": ["F1", "F8"],
+            "thematic_tags": ["ethical_capitalism", "mindset_shift", "sustainable_finance"],
+            "priority": 92,
+            "keywords": ["conscious", "wealth", "mindfulness"]
+        },
+        {
+            "id": "R82",
+            "title": "Retire Inspired",
+            "description": "A motivational guide to retirement planning and achieving your dreams.",
+            "excerpt": "Learn how to retire with purpose and financial stability.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["retirement_planning", "long_term_wealth", "financial_independence"],
+            "priority": 93,
+            "keywords": ["retire", "inspiration", "stability"]
+        },
+        {
+            "id": "R83",
+            "title": "Financial Freedom: A Proven Path",
+            "description": "Grant Sabatier’s guide to achieving financial freedom in record time.",
+            "excerpt": "Learn how to escape the rat race and live life on your terms.",
+            "framework_tags": ["F2", "F3"],
+            "thematic_tags": ["passive_income", "wealth_building", "financial_independence"],
+            "priority": 94,
+            "keywords": ["freedom", "financial", "path"]
+        },
+        {
+            "id": "B26",
+            "title": "Rich Dad's Cashflow Quadrant for Millennials",
+            "description": "Tailored advice for younger generations to navigate the Cashflow Quadrant.",
+            "excerpt": "Learn how to transition to financial freedom as a millennial.",
+            "framework_tags": ["F2", "F4"],
+            "thematic_tags": ["cashflow_quadrant", "passive_income", "wealth_building"],
+            "priority": 95,
+            "keywords": ["Cashflow", "millennials", "freedom"]
+        },
+        {
+            "id": "B27",
+            "title": "Rich Dad's Guide to Tax-Free Wealth",
+            "description": "Strategies for legally reducing your tax burden.",
+            "excerpt": "Learn how to preserve more of your wealth with smart tax strategies.",
+            "framework_tags": ["F7"],
+            "thematic_tags": ["tax_strategies", "wealth_preservation", "financial_independence"],
+            "priority": 96,
+            "keywords": ["tax-free", "wealth", "strategies"]
+        },
+        {
+            "id": "R84",
+            "title": "The Money Tree",
+            "description": "A story about finding the fortune in your own backyard.",
+            "excerpt": "Discover how to create wealth through creativity and effort.",
+            "framework_tags": ["F2", "F5"],
+            "thematic_tags": ["entrepreneurship", "passive_income", "wealth_building"],
+            "priority": 97,
+            "keywords": ["money", "tree", "wealth"]
+        },
+        {
+            "id": "R85",
+            "title": "Millennial Money Makeover",
+            "description": "A step-by-step guide to financial success for millennials.",
+            "excerpt": "Learn how to master money and build wealth early.",
+            "framework_tags": ["F4", "F7"],
+            "thematic_tags": ["budgeting", "debt_management", "financial_independence"],
+            "priority": 98,
+            "keywords": ["millennials", "money", "makeover"]
+        },
+        {
+            "id": "R86",
+            "title": "Finance for the People",
+            "description": "A refreshing take on making finance accessible and enjoyable.",
+            "excerpt": "Learn how to take control of your money without stress.",
+            "framework_tags": ["F4"],
+            "thematic_tags": ["financial_education", "budgeting", "mindset_shift"],
+            "priority": 99,
+            "keywords": ["finance", "accessible", "control"]
+        }
+    ]
+}

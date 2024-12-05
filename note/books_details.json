@@ -1,0 +1,649 @@
+{
+    "books": [
+    
+        {
+            "id": "B1",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "year": 1997,
+            "isbn": "978-1612680194",
+            "pages": 336,
+            "publisher": "Plata Publishing",
+            "format": ["Paperback", "eBook", "Audiobook"],
+            "language": "English",
+            "genres": ["Personal Finance", "Self-Help"],
+            "reading_time": "6-8 hours",
+            "average_rating": 4.8,
+            "target_audience": ["Beginners", "Aspiring Investors"],
+            "notable_quotes": [
+                "The rich don't work for money. They make money work for them.",
+                "Financial freedom is not about working harder but thinking smarter."
+            ],
+            "key_takeaways": [
+                "Understand the difference between assets and liabilities.",
+                "Focus on financial education over traditional schooling.",
+                "Use your money to buy income-generating assets."
+            ],
+            "framework_tags": ["F1", "F3", "F4"],
+            "thematic_tags": ["mindset_shift", "wealth_building"],
+            "priority": 1,
+            "keywords": ["mindset", "education", "investing"],
+            "related_books": ["B2", "R7", "B5"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-1",
+                "goodreads": "https://goodreads.com/book-1"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Global",
+            "edition": "25th Anniversary Edition",
+            "awards": ["NYT Bestseller"],
+            "supplementary_materials": ["Workbook"],
+            "series": "Rich Dad Series",
+            "influence": "A foundational book for understanding personal finance principles.",
+            "sales": "32 million copies sold",
+            "adaptations": ["Online Course"],
+            "criticism": "None",
+            "readability_score": 68,
+            "media_mentions": [
+                "https://nytimes.com/review/rich-dad-poor-dad"
+            ],
+            "cost": "$15-$25",
+            "contains_illustrations": false,
+            "co_authors": ["Sharon Lechter"],
+            "featured_stories": [
+                "The tale of two dads and their contrasting philosophies on money."
+            ],
+            "accessibility_options": ["Large Print", "Translated into Spanish"],
+            "related_tools": ["Cashflow Game", "Rich Dad Online Wealth Calculator"],
+            "author_philosophy": "Empower individuals through financial education.",
+            "reviews": [
+                "One of the best books on financial literacy I've ever read. - Bill Gates"
+            ]
+        },
+        {
+            "id": "B2",
+            "title": "The Intelligent Investor",
+            "author": "Benjamin Graham",
+            "year": 1949,
+            "isbn": "978-0060555665",
+            "pages": 623,
+            "publisher": "Harper Business",
+            "format": ["Paperback", "eBook", "Audiobook"],
+            "language": "English",
+            "genres": ["Investing", "Economics"],
+            "reading_time": "10-15 hours",
+            "average_rating": 4.7,
+            "target_audience": ["Intermediate Investors"],
+            "notable_quotes": [
+                "Investing isn’t about beating others at their game. It’s about controlling yourself at your own game."
+            ],
+            "key_takeaways": [
+                "Focus on value investing principles.",
+                "Understand margin of safety and risk management.",
+                "Stick to long-term strategies and avoid market speculation."
+            ],
+            "framework_tags": ["F6", "F4"],
+            "thematic_tags": ["value_investing", "risk_management"],
+            "priority": 2,
+            "keywords": ["value investing", "stocks", "risk management"],
+            "related_books": ["B1", "R42"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-2",
+                "goodreads": "https://goodreads.com/book-2"
+            },
+            "complexity": "Advanced",
+            "region_focus": "Global",
+            "edition": "Revised Edition",
+            "awards": ["WSJ Bestseller"],
+            "supplementary_materials": ["Workbook"],
+            "series": "Investing Classics",
+            "influence": "One of the most influential books on investing.",
+            "sales": "15 million copies sold",
+            "adaptations": ["Podcast Episode"],
+            "criticism": "Some critics find it overly detailed for beginners.",
+            "readability_score": 65,
+            "media_mentions": [
+                "https://forbes.com/investor-classics"
+            ],
+            "cost": "$20-$30",
+            "contains_illustrations": true,
+            "co_authors": ["Jason Zweig"],
+            "featured_stories": [
+                "Case studies of successful value investing strategies."
+            ],
+            "accessibility_options": ["Translated into Japanese"],
+            "related_tools": ["Investment Risk Calculator"],
+            "author_philosophy": "Invest with discipline and patience.",
+            "reviews": [
+                "A must-read for anyone serious about investing. - Warren Buffett"
+            ]
+        },
+        {
+            "id": "B3",
+            "title": "Think and Grow Rich",
+            "author": "Napoleon Hill",
+            "year": 1976,
+            "isbn": "978-9876543",
+            "pages": 417,
+            "publisher": "Harper Business",
+            "format": ["Paperback", "eBook"],
+            "language": "English",
+            "genres": ["Personal Finance", "Self-Help"],
+            "reading_time": "8-12 hours",
+            "average_rating": 4.6,
+            "target_audience": ["Entrepreneurs", "Aspiring Investors"],
+            "notable_quotes": ["Whatever the mind can conceive and believe, it can achieve."],
+            "key_takeaways": [
+                "The importance of definitive purpose.",
+                "Developing a burning desire to succeed."
+            ],
+            "framework_tags": ["F1", "F3", "F4"],
+            "thematic_tags": ["mindset_shift", "wealth_building"],
+            "priority": 3,
+            "keywords": ["mindset", "education", "financial freedom"],
+            "related_books": ["B1", "B5", "R7"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-3",
+                "goodreads": "https://goodreads.com/book-3"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Global",
+            "edition": "5th Edition",
+            "awards": ["NYT Bestseller"],
+            "supplementary_materials": ["Workbook"],
+            "series": "Entrepreneurship Insights",
+            "influence": "A classic book inspiring millions worldwide.",
+            "sales": "70 million copies sold",
+            "adaptations": ["Online Course", "Podcast Episode"],
+            "criticism": "Lacks practical examples for modern times.",
+            "readability_score": 85,
+            "media_mentions": [
+                "https://example.com/review-think-and-grow-rich"
+            ],
+            "cost": "$18-$25",
+            "contains_illustrations": false,
+            "co_authors": [],
+            "featured_stories": [
+                "Story of Andrew Carnegie’s wealth-building strategies."
+            ],
+            "accessibility_options": ["Large Print"],
+            "related_tools": ["Success Planner"],
+            "author_philosophy": "Focus on mindset and visualization."
+        },
+        {
+            "id": "B4",
+            "title": "The Wealth of Nations",
+            "author": "Adam Smith",
+            "year": 1776,
+            "isbn": "978-1234567",
+            "pages": 950,
+            "publisher": "Penguin",
+            "format": ["Paperback"],
+            "language": "English",
+            "genres": ["Economics", "History"],
+            "reading_time": "15-20 hours",
+            "average_rating": 4.4,
+            "target_audience": ["Advanced Readers"],
+            "notable_quotes": [
+                "The invisible hand of the market guides economic growth."
+            ],
+            "key_takeaways": [
+                "The foundation of free-market economics.",
+                "Understanding labor division's role in wealth creation."
+            ],
+            "framework_tags": ["F4", "F5"],
+            "thematic_tags": ["economic_theory", "wealth_building"],
+            "priority": 4,
+            "keywords": ["economics", "labor", "markets"],
+            "related_books": ["R12", "R24"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-4",
+                "goodreads": "https://goodreads.com/book-4"
+            },
+            "complexity": "Advanced",
+            "region_focus": "Global",
+            "edition": "Annotated Edition",
+            "awards": [],
+            "supplementary_materials": [],
+            "series": "Classics of Economics",
+            "influence": "Pioneering work in economic theory.",
+            "sales": "5 million copies sold",
+            "adaptations": [],
+            "criticism": "Challenging language for modern readers.",
+            "readability_score": 60,
+            "media_mentions": [],
+            "cost": "$30-$40",
+            "contains_illustrations": true,
+            "co_authors": [],
+            "featured_stories": [],
+            "accessibility_options": [],
+            "related_tools": [],
+            "author_philosophy": "Free-market principles drive prosperity."
+        },
+        {
+            "id": "B5",
+            "title": "Cashflow Quadrant",
+            "author": "Robert T. Kiyosaki",
+            "year": 1998,
+            "isbn": "978-1612680057",
+            "pages": 320,
+            "publisher": "Plata Publishing",
+            "format": ["Paperback", "eBook", "Audiobook"],
+            "language": "English",
+            "genres": ["Personal Finance", "Entrepreneurship"],
+            "reading_time": "6-9 hours",
+            "average_rating": 4.7,
+            "target_audience": ["Entrepreneurs", "Aspiring Investors"],
+            "notable_quotes": [
+                "The key to financial freedom is the ability to convert earned income into passive income."
+            ],
+            "key_takeaways": [
+                "Understand the four quadrants of income generation.",
+                "Focus on transitioning from employee to investor."
+            ],
+            "framework_tags": ["F2", "F3", "F6"],
+            "thematic_tags": ["wealth_building", "income_streams", "mindset_shift"],
+            "priority": 5,
+            "keywords": ["cashflow", "passive income", "investing"],
+            "related_books": ["B1", "R7", "R42"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-5",
+                "goodreads": "https://goodreads.com/book-5"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Global",
+            "edition": "3rd Edition",
+            "awards": ["NYT Bestseller"],
+            "supplementary_materials": ["Workbook", "Video Tutorials"],
+            "series": "Rich Dad Series",
+            "influence": "An essential guide for understanding income streams.",
+            "sales": "10 million copies sold",
+            "adaptations": ["Online Course"],
+            "criticism": "Simplistic examples but effective for beginners.",
+            "readability_score": 75,
+            "media_mentions": [
+                "https://forbes.com/cashflow-quadrant-review"
+            ],
+            "cost": "$15-$25",
+            "contains_illustrations": true,
+            "co_authors": [],
+            "featured_stories": [
+                "Story of transitioning from a corporate job to financial independence."
+            ],
+            "accessibility_options": ["Large Print"],
+            "related_tools": ["Cashflow Game"],
+            "author_philosophy": "Focus on passive income for long-term security."
+        },
+        {
+            "id": "B6",
+            "title": "The Millionaire Next Door",
+            "author": "Thomas J. Stanley",
+            "year": 1996,
+            "isbn": "978-1589795471",
+            "pages": 272,
+            "publisher": "Taylor Trade Publishing",
+            "format": ["Paperback", "eBook"],
+            "language": "English",
+            "genres": ["Personal Finance", "Self-Help"],
+            "reading_time": "5-8 hours",
+            "average_rating": 4.5,
+            "target_audience": ["Budget-conscious readers"],
+            "notable_quotes": [
+                "Wealth is more often the result of a lifestyle of hard work, perseverance, planning, and most of all, self-discipline."
+            ],
+            "key_takeaways": [
+                "Frugality is a key driver of wealth.",
+                "Avoid lifestyle inflation to build long-term assets."
+            ],
+            "framework_tags": ["F3", "F4", "F5"],
+            "thematic_tags": ["wealth_building", "frugality", "habits"],
+            "priority": 6,
+            "keywords": ["savings", "habits", "mindset"],
+            "related_books": ["R12", "R42"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-6",
+                "goodreads": "https://goodreads.com/book-6"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Western",
+            "edition": "1st Edition",
+            "awards": [],
+            "supplementary_materials": [],
+            "series": "Personal Finance Insights",
+            "influence": "A must-read for understanding frugality and wealth.",
+            "sales": "3 million copies sold",
+            "adaptations": ["Documentary"],
+            "criticism": "Limited applicability for high-income professionals.",
+            "readability_score": 80,
+            "media_mentions": [
+                "https://example.com/millionaire-next-door"
+            ],
+            "cost": "$10-$20",
+            "contains_illustrations": false,
+            "co_authors": ["William D. Danko"],
+            "featured_stories": [],
+            "accessibility_options": [],
+            "related_tools": [],
+            "author_philosophy": "Focus on financial discipline and conscious spending."
+        },
+        {
+            "id": "B7",
+            "title": "Principles",
+            "author": "Ray Dalio",
+            "year": 2017,
+            "isbn": "978-1501124020",
+            "pages": 592,
+            "publisher": "Simon & Schuster",
+            "format": ["Hardcover", "eBook"],
+            "language": "English",
+            "genres": ["Self-Help", "Investing"],
+            "reading_time": "12-15 hours",
+            "average_rating": 4.6,
+            "target_audience": ["Advanced Readers"],
+            "notable_quotes": [
+                "Pain plus reflection equals progress."
+            ],
+            "key_takeaways": [
+                "Create a personal set of principles for decision-making.",
+                "Understand the importance of radical transparency."
+            ],
+            "framework_tags": ["F1", "F5", "F7"],
+            "thematic_tags": ["decision_making", "psychology", "mindset_shift"],
+            "priority": 7,
+            "keywords": ["psychology", "decision making", "management"],
+            "related_books": ["R24", "B8", "R42"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-7",
+                "goodreads": "https://goodreads.com/book-7"
+            },
+            "complexity": "Advanced",
+            "region_focus": "Global",
+            "edition": "Expanded Edition",
+            "awards": ["WSJ Bestseller"],
+            "supplementary_materials": ["Workbook", "Online Resources"],
+            "series": "Thought Leadership",
+            "influence": "A foundational book for strategic thinkers.",
+            "sales": "8 million copies sold",
+            "adaptations": ["Podcast Episode"],
+            "criticism": "Complex ideas may overwhelm beginners.",
+            "readability_score": 70,
+            "media_mentions": [
+                "https://example.com/ray-dalio-principles"
+            ],
+            "cost": "$25-$35",
+            "contains_illustrations": true,
+            "co_authors": [],
+            "featured_stories": [],
+            "accessibility_options": [],
+            "related_tools": ["Principles App"],
+            "author_philosophy": "Focus on self-reflection and clear principles."
+        },
+        {
+            "id": "B8",
+            "title": "The Little Book of Value Investing",
+            "author": "Adam Smith",
+            "year": 1989,
+            "isbn": "978-9425036",
+            "pages": 333,
+            "publisher": "Harper Business",
+            "format": ["Paperback"],
+            "language": "French",
+            "genres": ["Personal Finance", "Economics"],
+            "reading_time": "9-15 hours",
+            "average_rating": 4.0,
+            "target_audience": ["Beginners", "Investors"],
+            "notable_quotes": [],
+            "key_takeaways": [
+                "Takeaway 1 for financial growth.",
+                "Takeaway 2 for financial growth."
+            ],
+            "framework_tags": ["F4", "F5", "F2", "F6"],
+            "thematic_tags": ["wealth_building", "retirement_planning"],
+            "priority": 8,
+            "keywords": ["savings", "stocks", "mindset", "financial freedom"],
+            "related_books": ["B98"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-8",
+                "goodreads": "https://goodreads.com/book-8"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Western",
+            "edition": "1st Edition",
+            "awards": [],
+            "supplementary_materials": [],
+            "series": "Rich Dad Series",
+            "influence": "Highly influential in its field.",
+            "sales": "43 million copies sold",
+            "adaptations": ["Podcast Episode", "Online Course"],
+            "criticism": "Some critics argue it lacks depth.",
+            "readability_score": 53,
+            "media_mentions": [],
+            "cost": "$19",
+            "contains_illustrations": true,
+            "co_authors": ["Benjamin Graham", "Robert T. Kiyosaki"],
+            "featured_stories": [
+                "Featured story 1 from the book.",
+                "Featured story 2 from the book.",
+                "Featured story 3 from the book."
+            ],
+            "accessibility_options": ["Translated into Spanish", "Large Print"],
+            "related_tools": ["Online Wealth
+    
+    Calculator"],
+            "author_philosophy": "Focus on long-term wealth building strategies.",
+            "reviews": [
+                "Review 1 by a famous reviewer.",
+                "Review 2 by a famous reviewer."
+            ]
+        },
+        {
+            "id": "B9",
+            "title": "Your Money or Your Life",
+            "author": "Napoleon Hill",
+            "year": 1970,
+            "isbn": "978-7819186",
+            "pages": 480,
+            "publisher": "Wiley",
+            "format": ["Paperback"],
+            "language": "Spanish",
+            "genres": ["Investing", "Self-Help"],
+            "reading_time": "10-15 hours",
+            "average_rating": 3.6,
+            "target_audience": ["Entrepreneurs"],
+            "notable_quotes": [
+                "Quote 1 from Think and Grow Rich.",
+                "Quote 2 from The Wealth of Nations.",
+                "Quote 3 from Cashflow Quadrant."
+            ],
+            "key_takeaways": [
+                "Takeaway 1 for financial growth."
+            ],
+            "framework_tags": ["F6", "F5"],
+            "thematic_tags": ["wealth_building", "risk_management"],
+            "priority": 9,
+            "keywords": ["investing", "cashflow"],
+            "related_books": ["B73", "B51"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-9",
+                "goodreads": "https://goodreads.com/book-9"
+            },
+            "complexity": "Intermediate",
+            "region_focus": "Western",
+            "edition": "4th Edition",
+            "awards": ["NYT Bestseller", "Wall Street Journal Bestseller"],
+            "supplementary_materials": [],
+            "series": "Investing Classics",
+            "influence": "Highly influential in its field.",
+            "sales": "6 million copies sold",
+            "adaptations": ["Online Course", "Podcast Episode"],
+            "criticism": "Some critics argue it lacks depth.",
+            "readability_score": 61,
+            "media_mentions": [
+                "https://example.com/review-9-1",
+                "https://example.com/review-9-2"
+            ],
+            "cost": "$10",
+            "contains_illustrations": false,
+            "co_authors": ["Benjamin Graham", "Ray Dalio"],
+            "featured_stories": [],
+            "accessibility_options": [],
+            "related_tools": ["Online Wealth Calculator", "Cashflow Game"],
+            "author_philosophy": "Focus on long-term wealth building strategies.",
+            "reviews": []
+        },
+        {
+            "id": "B10",
+            "title": "The Intelligent Investor",
+            "author": "Benjamin Graham",
+            "year": 1978,
+            "isbn": "978-3084269",
+            "pages": 415,
+            "publisher": "Wiley",
+            "format": ["Audiobook", "eBook"],
+            "language": "Spanish",
+            "genres": ["Self-Help"],
+            "reading_time": "7-15 hours",
+            "average_rating": 4.8,
+            "target_audience": ["Beginners", "Entrepreneurs"],
+            "notable_quotes": [],
+            "key_takeaways": [
+                "Takeaway 1 for financial growth."
+            ],
+            "framework_tags": ["F7", "F1", "F3", "F4"],
+            "thematic_tags": ["mindset_shift", "risk_management", "value_investing"],
+            "priority": 10,
+            "keywords": ["real estate", "financial freedom"],
+            "related_books": ["B86", "B99", "B51"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-10",
+                "goodreads": "https://goodreads.com/book-10"
+            },
+            "complexity": "Beginner",
+            "region_focus": "Global",
+            "edition": "2nd Edition",
+            "awards": ["NYT Bestseller", "Wall Street Journal Bestseller"],
+            "supplementary_materials": ["Workbook"],
+            "series": "Rich Dad Series",
+            "influence": "Highly influential in its field.",
+            "sales": "33 million copies sold",
+            "adaptations": ["Online Course"],
+            "criticism": "Some critics argue it lacks depth.",
+            "readability_score": 55,
+            "media_mentions": [],
+            "cost": "$27",
+            "contains_illustrations": false,
+            "co_authors": ["Ray Dalio", "Benjamin Graham"],
+            "featured_stories": [
+                "Featured story 1 from the book.",
+                "Featured story 2 from the book."
+            ],
+            "accessibility_options": [],
+            "related_tools": ["Online Wealth Calculator"],
+            "author_philosophy": "Empower individuals through financial education.",
+            "reviews": [
+                "Review 1 by a famous reviewer."
+            ]
+        },
+        {
+            "id": "B11",
+            "title": "Think and Grow Rich",
+            "author": "Napoleon Hill",
+            "year": 1978,
+            "isbn": "978-1111111",
+            "pages": 322,
+            "publisher": "Simon & Schuster",
+            "format": ["Paperback", "eBook"],
+            "language": "English",
+            "genres": ["Personal Finance", "Self-Help"],
+            "reading_time": "7-10 hours",
+            "average_rating": 4.7,
+            "target_audience": ["Aspiring Entrepreneurs"],
+            "notable_quotes": [
+                "The starting point of all achievement is desire."
+            ],
+            "key_takeaways": [
+                "Harness the power of thought to achieve success.",
+                "Develop a clear vision and definitive goals."
+            ],
+            "framework_tags": ["F1", "F3", "F5"],
+            "thematic_tags": ["mindset_shift", "wealth_building"],
+            "priority": 11,
+            "keywords": ["mindset", "thinking", "decision making"],
+            "related_books": ["B1", "B3", "B5"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-11",
+                "goodreads": "https://goodreads.com/book-11"
+            },
+            "complexity": "Intermediate",
+            "region_focus": "Global",
+            "edition": "10th Edition",
+            "awards": ["NYT Bestseller"],
+            "supplementary_materials": ["Workbook"],
+            "series": "Entrepreneurship Insights",
+            "influence": "Considered a classic in personal finance and motivation.",
+            "sales": "50 million copies sold",
+            "adaptations": ["Online Course", "Documentary"],
+            "criticism": "Criticized for lacking actionable steps.",
+            "readability_score": 72,
+            "media_mentions": ["https://example.com/think-and-grow-rich"],
+            "cost": "$15-$25",
+            "contains_illustrations": false,
+            "co_authors": [],
+            "featured_stories": ["Carnegie's principles on wealth creation."],
+            "accessibility_options": ["Large Print"],
+            "related_tools": ["Success Planner"],
+            "author_philosophy": "Focus on definitive purpose and burning desire."
+        },
+        {
+            "id": "B12",
+            "title": "Principles",
+            "author": "Ray Dalio",
+            "year": 2017,
+            "isbn": "978-3333333",
+            "pages": 592,
+            "publisher": "Simon & Schuster",
+            "format": ["Hardcover", "eBook"],
+            "language": "English",
+            "genres": ["Self-Help", "Business Strategy"],
+            "reading_time": "12-15 hours",
+            "average_rating": 4.5,
+            "target_audience": ["Leaders", "Strategists"],
+            "notable_quotes": [
+                "Pain + Reflection = Progress."
+            ],
+            "key_takeaways": [
+                "Build a clear framework for decision-making.",
+                "Adopt radical transparency in leadership."
+            ],
+            "framework_tags": ["F4", "F5", "F7"],
+            "thematic_tags": ["decision_making", "psychology"],
+            "priority": 12,
+            "keywords": ["management", "mindset", "finance"],
+            "related_books": ["B2", "B9"],
+            "available_links": {
+                "amazon": "https://amazon.com/book-12",
+                "goodreads": "https://goodreads.com/book-12"
+            },
+            "complexity": "Advanced",
+            "region_focus": "Global",
+            "edition": "Expanded Edition",
+            "awards": ["WSJ Bestseller"],
+            "supplementary_materials": ["Workbook", "Online Resources"],
+            "series": "Thought Leadership",
+            "influence": "A comprehensive guide for strategic thinkers.",
+            "sales": "10 million copies sold",
+            "adaptations": ["Podcast Episode"],
+            "criticism": "Dense and challenging for beginners.",
+            "readability_score": 70,
+            "media_mentions": ["https://example.com/ray-dalio-principles"],
+            "cost": "$30-$40",
+            "contains_illustrations": true,
+            "co_authors": [],
+            "featured_stories": [],
+            "accessibility_options": [],
+            "related_tools": ["Principles App"],
+            "author_philosophy": "Emphasize clarity and self-reflection."
+        }
+    
+    ]
+    }

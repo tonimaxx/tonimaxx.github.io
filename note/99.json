@@ -1339,6 +1339,130 @@
         "A brilliant book that simplifies stock investing for the average person. - Reader Review"
     ]
 },
+{
+    "id": "B8",
+    "title": "Rich Dad's Increase Your Financial IQ",
+    "author": "Robert T. Kiyosaki",
+    "year": 2008,
+    "isbn": "978-0446509367",
+    "pages": 224,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Beginner Investors", "Aspiring Entrepreneurs", "Financial Literacy Enthusiasts"],
+    "notable_quotes": [
+        "The most important investment you can make is in yourself and your education.",
+        "Money is a terrible master but an excellent servant."
+    ],
+    "key_takeaways": [
+        "Learn the five key areas of financial intelligence: making money, protecting money, budgeting money, leveraging money, and improving financial information.",
+        "Gain the mindset and tools needed to navigate complex financial systems.",
+        "Understand how to manage and grow wealth effectively."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["financial_education", "wealth_building", "risk_management"],
+    "priority": 23,
+    "keywords": ["IQ", "finance", "skills"],
+    "related_books": ["B1", "B2", "R12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446509367",
+        "goodreads": "https://goodreads.com/book/show/25946"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial IQ Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "A key resource for understanding the components of financial intelligence and how to apply them.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Online Seminars", "Workshops"],
+    "criticism": "Some readers feel the book lacks detailed examples and case studies.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://cnbc.com/financial-iq-resources",
+        "https://forbes.com/financial-literacy-books"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of individuals using financial intelligence to overcome debt.",
+        "Examples of applying budgeting and leveraging techniques to build wealth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budget Calculators", "Wealth Planners"],
+    "author_philosophy": "Promote financial education as a foundation for creating wealth and achieving independence.",
+    "reviews": [
+        "A practical and empowering guide to improving your financial skills. - Reader Review"
+    ]
+},
+{
+    "id": "T1",
+    "title": "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World",
+    "author": "Don Tapscott and Alex Tapscott",
+    "year": 2016,
+    "isbn": "978-1101980132",
+    "pages": 432,
+    "publisher": "Portfolio",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Technology", "Finance", "Innovation"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Tech Enthusiasts", "Investors", "Business Professionals"],
+    "notable_quotes": [
+        "Blockchain is the technology that will enable a whole new generation of economic and social systems.",
+        "The future is not something to be predicted, but something to be achieved."
+    ],
+    "key_takeaways": [
+        "Understand the foundational principles of blockchain technology.",
+        "Explore how blockchain is revolutionizing industries such as finance, healthcare, and supply chain.",
+        "Learn about the potential of decentralized systems to enhance transparency and trust."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["cryptocurrency", "fintech", "economic_history"],
+    "priority": 24,
+    "keywords": ["blockchain", "technology", "transformation"],
+    "related_books": ["R36", "T5", "R75"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781101980132",
+        "goodreads": "https://goodreads.com/book/show/25929167"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Blockchain Infographics"],
+    "series": null,
+    "influence": "A leading resource on blockchain technology and its societal implications.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "TED Talks"],
+    "criticism": "Some readers feel the book lacks technical depth for developers.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/blockchain-revolution-review",
+        "https://cnbc.com/blockchain-technology-analysis"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": true,
+    "co_authors": ["Alex Tapscott"],
+    "featured_stories": [
+        "Real-world examples of blockchain's impact on financial inclusion.",
+        "Insights into how blockchain is reshaping global supply chains."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Blockchain Simulators", "Crypto Wallet Apps"],
+    "author_philosophy": "Promote blockchain as a transformative force for good in the digital age.",
+    "reviews": [
+        "A compelling read that explains blockchain's potential to change the world. - Reader Review"
+    ]
+},
+
+
 
 
 

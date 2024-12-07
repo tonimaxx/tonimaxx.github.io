@@ -1,1 +1,610 @@
-
+{
+    "id": "B1",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "year": 1997,
+    "isbn": "978-1612680194",
+    "pages": 336,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.8,
+    "target_audience": ["Beginners", "Aspiring Investors"],
+    "notable_quotes": [
+        "The rich don't work for money. They make money work for them.",
+        "Financial freedom is not about working harder but thinking smarter."
+    ],
+    "key_takeaways": [
+        "Understand the difference between assets and liabilities.",
+        "Focus on financial education over traditional schooling.",
+        "Use your money to buy income-generating assets."
+    ],
+    "framework_tags": ["F1", "F3", "F4"],
+    "thematic_tags": ["mindset_shift", "wealth_building"],
+    "priority": 1,
+    "keywords": ["mindset", "education", "investing"],
+    "related_books": ["B2", "R7", "B5"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680194",
+        "goodreads": "https://goodreads.com/book/show/817606"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "25th Anniversary Edition",
+    "awards": ["New York Times Bestseller"],
+    "supplementary_materials": ["Workbook"],
+    "series": "Rich Dad Series",
+    "influence": "A foundational book for understanding personal finance principles.",
+    "sales": "Over 32 million copies sold",
+    "adaptations": ["Online Course"],
+    "criticism": "Critics argue the book lacks actionable advice and focuses too much on mindset.",
+    "readability_score": 68,
+    "media_mentions": [
+        "https://nytimes.com/review/rich-dad-poor-dad",
+        "https://forbes.com/finance-must-reads"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": ["Sharon Lechter"],
+    "featured_stories": [
+        "The tale of two dads and their contrasting philosophies on money.",
+        "How small real estate investments can snowball into significant wealth."
+    ],
+    "accessibility_options": ["Large Print", "Translated into Spanish"],
+    "related_tools": ["Cashflow Game", "Rich Dad Online Wealth Calculator"],
+    "author_philosophy": "Empower individuals through financial education and alternative paths to wealth.",
+    "reviews": [
+        "One of the best books on financial literacy I've ever read. - Bill Gates"
+    ]
+},
+{
+    "id": "R7",
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "year": 1949,
+    "isbn": "978-0060555665",
+    "pages": 640,
+    "publisher": "Harper Business",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Financial Management"],
+    "reading_time": "12-15 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Intermediate Investors", "Advanced Investors"],
+    "notable_quotes": [
+        "The investor's chief problem—and even his worst enemy—is likely to be himself.",
+        "An investment operation is one which, upon thorough analysis, promises safety of principal and a satisfactory return."
+    ],
+    "key_takeaways": [
+        "Focus on value investing by identifying underpriced stocks.",
+        "Emphasize long-term thinking and disciplined investment strategies.",
+        "Avoid speculative investing and prioritize safety of principal."
+    ],
+    "framework_tags": ["F3", "F4", "F6"],
+    "thematic_tags": ["value_investing", "risk_management", "stock_market"],
+    "priority": 2,
+    "keywords": ["value investing", "long-term", "portfolio management"],
+    "related_books": ["B3", "R54", "R57"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780060555665",
+        "goodreads": "https://goodreads.com/book/show/106835"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": ["Timeless Classic"],
+    "supplementary_materials": ["Study Guide"],
+    "series": null,
+    "influence": "Widely regarded as the bible of value investing.",
+    "sales": "Over 5 million copies sold",
+    "adaptations": ["Online Course"],
+    "criticism": "Critics note that some chapters are outdated due to changes in financial markets.",
+    "readability_score": 60,
+    "media_mentions": [
+        "https://forbes.com/investing-classics",
+        "https://investopedia.com/reviews/intelligent-investor"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of value investing successes and failures.",
+        "How Graham's students, including Warren Buffett, applied these principles."
+    ],
+    "accessibility_options": ["Large Print", "Translated into Spanish"],
+    "related_tools": ["Stock Screeners for Value Investing"],
+    "author_philosophy": "Promote disciplined, value-driven investing to avoid speculative risks.",
+    "reviews": [
+        "The best book on investing ever written. - Warren Buffett"
+    ]
+},
+{
+    "id": "B2",
+    "title": "Rich Dad's CASHFLOW Quadrant",
+    "author": "Robert T. Kiyosaki",
+    "year": 1998,
+    "isbn": "978-1612680057",
+    "pages": 352,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Aspiring Entrepreneurs", "Investors", "Beginners"],
+    "notable_quotes": [
+        "The key to financial freedom and great wealth is a person’s ability to convert earned income into passive and/or portfolio income.",
+        "Your future is created by what you do today, not tomorrow."
+    ],
+    "key_takeaways": [
+        "Understand the four quadrants of income: Employee, Self-Employed, Business Owner, and Investor.",
+        "Learn strategies to transition from active income to passive income.",
+        "Build systems that generate income even when you're not actively working."
+    ],
+    "framework_tags": ["F2", "F3", "F4"],
+    "thematic_tags": ["cashflow_quadrant", "passive_income", "financial_independence"],
+    "priority": 3,
+    "keywords": ["cashflow", "income streams", "wealth"],
+    "related_books": ["B1", "B5", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680057",
+        "goodreads": "https://goodreads.com/book/show/815219"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Cashflow Game"],
+    "series": "Rich Dad Series",
+    "influence": "Expanded on the concepts of income types and wealth-building strategies from 'Rich Dad Poor Dad.'",
+    "sales": "Over 4 million copies sold",
+    "adaptations": ["Seminars", "Online Courses"],
+    "criticism": "Some readers feel the book lacks specific actionable steps.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://entrepreneur.com/rich-dad-cashflow-review",
+        "https://investopedia.com/book-reviews/cashflow-quadrant"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of how individuals transitioned to the Investor quadrant.",
+        "Inspiring stories of people achieving financial independence through passive income."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cashflow Quadrant Chart", "Passive Income Calculators"],
+    "author_philosophy": "Empower people to achieve financial freedom through knowledge and action.",
+    "reviews": [
+        "An eye-opener for anyone stuck in the rat race. - Reader Review"
+    ]
+},
+{
+    "id": "R47",
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "year": 2020,
+    "isbn": "978-0857197689",
+    "pages": 256,
+    "publisher": "Harriman House",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Behavioral Economics"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.7,
+    "target_audience": ["General Readers", "Aspiring Investors", "Financial Advisors"],
+    "notable_quotes": [
+        "Doing well with money isn’t necessarily about what you know. It’s about how you behave.",
+        "The hardest financial skill is getting the goalpost to stop moving."
+    ],
+    "key_takeaways": [
+        "Money success is more about behavior than knowledge.",
+        "The compounding effect is the most powerful force in finance.",
+        "Long-term thinking and emotional discipline are essential to wealth building."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["behavioral_finance", "psychology_of_wealth"],
+    "priority": 4,
+    "keywords": ["psychology", "mindset", "money"],
+    "related_books": ["R34", "R24", "R12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780857197689",
+        "goodreads": "https://goodreads.com/book/show/41881472"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Business Book of the Year 2020"],
+    "supplementary_materials": null,
+    "series": null,
+    "influence": "Provides a fresh perspective on the emotional and psychological aspects of financial decision-making.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book lacks detailed actionable advice.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://wsj.com/the-psychology-of-money-review",
+        "https://forbes.com/psychology-of-money-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "The story of a janitor who amassed millions through disciplined saving.",
+        "Lessons from investors who lost fortunes due to emotional decisions."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Behavioral Finance Assessment Tools"],
+    "author_philosophy": "Simplify financial concepts to focus on what truly matters—human behavior.",
+    "reviews": [
+        "One of the best books on understanding the psychology of money. - Reader Review"
+    ]
+},
+{
+    "id": "R34",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "isbn": "978-0374533557",
+    "pages": 499,
+    "publisher": "Farrar, Straus and Giroux",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Behavioral Economics", "Psychology"],
+    "reading_time": "10-14 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Psychology Enthusiasts", "Behavioral Economists", "Decision-Makers"],
+    "notable_quotes": [
+        "Nothing in life is as important as you think it is, while you are thinking about it.",
+        "We are prone to overestimate how much we understand about the world and to underestimate the role of chance in events."
+    ],
+    "key_takeaways": [
+        "Human thinking operates on two systems: System 1 (fast, intuitive) and System 2 (slow, deliberate).",
+        "Cognitive biases can lead to errors in judgment and decision-making.",
+        "Awareness of biases and mental shortcuts can improve decision-making processes."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["decision_making", "behavioral_finance"],
+    "priority": 5,
+    "keywords": ["decision making", "thinking", "behavior"],
+    "related_books": ["R47", "R24", "R12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780374533557",
+        "goodreads": "https://goodreads.com/book/show/11468377"
+    },
+    "complexity": "Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["National Academy of Sciences Best Book Award", "Financial Times and Goldman Sachs Business Book of the Year"],
+    "supplementary_materials": ["Discussion Guides"],
+    "series": null,
+    "influence": "A groundbreaking work in behavioral economics and psychology, shaping how we understand human decision-making.",
+    "sales": "Over 3 million copies sold",
+    "adaptations": ["Corporate Training Programs", "Academic Curriculum"],
+    "criticism": "Some readers find the content dense and overly detailed.",
+    "readability_score": 50,
+    "media_mentions": [
+        "https://newyorker.com/thinking-fast-and-slow-review",
+        "https://npr.org/psychology-of-decision-making"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Experiments showing how framing a question changes people's decisions.",
+        "Examples of cognitive biases like the anchoring effect and availability heuristic."
+    ],
+    "accessibility_options": ["Translated into over 30 languages"],
+    "related_tools": ["Cognitive Bias Training Modules"],
+    "author_philosophy": "Encourage critical thinking by understanding the dual systems of thought and the biases they introduce.",
+    "reviews": [
+        "A masterpiece that everyone should read to understand their mind better. - Reader Review"
+    ]
+},
+{
+    "id": "R42",
+    "title": "The Simple Path to Wealth",
+    "author": "JL Collins",
+    "year": 2016,
+    "isbn": "978-1533667922",
+    "pages": 286,
+    "publisher": "CreateSpace Independent Publishing Platform",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.8,
+    "target_audience": ["Beginner Investors", "Financial Independence Seekers"],
+    "notable_quotes": [
+        "Spend less than you earn, invest the surplus, and avoid debt.",
+        "The stock market is a remarkably effective wealth-building tool, as long as you don't sabotage yourself."
+    ],
+    "key_takeaways": [
+        "Invest in low-cost index funds for long-term wealth creation.",
+        "Financial independence is achieved through simplicity and discipline.",
+        "Avoid debt and focus on growing passive income streams."
+    ],
+    "framework_tags": ["F2", "F3", "F4"],
+    "thematic_tags": ["passive_income", "savings_strategies", "financial_independence"],
+    "priority": 6,
+    "keywords": ["simplicity", "investing", "frugality"],
+    "related_books": ["B3", "R43", "R24"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781533667922",
+        "goodreads": "https://goodreads.com/book/show/29674495"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": null,
+    "series": null,
+    "influence": "Highly regarded in the financial independence community for its actionable advice and simplicity.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the book oversimplifies investing for beginners.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/simple-path-to-wealth-review",
+        "https://cnbc.com/personal-finance-books"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "A family achieves financial independence through index investing.",
+        "Examples of how avoiding debt can accelerate wealth-building."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Simple Path Investment Calculators"],
+    "author_philosophy": "Simplify investing and financial independence for ordinary people.",
+    "reviews": [
+        "An essential read for anyone looking to achieve financial independence. - Reader Review"
+    ]
+},
+{
+    "id": "R43",
+    "title": "Financial Freedom: A Proven Path to All the Money You Will Ever Need",
+    "author": "Grant Sabatier",
+    "year": 2019,
+    "isbn": "978-0525534594",
+    "pages": 352,
+    "publisher": "Avery",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Financial Independence"],
+    "reading_time": "7-10 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Millennials", "Financial Independence Seekers", "Early Retirees"],
+    "notable_quotes": [
+        "Money is unlimited. Time is not. Become financially independent as fast as possible.",
+        "You don’t have to live a life of deprivation to achieve financial independence."
+    ],
+    "key_takeaways": [
+        "Achieve financial independence by optimizing your income, expenses, and investments.",
+        "Start side hustles and multiple income streams to accelerate savings.",
+        "Embrace a flexible and purposeful approach to financial freedom."
+    ],
+    "framework_tags": ["F2", "F3", "F4"],
+    "thematic_tags": ["passive_income", "financial_independence", "wealth_building"],
+    "priority": 7,
+    "keywords": ["financial freedom", "passive income", "time"],
+    "related_books": ["R42", "B4", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780525534594",
+        "goodreads": "https://goodreads.com/book/show/42297935"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Online Resources"],
+    "series": null,
+    "influence": "A modern guide to achieving financial independence through practical steps and mindset shifts.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the book emphasizes side hustles too heavily.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/financial-freedom-review",
+        "https://cnbc.com/money-millennials-guide"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "A millennial achieves financial independence by age 30 through strategic investing.",
+        "Insights into creating passive income streams while working full-time."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Financial Freedom Planners", "Savings Rate Calculators"],
+    "author_philosophy": "Empower readers to achieve financial independence without sacrificing their lifestyle.",
+    "reviews": [
+        "A step-by-step guide to building wealth and reclaiming your time. - Reader Review"
+    ]
+},
+{
+    "id": "R39",
+    "title": "Your Money or Your Life",
+    "author": "Vicki Robin and Joe Dominguez",
+    "year": 1992,
+    "isbn": "978-0143115762",
+    "pages": 368,
+    "publisher": "Penguin Books",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Financial Independence"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Minimalists", "Financial Independence Seekers", "General Readers"],
+    "notable_quotes": [
+        "Money is something you trade your life energy for.",
+        "Financial independence is about having enough – and then some."
+    ],
+    "key_takeaways": [
+        "Understand the concept of life energy and its relationship to money.",
+        "Track expenses to align spending with personal values.",
+        "Achieve financial independence through saving and mindful consumption."
+    ],
+    "framework_tags": ["F1", "F3", "F4"],
+    "thematic_tags": ["budgeting", "savings_strategies", "financial_independence"],
+    "priority": 8,
+    "keywords": ["money", "values", "independence"],
+    "related_books": ["R42", "R43", "B4"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780143115762",
+        "goodreads": "https://goodreads.com/book/show/78421"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Revised and Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Budgeting Worksheets"],
+    "series": null,
+    "influence": "One of the foundational texts of the financial independence movement.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Webinars", "Workshops"],
+    "criticism": "Some readers feel the book focuses too heavily on frugality.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://cnbc.com/your-money-or-your-life-review",
+        "https://forbes.com/personal-finance-classics"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": ["Joe Dominguez"],
+    "featured_stories": [
+        "Stories of individuals achieving financial independence by reducing expenses.",
+        "Examples of people aligning their spending with their values."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Expense Tracking Sheets", "FI Calculators"],
+    "author_philosophy": "Encourage readers to find financial independence through mindfulness and value-based living.",
+    "reviews": [
+        "A life-changing book that redefines your relationship with money. - Reader Review"
+    ]
+},
+{
+    "id": "B3",
+    "title": "Rich Dad's Guide to Investing",
+    "author": "Robert T. Kiyosaki",
+    "year": 2000,
+    "isbn": "978-1612680200",
+    "pages": 480,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "8-12 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Aspiring Investors", "Intermediate Investors"],
+    "notable_quotes": [
+        "The most important investment you can make is in your own education.",
+        "Rich people don’t work for money. They have money work for them."
+    ],
+    "key_takeaways": [
+        "Learn to think like an investor and identify opportunities others overlook.",
+        "Understand how to invest in business, real estate, and other asset classes.",
+        "Develop strategies for building wealth through long-term investments."
+    ],
+    "framework_tags": ["F2", "F3", "F6"],
+    "thematic_tags": ["portfolio_income", "real_estate_investing", "wealth_building"],
+    "priority": 9,
+    "keywords": ["investing", "real estate", "wealth"],
+    "related_books": ["B1", "R7", "B5"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680200",
+        "goodreads": "https://goodreads.com/book/show/729907"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Investment Checklists"],
+    "series": "Rich Dad Series",
+    "influence": "Considered one of the key books for developing an investor mindset.",
+    "sales": "Over 3 million copies sold",
+    "adaptations": ["Seminars", "Online Courses"],
+    "criticism": "Some readers feel the book lacks detailed, actionable steps for beginners.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://investopedia.com/rich-dad-guide-to-investing-review",
+        "https://forbes.com/essential-investing-books"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of investors who achieved success through disciplined investing.",
+        "Case studies highlighting the importance of education in investing."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Investor Calculators", "Rich Dad Investing Workshops"],
+    "author_philosophy": "Help individuals develop the mindset and skills needed to succeed as investors.",
+    "reviews": [
+        "A must-read for anyone serious about becoming an investor. - Reader Review"
+    ]
+},
+{
+    "id": "R12",
+    "title": "Secrets of the Millionaire Mind",
+    "author": "T. Harv Eker",
+    "year": 2005,
+    "isbn": "978-0060763282",
+    "pages": 224,
+    "publisher": "Harper Business",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Aspiring Entrepreneurs", "Wealth Seekers"],
+    "notable_quotes": [
+        "Your income can only grow to the extent that you do.",
+        "Rich people believe 'I create my life.' Poor people believe 'Life happens to me.'"
+    ],
+    "key_takeaways": [
+        "Change your financial blueprint to align with wealth-building habits.",
+        "Understand the differences in thought patterns between the wealthy and the poor.",
+        "Adopt empowering beliefs about money and success."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["mindset_shift", "financial_education"],
+    "priority": 10,
+    "keywords": ["mindset", "habits", "wealth"],
+    "related_books": ["B1", "R47", "R38"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780060763282",
+        "goodreads": "https://goodreads.com/book/show/30107"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Success Worksheets"],
+    "series": null,
+    "influence": "Widely praised for its practical and motivational approach to wealth building.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers find the book overly simplistic and repetitive.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://entrepreneur.com/secrets-of-the-millionaire-mind-review",
+        "https://cnbc.com/wealth-mindset-books"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of individuals who transformed their financial blueprints.",
+        "Stories of overcoming limiting beliefs to achieve wealth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Mindset Assessment Tools", "Millionaire Mind Audio Programs"],
+    "author_philosophy": "Empower readers to adopt a millionaire mindset and create lasting financial change.",
+    "reviews": [
+        "A life-changing book that redefines how you think about wealth. - Reader Review"
+    ]
+},

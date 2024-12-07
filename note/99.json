@@ -608,3 +608,186 @@
         "A life-changing book that redefines how you think about wealth. - Reader Review"
     ]
 },
+{
+    "id": "R7",
+    "title": "The Millionaire Next Door",
+    "author": "Thomas J. Stanley and William D. Danko",
+    "year": 1996,
+    "isbn": "978-1589795471",
+    "pages": 272,
+    "publisher": "Taylor Trade Publishing",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Wealth Studies"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["General Readers", "Aspiring Millionaires", "Financial Planners"],
+    "notable_quotes": [
+        "Most people have it all wrong about wealth. Wealth is not the same as income.",
+        "Whatever your income, always live below your means."
+    ],
+    "key_takeaways": [
+        "Millionaires are often frugal and value financial independence over status symbols.",
+        "Building wealth is more about habits and discipline than high income.",
+        "Focus on saving and investing wisely to achieve long-term wealth."
+    ],
+    "framework_tags": ["F3", "F4"],
+    "thematic_tags": ["wealth_building", "savings_strategies"],
+    "priority": 11,
+    "keywords": ["millionaires", "habits", "savings"],
+    "related_books": ["R12", "R38", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781589795471",
+        "goodreads": "https://goodreads.com/book/show/81699"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["United States"],
+    "edition": "Revised and Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Assessment Tools"],
+    "series": null,
+    "influence": "A cornerstone book in personal finance, dispelling myths about millionaires.",
+    "sales": "Over 3 million copies sold",
+    "adaptations": ["Seminars", "Financial Planning Courses"],
+    "criticism": "Some readers feel the focus on frugality may not appeal to everyone.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/millionaire-next-door-review",
+        "https://cnbc.com/millionaire-habits-study"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": ["William D. Danko"],
+    "featured_stories": [
+        "Profiles of everyday millionaires and their financial habits.",
+        "Insights into the financial behaviors of high-net-worth individuals."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budgeting Apps", "Millionaire Assessment Worksheets"],
+    "author_philosophy": "Encourage readers to adopt disciplined financial habits to build lasting wealth.",
+    "reviews": [
+        "A must-read for understanding the true path to wealth. - Reader Review"
+    ]
+},
+{
+    "id": "B4",
+    "title": "Retire Young Retire Rich",
+    "author": "Robert T. Kiyosaki",
+    "year": 2001,
+    "isbn": "978-1612680408",
+    "pages": 272,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Aspiring Entrepreneurs", "Financial Independence Seekers"],
+    "notable_quotes": [
+        "It's not how much money you make that matters. It's how much money you keep and how hard it works for you.",
+        "Freedom is not given; it is earned."
+    ],
+    "key_takeaways": [
+        "Learn how to achieve financial independence at an early age through strategic investing.",
+        "Focus on building assets that generate passive income.",
+        "Develop a mindset that embraces risk-taking and financial education."
+    ],
+    "framework_tags": ["F2", "F3", "F7"],
+    "thematic_tags": ["financial_independence", "passive_income", "real_estate_income"],
+    "priority": 12,
+    "keywords": ["retire", "young", "freedom"],
+    "related_books": ["B1", "R42", "R43"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680408",
+        "goodreads": "https://goodreads.com/book/show/815217"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Cashflow Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Inspires readers to think big and take bold steps toward financial freedom.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the book focuses more on motivation than detailed strategies.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://cnbc.com/early-retirement-guides",
+        "https://forbes.com/retire-young-retire-rich-review"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals retiring young through disciplined investing.",
+        "Stories of leveraging real estate to achieve financial independence."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Calculators", "Passive Income Trackers"],
+    "author_philosophy": "Encourage readers to take control of their financial future and pursue early retirement.",
+    "reviews": [
+        "An inspiring book that shows early retirement is achievable. - Reader Review"
+    ]
+},
+{
+    "id": "R56",
+    "title": "The Dhandho Investor: The Low-Risk Value Method to High Returns",
+    "author": "Mohnish Pabrai",
+    "year": 2007,
+    "isbn": "978-0470043899",
+    "pages": 208,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Business"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Value Investors", "Entrepreneurs", "Beginner Investors"],
+    "notable_quotes": [
+        "Heads, I win; tails, I don’t lose much.",
+        "Entrepreneurship with minimal downside is the essence of Dhandho."
+    ],
+    "key_takeaways": [
+        "Focus on low-risk, high-return investment opportunities.",
+        "Adopt a value investing mindset inspired by the Dhandho philosophy of Indian entrepreneurs.",
+        "Use simplicity and patience as core strategies for wealth building."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["value_investing", "risk_reward"],
+    "priority": 13,
+    "keywords": ["value", "investing", "strategy"],
+    "related_books": ["R7", "R50", "R54"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470043899",
+        "goodreads": "https://goodreads.com/book/show/147911"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": null,
+    "series": null,
+    "influence": "Praised as a practical guide to value investing with actionable strategies.",
+    "sales": "Over 250,000 copies sold",
+    "adaptations": ["Seminars", "Webinars"],
+    "criticism": "Some readers feel the examples are overly simplistic for advanced investors.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/dhandho-investor-review",
+        "https://cnbc.com/value-investing-guide"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Case studies of businesses with asymmetric risk-reward profiles.",
+        "Examples of applying Dhandho principles to personal investment portfolios."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Value Investing Calculators"],
+    "author_philosophy": "Simplify investing by focusing on low-risk strategies with high returns.",
+    "reviews": [
+        "A clear and concise guide to value investing with unique insights. - Reader Review"
+    ]
+},

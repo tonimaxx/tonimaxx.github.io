@@ -791,3 +791,558 @@
         "A clear and concise guide to value investing with unique insights. - Reader Review"
     ]
 },
+{
+    "id": "R48",
+    "title": "The Little Book of Common Sense Investing",
+    "author": "John C. Bogle",
+    "year": 2007,
+    "isbn": "978-0470102107",
+    "pages": 216,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Personal Finance"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Beginner Investors", "Long-term Investors", "Financial Advisors"],
+    "notable_quotes": [
+        "Don't look for the needle in the haystack. Just buy the haystack!",
+        "Time is your friend; impulse is your enemy."
+    ],
+    "key_takeaways": [
+        "Invest in low-cost index funds to achieve long-term financial success.",
+        "Avoid market timing and speculative trading for consistent growth.",
+        "Focus on simplicity and cost efficiency in investment decisions."
+    ],
+    "framework_tags": ["F3", "F4", "F6"],
+    "thematic_tags": ["index_investing", "long_term_wealth"],
+    "priority": 14,
+    "keywords": ["common sense", "index funds", "growth"],
+    "related_books": ["R7", "R9", "R54"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470102107",
+        "goodreads": "https://goodreads.com/book/show/119991"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": ["Personal Finance Classic"],
+    "supplementary_materials": null,
+    "series": null,
+    "influence": "Widely regarded as the definitive guide to low-cost, passive investing.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Podcasts", "Investor Workshops"],
+    "criticism": "Some readers feel the book lacks advanced strategies for experienced investors.",
+    "readability_score": 90,
+    "media_mentions": [
+        "https://forbes.com/bogle-investing-review",
+        "https://cnbc.com/passive-investing-guide"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of long-term wealth accumulation through index fund investing.",
+        "Insights into the pitfalls of high-cost mutual funds."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Index Fund Calculators", "ETF Comparison Tools"],
+    "author_philosophy": "Promote passive investing as the simplest and most reliable path to financial success.",
+    "reviews": [
+        "A timeless classic that simplifies the complex world of investing. - Reader Review"
+    ]
+},
+{
+    "id": "R57",
+    "title": "The Most Important Thing: Uncommon Sense for the Thoughtful Investor",
+    "author": "Howard Marks",
+    "year": 2011,
+    "isbn": "978-0231143698",
+    "pages": 200,
+    "publisher": "Columbia University Press",
+    "format": ["Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Business"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Intermediate Investors", "Portfolio Managers", "Value Investors"],
+    "notable_quotes": [
+        "You can’t predict. You can prepare.",
+        "Risk means more things can happen than will happen."
+    ],
+    "key_takeaways": [
+        "Focus on understanding and managing risk in investing.",
+        "Recognize market cycles and their impact on investment strategies.",
+        "Adopt a contrarian approach to identify value where others overlook it."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["risk_management", "value_investing", "market_cycles"],
+    "priority": 15,
+    "keywords": ["risk", "investing", "cycles"],
+    "related_books": ["R7", "R56", "R50"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780231143698",
+        "goodreads": "https://goodreads.com/book/show/12001123"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Investor Letters"],
+    "series": null,
+    "influence": "Highly regarded for its deep insights into the philosophy of investing.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Webinars", "Keynote Talks"],
+    "criticism": "Some readers feel the content is more philosophical than practical.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/howard-marks-book-review",
+        "https://cnbc.com/investing-risk-management-guide"
+    ],
+    "cost": "$20-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of managing risk during market downturns.",
+        "Insights into recognizing investment opportunities in volatile markets."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Risk Assessment Calculators", "Market Cycle Charts"],
+    "author_philosophy": "Promote thoughtful investing by focusing on risk and market cycles.",
+    "reviews": [
+        "A masterclass on investing that everyone should read. - Reader Review"
+    ]
+},
+{
+    "id": "B5",
+    "title": "Rich Dad's Prophecy",
+    "author": "Robert T. Kiyosaki",
+    "year": 2002,
+    "isbn": "978-1612680255",
+    "pages": 272,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Aspiring Investors", "Retirement Planners", "Financial Independence Seekers"],
+    "notable_quotes": [
+        "It’s not about predicting the future, but about being prepared for it.",
+        "The biggest crisis in retirement history is coming."
+    ],
+    "key_takeaways": [
+        "Understand how financial markets impact retirement savings and planning.",
+        "Prepare for potential economic downturns through diversified investments.",
+        "Focus on building passive income streams to secure your financial future."
+    ],
+    "framework_tags": ["F3", "F6", "F7"],
+    "thematic_tags": ["economic_theories", "risk_management"],
+    "priority": 16,
+    "keywords": ["prophecy", "financial planning", "wealth"],
+    "related_books": ["B2", "R57", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680255",
+        "goodreads": "https://goodreads.com/book/show/1124"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Retirement Planning Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to take control of their retirement planning in the face of economic uncertainties.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Seminars", "Online Workshops"],
+    "criticism": "Some readers feel the book is overly alarmist and lacks actionable details.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/retirement-planning-guides",
+        "https://cnbc.com/rich-dad-prophecy-review"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of people preparing for financial crises through smart investing.",
+        "Insights into how changing market trends affect retirement planning."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Savings Calculators", "Market Trend Analysis Tools"],
+    "author_philosophy": "Empower readers to proactively prepare for financial challenges and secure their future.",
+    "reviews": [
+        "A wake-up call for anyone planning their retirement. - Reader Review"
+    ]
+},
+{
+    "id": "R27",
+    "title": "Your Money and Your Brain",
+    "author": "Jason Zweig",
+    "year": 2007,
+    "isbn": "978-0743276689",
+    "pages": 352,
+    "publisher": "Simon & Schuster",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Behavioral Finance", "Psychology"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Investors", "Behavioral Economists", "General Readers"],
+    "notable_quotes": [
+        "Understanding your emotions is the first step to mastering your money.",
+        "The brain's quirks often lead us to make irrational financial decisions."
+    ],
+    "key_takeaways": [
+        "Explore how brain science affects financial decision-making.",
+        "Identify common cognitive biases that lead to poor investment choices.",
+        "Learn strategies to counteract emotional and impulsive financial behaviors."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["behavioral_finance", "decision_making"],
+    "priority": 17,
+    "keywords": ["neuroscience", "finance", "brain"],
+    "related_books": ["R34", "R47", "R24"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780743276689",
+        "goodreads": "https://goodreads.com/book/show/178678"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": null,
+    "series": null,
+    "influence": "Pioneered the integration of neuroscience and behavioral finance for better financial decisions.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Podcasts", "Investor Psychology Workshops"],
+    "criticism": "Some readers feel the book leans heavily on academic concepts without enough practical applications.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/behavioral-finance-insights",
+        "https://wsj.com/your-money-and-your-brain-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Studies on the role of dopamine in financial decision-making.",
+        "Examples of investors overcoming cognitive biases to achieve better outcomes."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Behavioral Finance Simulators", "Cognitive Bias Tests"],
+    "author_philosophy": "Help readers make better financial decisions by understanding the brain's influence on money management.",
+    "reviews": [
+        "A fascinating look at the intersection of psychology and investing. - Reader Review"
+    ]
+},
+{
+    "id": "B6",
+    "title": "Rich Dad's Who Took My Money?",
+    "author": "Robert T. Kiyosaki",
+    "year": 2004,
+    "isbn": "978-1612680446",
+    "pages": 240,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Aspiring Investors", "Retirement Planners", "Passive Income Seekers"],
+    "notable_quotes": [
+        "Mutual funds take your money, make them money, and leave you with less money.",
+        "Money is a tool; it works for the rich, and it works against the poor."
+    ],
+    "key_takeaways": [
+        "Understand the flaws of traditional investing approaches like mutual funds.",
+        "Learn to identify and acquire income-generating assets.",
+        "Build wealth through smarter financial strategies and cashflow-focused investments."
+    ],
+    "framework_tags": ["F3", "F4", "F6"],
+    "thematic_tags": ["wealth_building", "asset_acquisition", "portfolio_income"],
+    "priority": 18,
+    "keywords": ["wealth", "money", "investing"],
+    "related_books": ["B1", "B2", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680446",
+        "goodreads": "https://goodreads.com/book/show/815220"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Assessment Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Challenges traditional investment strategies and emphasizes cashflow-based wealth building.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Seminars", "Online Courses"],
+    "criticism": "Some readers feel the book is overly critical of mutual funds without providing sufficient alternatives.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://cnbc.com/rich-dad-who-took-my-money-review",
+        "https://forbes.com/mutual-fund-investing-alternatives"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of people transitioning from mutual funds to cashflow assets.",
+        "Insights into the long-term impact of fees on investment returns."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cashflow Analyzers", "Wealth Calculators"],
+    "author_philosophy": "Encourage readers to rethink traditional investment strategies and focus on cashflow for wealth building.",
+    "reviews": [
+        "A thought-provoking book that challenges traditional financial advice. - Reader Review"
+    ]
+},
+{
+    "id": "R50",
+    "title": "Common Stocks and Uncommon Profits",
+    "author": "Philip A. Fisher",
+    "year": 1958,
+    "isbn": "978-0471445500",
+    "pages": 320,
+    "publisher": "Wiley",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Business"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Value Investors", "Financial Analysts", "Business Enthusiasts"],
+    "notable_quotes": [
+        "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+        "Conservative investors sleep well."
+    ],
+    "key_takeaways": [
+        "Learn how to identify high-quality growth stocks with long-term potential.",
+        "Understand the importance of in-depth research and a company's management quality.",
+        "Adopt a focused and disciplined approach to investing."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["value_investing", "stock_market"],
+    "priority": 19,
+    "keywords": ["stocks", "growth", "profits"],
+    "related_books": ["R7", "R56", "R48"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780471445500",
+        "goodreads": "https://goodreads.com/book/show/102240"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": null,
+    "supplementary_materials": ["Stock Analysis Templates"],
+    "series": null,
+    "influence": "One of the most influential books on growth investing, shaping the strategies of renowned investors like Warren Buffett.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the book's examples are outdated in modern markets.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/philip-fisher-investing-review",
+        "https://cnbc.com/common-stocks-uncommon-profits-analysis"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Case studies of companies with extraordinary growth potential.",
+        "Insights into Fisher's '15 Points to Look for in a Stock.'"
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Stock Valuation Calculators", "Portfolio Trackers"],
+    "author_philosophy": "Encourage investors to focus on the intrinsic value of businesses and hold quality stocks for the long term.",
+    "reviews": [
+        "A timeless guide for serious investors looking to master growth investing. - Reader Review"
+    ]
+},
+{
+    "id": "B7",
+    "title": "Rich Dad's Increase Your Financial IQ",
+    "author": "Robert T. Kiyosaki",
+    "year": 2008,
+    "isbn": "978-0446509367",
+    "pages": 224,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Beginners", "Financial Literacy Advocates"],
+    "notable_quotes": [
+        "It’s not what you make, it’s what you keep, and how hard it works for you.",
+        "The key to financial intelligence is understanding that the numbers tell a story."
+    ],
+    "key_takeaways": [
+        "Understand the five pillars of financial intelligence: making money, protecting money, budgeting money, leveraging money, and improving financial information.",
+        "Develop habits that enhance your ability to manage and grow wealth.",
+        "Embrace continuous learning to improve your financial decision-making skills."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["financial_education", "risk_management"],
+    "priority": 20,
+    "keywords": ["financial IQ", "knowledge", "management"],
+    "related_books": ["B1", "B2", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446509367",
+        "goodreads": "https://goodreads.com/book/show/25946"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial IQ Assessment Tools"],
+    "series": "Rich Dad Series",
+    "influence": "Helps readers build a solid foundation of financial knowledge and confidence.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Seminars", "Online Courses"],
+    "criticism": "Some readers feel the book is repetitive and lacks depth in specific strategies.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://cnbc.com/financial-iq-books",
+        "https://forbes.com/financial-intelligence-review"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of people improving their financial literacy to achieve wealth.",
+        "Insights into how financial intelligence reduces financial stress."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Financial IQ Quiz", "Budgeting Templates"],
+    "author_philosophy": "Teach readers how to think critically about their finances and make informed decisions.",
+    "reviews": [
+        "A practical guide for anyone looking to improve their financial skills. - Reader Review"
+    ]
+},
+{
+    "id": "R38",
+    "title": "The Millionaire Next Door",
+    "author": "Thomas J. Stanley and William D. Danko",
+    "year": 1996,
+    "isbn": "978-1589795471",
+    "pages": 272,
+    "publisher": "Taylor Trade Publishing",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Wealth Studies"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["General Readers", "Aspiring Millionaires", "Financial Planners"],
+    "notable_quotes": [
+        "Most millionaires live well below their means.",
+        "Wealth is more often the result of a lifestyle of hard work, perseverance, planning, and, most of all, self-discipline."
+    ],
+    "key_takeaways": [
+        "Most millionaires are self-made and prioritize financial independence over luxury.",
+        "Living below your means is key to wealth accumulation.",
+        "Frugality and disciplined savings are common habits among millionaires."
+    ],
+    "framework_tags": ["F3", "F7"],
+    "thematic_tags": ["wealth_building", "savings_strategies", "generational_wealth"],
+    "priority": 21,
+    "keywords": ["millionaires", "habits", "wealth"],
+    "related_books": ["R7", "R12", "B1"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781589795471",
+        "goodreads": "https://goodreads.com/book/show/81699"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["United States"],
+    "edition": "Revised and Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Assessment Tools"],
+    "series": null,
+    "influence": "One of the most influential books on personal finance, challenging stereotypes about millionaires.",
+    "sales": "Over 3 million copies sold",
+    "adaptations": ["Seminars", "Financial Planning Workshops"],
+    "criticism": "Some readers feel the focus on frugality overshadows other paths to wealth.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/millionaire-next-door-review",
+        "https://cnbc.com/wealth-habits-guide"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": ["William D. Danko"],
+    "featured_stories": [
+        "Profiles of millionaires who achieved wealth through savings and discipline.",
+        "Insights into financial behaviors that correlate with long-term wealth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budgeting Calculators", "Savings Rate Trackers"],
+    "author_philosophy": "Show readers the power of living below their means and prioritizing financial independence.",
+    "reviews": [
+        "A must-read for understanding how real millionaires think and live. - Reader Review"
+    ]
+},{
+    "id": "R54",
+    "title": "The Little Book That Still Beats the Market",
+    "author": "Joel Greenblatt",
+    "year": 2010,
+    "isbn": "978-0470624159",
+    "pages": 208,
+    "publisher": "Wiley",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Beginner Investors", "Value Investors", "Financial Advisors"],
+    "notable_quotes": [
+        "The secret to investing is to figure out the value of something – and then pay a lot less.",
+        "The stock market is there to serve you, not to guide you."
+    ],
+    "key_takeaways": [
+        "Understand the 'magic formula' for identifying undervalued stocks.",
+        "Learn how to combine simplicity with discipline in your investing strategy.",
+        "Avoid emotional decisions and focus on long-term gains."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["value_investing", "stock_market", "risk_reward"],
+    "priority": 22,
+    "keywords": ["investing", "stocks", "formula"],
+    "related_books": ["R48", "R50", "R56"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470624159",
+        "goodreads": "https://goodreads.com/book/show/816156"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Stock Screening Tools"],
+    "series": null,
+    "influence": "Simplifies investing by providing a clear, rules-based strategy for identifying stocks.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Podcasts", "Investor Workshops"],
+    "criticism": "Some readers feel the strategy may not work as effectively in modern markets.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/magic-formula-investing-review",
+        "https://cnbc.com/value-investing-strategies"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Case studies of successful applications of the magic formula.",
+        "Insights into behavioral finance and its impact on the formula's success."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Magic Formula Screeners", "Portfolio Analyzers"],
+    "author_philosophy": "Make investing accessible and effective through a simple, formulaic approach.",
+    "reviews": [
+        "A brilliant book that simplifies stock investing for the average person. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+

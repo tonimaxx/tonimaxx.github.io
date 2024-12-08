@@ -3598,6 +3598,754 @@
         "A must-read for those serious about unconventional stock market strategies. - Reader Review"
     ]
 },
+{
+    "id": "S1",
+    "title": "ESG Investing For Dummies",
+    "author": "Brendan Bradley",
+    "year": 2021,
+    "isbn": "978-1119771085",
+    "pages": 384,
+    "publisher": "For Dummies",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Investing", "Sustainability"],
+    "reading_time": "9-11 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Beginner Investors", "Ethical Investors", "Finance Professionals"],
+    "notable_quotes": [
+        "Good investing isn’t just about profit—it’s about purpose.",
+        "ESG investing allows you to align your portfolio with your values."
+    ],
+    "key_takeaways": [
+        "Learn the fundamentals of Environmental, Social, and Governance (ESG) investing.",
+        "Understand how ESG metrics are evaluated and used in investment decisions.",
+        "Discover the financial and societal benefits of sustainable investing."
+    ],
+    "framework_tags": ["F8"],
+    "thematic_tags": ["esg_investing", "sustainable_finance", "impact_investing"],
+    "priority": 60,
+    "keywords": ["ESG", "sustainability", "investing"],
+    "related_books": ["S2", "S3", "R45"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781119771085",
+        "goodreads": "https://goodreads.com/book/show/55813902"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["ESG Metrics Templates", "Investment Case Studies"],
+    "series": "For Dummies Series",
+    "influence": "Widely considered a comprehensive and accessible introduction to ESG investing.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Webinars", "Workshops"],
+    "criticism": "Some readers feel the book simplifies complex ESG evaluation processes.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/esg-investing-for-dummies-review",
+        "https://cnbc.com/understanding-esg-investing"
+    ],
+    "cost": "$20-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of companies excelling in ESG metrics and their impact on investment portfolios.",
+        "Insights into the growing importance of sustainability in finance."
+    ],
+    "accessibility_options": ["Available in digital formats"],
+    "related_tools": ["ESG Screening Platforms", "Sustainable Portfolio Tools"],
+    "author_philosophy": "Make ESG investing approachable and actionable for everyday investors.",
+    "reviews": [
+        "A practical and easy-to-understand guide to sustainable investing. - Reader Review"
+    ]
+},
+{
+    "id": "S2",
+    "title": "Conscious Capitalism: Liberating the Heroic Spirit of Business",
+    "author": "John Mackey, Rajendra Sisodia",
+    "year": 2013,
+    "isbn": "978-1422144206",
+    "pages": 368,
+    "publisher": "Harvard Business Review Press",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Business", "Leadership", "Philosophy"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Business Leaders", "Entrepreneurs", "Ethical Investors"],
+    "notable_quotes": [
+        "Conscious businesses create value for all stakeholders, not just shareholders.",
+        "Purpose beyond profit drives innovation and long-term success."
+    ],
+    "key_takeaways": [
+        "Learn the principles of conscious capitalism, focusing on ethical business practices.",
+        "Understand how purpose-driven companies achieve sustainable success.",
+        "Discover how businesses can create value for all stakeholders."
+    ],
+    "framework_tags": ["F8"],
+    "thematic_tags": ["ethical_capitalism", "philanthropy", "sustainable_finance"],
+    "priority": 61,
+    "keywords": ["capitalism", "ethics", "sustainability"],
+    "related_books": ["S1", "S3", "R79"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781422144206",
+        "goodreads": "https://goodreads.com/book/show/15819746"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Inc. Magazine Business Book of the Year"],
+    "supplementary_materials": ["Case Studies on Ethical Businesses"],
+    "series": null,
+    "influence": "Considered a manifesto for modern businesses aiming to align profitability with purpose.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Workshops", "Conferences"],
+    "criticism": "Some readers feel the book is overly idealistic and lacks actionable advice.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/conscious-capitalism-review",
+        "https://cnbc.com/ethical-business-practices"
+    ],
+    "cost": "$20-$40",
+    "contains_illustrations": false,
+    "co_authors": ["Rajendra Sisodia"],
+    "featured_stories": [
+        "Examples of companies thriving by focusing on ethical practices.",
+        "Insights into leadership strategies for fostering purpose-driven organizations."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Stakeholder Analysis Tools", "Ethical Investment Guides"],
+    "author_philosophy": "Advocate for a business paradigm that prioritizes ethics and stakeholder value alongside profitability.",
+    "reviews": [
+        "An inspiring guide to creating meaningful and impactful businesses. - Reader Review"
+    ]
+},
+{
+    "id": "S3",
+    "title": "Impact Investing: Transforming How We Make Money While Making a Difference",
+    "author": "Antony Bugg-Levine, Jed Emerson",
+    "year": 2011,
+    "isbn": "978-0470907214",
+    "pages": 336,
+    "publisher": "Jossey-Bass",
+    "format": ["Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Finance", "Sustainability"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Investors", "Philanthropists", "Finance Professionals"],
+    "notable_quotes": [
+        "Profit and purpose are not mutually exclusive; they are mutually reinforcing.",
+        "Impact investing bridges the gap between philanthropy and profit."
+    ],
+    "key_takeaways": [
+        "Learn the fundamentals of impact investing and its role in addressing global challenges.",
+        "Understand how to align investments with personal values and societal needs.",
+        "Discover strategies for generating both financial returns and social impact."
+    ],
+    "framework_tags": ["F8"],
+    "thematic_tags": ["impact_investing", "esg_investing", "sustainable_finance"],
+    "priority": 62,
+    "keywords": ["impact", "investing", "values"],
+    "related_books": ["S1", "S2", "R65"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470907214",
+        "goodreads": "https://goodreads.com/book/show/11825420"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Impact Evaluation Frameworks", "Case Studies"],
+    "series": null,
+    "influence": "A seminal text that established impact investing as a transformative approach to finance.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Conferences", "Seminars"],
+    "criticism": "Some readers feel the book is more theoretical than practical.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/impact-investing-review",
+        "https://cnbc.com/social-impact-investing"
+    ],
+    "cost": "$25-$40",
+    "contains_illustrations": false,
+    "co_authors": ["Jed Emerson"],
+    "featured_stories": [
+        "Examples of successful impact investment projects driving social change.",
+        "Insights into the challenges of measuring social and environmental returns."
+    ],
+    "accessibility_options": ["Available in digital formats"],
+    "related_tools": ["Impact Measurement Platforms", "Social Impact Assessment Tools"],
+    "author_philosophy": "Promote a financial system where capital drives both profit and meaningful social change.",
+    "reviews": [
+        "An insightful and compelling introduction to the world of impact investing. - Reader Review"
+    ]
+},
+{
+    "id": "P4",
+    "title": "How to Retire Happy, Wild, and Free: Retirement Wisdom That You Won't Get from Your Financial Advisor",
+    "author": "Ernie J. Zelinski",
+    "year": 2004,
+    "isbn": "978-0969419495",
+    "pages": 240,
+    "publisher": "Visions International Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Retirees", "Pre-Retirees", "Financial Planners"],
+    "notable_quotes": [
+        "Retirement is not about financial freedom alone; it’s about life satisfaction.",
+        "The key to retirement is to find joy and purpose in every day."
+    ],
+    "key_takeaways": [
+        "Discover the non-financial aspects of retirement planning for a fulfilling life.",
+        "Learn strategies to achieve happiness, health, and personal growth in retirement.",
+        "Understand the importance of meaningful activities and relationships post-retirement."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["retirement_planning", "financial_independence", "long_term_wealth"],
+    "priority": 63,
+    "keywords": ["retirement", "freedom", "happiness"],
+    "related_books": ["P5", "R82", "R44"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780969419495",
+        "goodreads": "https://goodreads.com/book/show/316547"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Life Planning Worksheets"],
+    "series": null,
+    "influence": "Considered a transformative guide for retirees seeking a balanced, joyful post-work life.",
+    "sales": "Over 400,000 copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book lacks detailed financial advice.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/retire-happy-review",
+        "https://cnbc.com/retirement-lifestyle-tips"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of retirees finding passion and joy in their golden years.",
+        "Examples of creative and unconventional retirement lifestyles."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Planning Apps", "Lifestyle Budgeting Tools"],
+    "author_philosophy": "Encourage retirees to focus on joy, purpose, and personal growth alongside financial independence.",
+    "reviews": [
+        "A beautifully written guide to living your best retirement. - Reader Review"
+    ]
+},
+{
+    "id": "P5",
+    "title": "The Bogleheads' Guide to Retirement Planning",
+    "author": "Taylor Larimore, Mel Lindauer, Richard A. Ferri, Laura F. Dogu",
+    "year": 2009,
+    "isbn": "978-0470455579",
+    "pages": 400,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "9-11 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Retirees", "Pre-Retirees", "Financial Planners"],
+    "notable_quotes": [
+        "Planning for retirement is not optional; it’s essential.",
+        "The simpler your plan, the more likely you are to stick with it."
+    ],
+    "key_takeaways": [
+        "Learn step-by-step strategies for creating a comprehensive retirement plan.",
+        "Understand how to minimize taxes and maximize retirement savings.",
+        "Discover the principles of frugality, simplicity, and discipline in retirement planning."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["retirement_planning", "index_investing", "financial_independence"],
+    "priority": 64,
+    "keywords": ["retirement", "planning", "Bogleheads"],
+    "related_books": ["P4", "R66", "R71"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470455579",
+        "goodreads": "https://goodreads.com/book/show/7012082"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["USA"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Retirement Savings Calculators", "Tax Optimization Tools"],
+    "series": "Bogleheads Series",
+    "influence": "A widely respected resource for creating effective retirement plans based on the principles of John Bogle.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Online Forums", "Webinars"],
+    "criticism": "Some readers feel the book is overly focused on U.S.-specific strategies.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/bogleheads-guide-review",
+        "https://cnbc.com/retirement-planning-tips"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": false,
+    "co_authors": [
+        "Mel Lindauer",
+        "Richard A. Ferri",
+        "Laura F. Dogu"
+    ],
+    "featured_stories": [
+        "Examples of individuals successfully implementing the Bogleheads' retirement strategies.",
+        "Insights into managing market risks and ensuring steady income during retirement."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Index Fund Trackers", "Retirement Budget Planners"],
+    "author_philosophy": "Promote simplicity and evidence-based investing principles for achieving financial security in retirement.",
+    "reviews": [
+        "An essential resource for anyone planning their retirement. - Reader Review"
+    ]
+},
+{
+    "id": "P6",
+    "title": "Retirement Planning Made Simple: Everything You Need to Know to Navigate Retirement",
+    "author": "Noel Whittaker",
+    "year": 2016,
+    "isbn": "978-0855724730",
+    "pages": 256,
+    "publisher": "Simon & Schuster Australia",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Pre-Retirees", "Retirees", "Financial Planners"],
+    "notable_quotes": [
+        "Retirement is a journey, not a destination.",
+        "Planning early is the key to a secure and happy retirement."
+    ],
+    "key_takeaways": [
+        "Learn the essentials of retirement planning in a clear and concise format.",
+        "Understand strategies for managing expenses and generating income post-retirement.",
+        "Discover actionable tips for achieving both financial and emotional readiness for retirement."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["retirement_planning", "long_term_wealth", "financial_independence"],
+    "priority": 65,
+    "keywords": ["retirement", "simple", "planning"],
+    "related_books": ["P4", "P5", "R82"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780855724730",
+        "goodreads": "https://goodreads.com/book/show/30282743"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Australia", "Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Retirement Checklist", "Budget Planning Templates"],
+    "series": null,
+    "influence": "Recognized as a practical and approachable guide for first-time retirement planners.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Seminars", "Webinars"],
+    "criticism": "Some readers feel the book oversimplifies complex retirement scenarios.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/retirement-made-simple-review",
+        "https://cnbc.com/simple-retirement-planning"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals navigating retirement confidently with simple strategies.",
+        "Insights into the importance of balancing financial and emotional readiness."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["Retirement Budget Calculators", "Income Projection Tools"],
+    "author_philosophy": "Simplify the complexities of retirement planning to make it accessible and effective for everyone.",
+    "reviews": [
+        "A perfect starting point for anyone new to retirement planning. - Reader Review"
+    ]
+},
+{
+    "id": "R65",
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "year": 1776,
+    "isbn": "978-0140432084",
+    "pages": 1264,
+    "publisher": "Penguin Classics",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Economics", "Philosophy"],
+    "reading_time": "40-50 hours",
+    "average_rating": 4.1,
+    "target_audience": ["Economists", "Policy Makers", "Historians"],
+    "notable_quotes": [
+        "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.",
+        "The division of labor, however, so far as it can be introduced, occasions, in every art, a proportionable increase of the productive powers of labor."
+    ],
+    "key_takeaways": [
+        "Understand the foundational principles of free markets and capitalism.",
+        "Learn about the division of labor, specialization, and their impact on productivity.",
+        "Discover the origins of economic theories that shape modern economies."
+    ],
+    "framework_tags": ["F9"],
+    "thematic_tags": ["economic_history", "global_markets", "economic_theories"],
+    "priority": 66,
+    "keywords": ["economics", "capitalism", "markets"],
+    "related_books": ["R45", "R79", "S2"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780140432084",
+        "goodreads": "https://goodreads.com/book/show/25678"
+    },
+    "complexity": "Advanced",
+    "region_focus": ["Global"],
+    "edition": "Unabridged Edition",
+    "awards": null,
+    "supplementary_materials": ["Commentary Editions", "Historical Analysis"],
+    "series": null,
+    "influence": "A foundational text for economics, laying the groundwork for classical and modern economic theory.",
+    "sales": "Over 1 million copies sold globally",
+    "adaptations": ["Documentaries", "Lectures"],
+    "criticism": "Some readers find the language and length challenging for modern audiences.",
+    "readability_score": 60,
+    "media_mentions": [
+        "https://forbes.com/wealth-of-nations-review",
+        "https://cnbc.com/classic-economic-texts"
+    ],
+    "cost": "$20-$40",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "How 'The Wealth of Nations' influenced policy-making during the industrial revolution.",
+        "Insights into the historical context of free market principles."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Economic Theory Analyzers", "Historical Economics Databases"],
+    "author_philosophy": "Advocate for the efficiency of free markets and the importance of self-interest in driving economic prosperity.",
+    "reviews": [
+        "A monumental work in the history of economic thought. - Reader Review"
+    ]
+},
+{
+    "id": "R66",
+    "title": "The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life",
+    "author": "JL Collins",
+    "year": 2016,
+    "isbn": "978-1533667922",
+    "pages": 286,
+    "publisher": "CreateSpace Independent Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Beginner Investors", "Financial Independence Seekers", "Young Professionals"],
+    "notable_quotes": [
+        "Spend less than you earn, invest the surplus, and avoid debt.",
+        "The stock market is a powerful wealth-building tool if used correctly."
+    ],
+    "key_takeaways": [
+        "Learn the importance of low-cost index fund investing for building wealth.",
+        "Understand how to achieve financial independence through simplicity and discipline.",
+        "Discover strategies for managing your finances to achieve a rich and free life."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["index_investing", "financial_independence", "savings_strategies"],
+    "priority": 67,
+    "keywords": ["simplicity", "wealth", "index funds"],
+    "related_books": ["P5", "R42", "R71"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781533667922",
+        "goodreads": "https://goodreads.com/book/show/30664956"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["USA"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Savings Rate Calculators", "Budgeting Worksheets"],
+    "series": null,
+    "influence": "Widely regarded as a must-read for individuals pursuing financial independence through simple investing strategies.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Podcasts", "Webinars"],
+    "criticism": "Some readers feel the book is too focused on U.S.-specific investing tools and tax systems.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/simple-path-to-wealth-review",
+        "https://cnbc.com/index-investing-strategies"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals achieving financial independence by following the book's principles.",
+        "Insights into avoiding common investing mistakes."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Calculators", "Investment Trackers"],
+    "author_philosophy": "Simplify personal finance and investing to make wealth-building accessible for everyone.",
+    "reviews": [
+        "An essential read for those new to personal finance and investing. - Reader Review"
+    ]
+},
+{
+    "id": "T4",
+    "title": "Fintech Explained: The Revolution in Financial Technology",
+    "author": "David Kuo, Sarah E. Brummitt",
+    "year": 2020,
+    "isbn": "978-1119773812",
+    "pages": 320,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Finance", "Technology", "Business"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Finance Professionals", "Tech Enthusiasts", "Business Leaders"],
+    "notable_quotes": [
+        "Fintech is not just a trend; it’s the future of finance.",
+        "The intersection of finance and technology is reshaping the world."
+    ],
+    "key_takeaways": [
+        "Learn about the key innovations in financial technology, such as blockchain and digital payments.",
+        "Understand how fintech is disrupting traditional banking and investment models.",
+        "Discover the implications of fintech on global financial systems and personal finance."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["fintech", "cryptocurrency", "economic_history"],
+    "priority": 68,
+    "keywords": ["fintech", "technology", "finance"],
+    "related_books": ["T2", "T5", "R45"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781119773812",
+        "goodreads": "https://goodreads.com/book/show/52381148"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Blockchain Case Studies", "Digital Payment Trends"],
+    "series": null,
+    "influence": "A comprehensive guide for understanding the rapidly evolving field of financial technology.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Workshops", "Podcasts"],
+    "criticism": "Some readers feel the book is more descriptive than analytical.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/fintech-explained-review",
+        "https://cnbc.com/fintech-trends-2020"
+    ],
+    "cost": "$20-$30",
+    "contains_illustrations": true,
+    "co_authors": ["Sarah E. Brummitt"],
+    "featured_stories": [
+        "Examples of fintech startups disrupting traditional banking systems.",
+        "Insights into how financial technology is increasing accessibility to global markets."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["Blockchain Explorers", "Digital Wallet Apps"],
+    "author_philosophy": "Empower readers to understand and leverage financial technology for business and personal growth.",
+    "reviews": [
+        "An insightful and well-structured introduction to the fintech revolution. - Reader Review"
+    ]
+},
+{
+    "id": "T5",
+    "title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+    "author": "Nathaniel Popper",
+    "year": 2015,
+    "isbn": "978-0062362506",
+    "pages": 416,
+    "publisher": "Harper Business",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Finance", "Technology", "History"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Tech Enthusiasts", "Investors", "Economists"],
+    "notable_quotes": [
+        "Bitcoin is the most dangerous technological project since the internet itself.",
+        "The goal of Bitcoin was never just to reinvent money but to reinvent trust."
+    ],
+    "key_takeaways": [
+        "Learn about the history and development of Bitcoin and blockchain technology.",
+        "Understand the role of key figures in Bitcoin's rise and its global impact.",
+        "Discover the challenges and controversies surrounding cryptocurrency."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["cryptocurrency", "economic_theories", "risk_management"],
+    "priority": 69,
+    "keywords": ["Bitcoin", "crypto", "history"],
+    "related_books": ["T4", "R36", "R75"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780062362506",
+        "goodreads": "https://goodreads.com/book/show/23546676"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Financial Times Business Book of the Year Finalist"],
+    "supplementary_materials": ["Bitcoin History Timelines", "Blockchain Explainers"],
+    "series": null,
+    "influence": "A key text in understanding the origins and significance of Bitcoin and cryptocurrency.",
+    "sales": "Over 250,000 copies sold",
+    "adaptations": ["Documentaries", "Podcasts"],
+    "criticism": "Some readers feel the book focuses too much on the personalities and less on the technology.",
+    "readability_score": 82,
+    "media_mentions": [
+        "https://forbes.com/digital-gold-review",
+        "https://cnbc.com/bitcoin-history-insights"
+    ],
+    "cost": "$15-$35",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "The rise of Bitcoin and its transformation from a niche technology to a global phenomenon.",
+        "Profiles of the innovators and risk-takers who shaped Bitcoin's early days."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cryptocurrency Wallets", "Bitcoin Explorers"],
+    "author_philosophy": "Unveil the human and technological drama behind the rise of Bitcoin as a transformative financial tool.",
+    "reviews": [
+        "An enthralling narrative that captures the spirit of the Bitcoin revolution. - Reader Review"
+    ]
+},
+{
+    "id": "R67",
+    "title": "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing",
+    "author": "Burton G. Malkiel",
+    "year": 1973,
+    "isbn": "978-0393358384",
+    "pages": 448,
+    "publisher": "W.W. Norton & Company",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance", "Economics"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Beginner Investors", "Finance Enthusiasts", "Economists"],
+    "notable_quotes": [
+        "The market is more efficient than you think, but not always rational.",
+        "Diversification is the only free lunch in investing."
+    ],
+    "key_takeaways": [
+        "Understand the principles of efficient markets and why indexing often outperforms active trading.",
+        "Learn about the history of financial bubbles and behavioral finance insights.",
+        "Discover practical, low-risk investment strategies for long-term success."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["index_investing", "risk_management", "stock_market"],
+    "priority": 70,
+    "keywords": ["markets", "indexing", "stocks"],
+    "related_books": ["R66", "R48", "R9"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780393358384",
+        "goodreads": "https://goodreads.com/book/show/81710"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Investment Checklists", "Historical Bubble Analyses"],
+    "series": null,
+    "influence": "A foundational text in personal finance and investing, introducing countless readers to the power of indexing.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book is overly focused on U.S. markets.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/random-walk-review",
+        "https://cnbc.com/investing-beginners-guide"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of how index investing outperformed active trading over decades.",
+        "Insights into behavioral finance and the role of psychology in market movements."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Index Fund Trackers", "Portfolio Balancers"],
+    "author_philosophy": "Educate readers on the importance of diversification and low-cost investing for long-term wealth building.",
+    "reviews": [
+        "An indispensable guide for anyone serious about investing. - Reader Review"
+    ]
+},
+{
+    "id": "R68",
+    "title": "The Intelligent Asset Allocator: How to Build Your Portfolio to Maximize Returns and Minimize Risk",
+    "author": "William J. Bernstein",
+    "year": 2001,
+    "isbn": "978-0071362368",
+    "pages": 240,
+    "publisher": "McGraw-Hill Education",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Individual Investors", "Finance Enthusiasts", "Portfolio Managers"],
+    "notable_quotes": [
+        "Asset allocation is the most important decision you will make as an investor.",
+        "A diversified portfolio is the key to steady, long-term growth."
+    ],
+    "key_takeaways": [
+        "Learn the principles of portfolio diversification and how to balance risk and return.",
+        "Understand the mathematical foundations of asset allocation.",
+        "Discover practical strategies for constructing a portfolio suited to your goals and risk tolerance."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["portfolio_income", "risk_management", "long_term_wealth"],
+    "priority": 71,
+    "keywords": ["asset", "allocation", "portfolio"],
+    "related_books": ["R66", "R67", "R57"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780071362368",
+        "goodreads": "https://goodreads.com/book/show/155924"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Portfolio Allocation Models", "Risk Assessment Tools"],
+    "series": null,
+    "influence": "A highly respected guide for investors looking to optimize their portfolios through diversification and asset allocation.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Online Courses", "Webinars"],
+    "criticism": "Some readers find the book too technical for beginners.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/intelligent-asset-allocator-review",
+        "https://cnbc.com/asset-allocation-strategies"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of portfolios that achieved steady returns through diversification.",
+        "Insights into the impact of market cycles on asset allocation."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["Portfolio Management Software", "Asset Allocation Calculators"],
+    "author_philosophy": "Promote a disciplined, mathematical approach to building investment portfolios.",
+    "reviews": [
+        "An essential resource for understanding the science of asset allocation. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

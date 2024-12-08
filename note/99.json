@@ -4334,6 +4334,1061 @@
         "An essential resource for understanding the science of asset allocation. - Reader Review"
     ]
 },
+{
+    "id": "R69",
+    "title": "Principles for Success",
+    "author": "Ray Dalio",
+    "year": 2019,
+    "isbn": "978-1982147211",
+    "pages": 160,
+    "publisher": "Avid Reader Press / Simon & Schuster",
+    "format": ["Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Business", "Leadership", "Self-Help"],
+    "reading_time": "3-5 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Entrepreneurs", "Leaders", "Young Professionals"],
+    "notable_quotes": [
+        "Principles are ways of successfully dealing with the realities of life to get what you want.",
+        "Pain plus reflection equals progress."
+    ],
+    "key_takeaways": [
+        "Learn actionable principles for achieving personal and professional success.",
+        "Understand how to reflect on experiences to continuously improve decision-making.",
+        "Discover the importance of adaptability and strong relationships in reaching your goals."
+    ],
+    "framework_tags": ["F1", "F8"],
+    "thematic_tags": ["leadership", "decision_making", "ethical_capitalism"],
+    "priority": 72,
+    "keywords": ["principles", "success", "finance"],
+    "related_books": ["R58", "R30", "S2"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781982147211",
+        "goodreads": "https://goodreads.com/book/show/43726450"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Illustrated Edition",
+    "awards": null,
+    "supplementary_materials": ["Workbooks", "Guided Reflection Templates"],
+    "series": "Principles Series",
+    "influence": "Widely regarded as an accessible introduction to the life lessons and strategies outlined in 'Principles' by Ray Dalio.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Online Course", "Workshops"],
+    "criticism": "Some readers feel the concepts are too simplified compared to the original 'Principles' book.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/ray-dalio-principles-review",
+        "https://cnbc.com/principles-for-success"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life applications of Dalio's principles in leadership and business.",
+        "Examples of individuals transforming challenges into successes using reflection."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Principles Life Assessment Tool", "Leadership Strategy Framework"],
+    "author_philosophy": "Simplify complex concepts to make success strategies accessible and actionable for everyone.",
+    "reviews": [
+        "An inspiring and beautifully illustrated guide to life and success. - Reader Review"
+    ]
+},
+{
+    "id": "B20",
+    "title": "Rich Dad's FAKE: Fake Money, Fake Teachers, Fake Assets",
+    "author": "Robert T. Kiyosaki",
+    "year": 2019,
+    "isbn": "978-1612680842",
+    "pages": 240,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Economics"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Aspiring Investors", "Financial Literacy Seekers", "Economics Enthusiasts"],
+    "notable_quotes": [
+        "Fake money, fake teachers, and fake assets are destroying the world.",
+        "Knowledge is the new money."
+    ],
+    "key_takeaways": [
+        "Understand how traditional financial systems and advice often mislead individuals.",
+        "Learn how to identify and invest in real, tangible assets.",
+        "Discover why financial education is essential for navigating today’s economic challenges."
+    ],
+    "framework_tags": ["F1", "F9"],
+    "thematic_tags": ["economic_theories", "financial_education", "wealth_building"],
+    "priority": 73,
+    "keywords": ["fake", "money", "education"],
+    "related_books": ["B1", "B2", "R45"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680842",
+        "goodreads": "https://goodreads.com/book/show/43237434"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Workbooks on Real Assets", "Financial Literacy Games"],
+    "series": "Rich Dad Series",
+    "influence": "A provocative critique of traditional financial systems and education, promoting financial literacy as a solution.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Seminars", "Webinars"],
+    "criticism": "Some readers feel the book is overly critical without providing sufficient solutions.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/fake-money-book-review",
+        "https://cnbc.com/kiyosaki-financial-literacy"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of individuals overcoming financial illiteracy using Kiyosaki’s principles.",
+        "Insights into the history and flaws of traditional financial systems."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Rich Dad Calculator", "Asset Evaluation Framework"],
+    "author_philosophy": "Challenge conventional financial wisdom to empower individuals with real-world knowledge and strategies.",
+    "reviews": [
+        "A wake-up call to rethink how we view money and education. - Reader Review"
+    ]
+},
+{
+    "id": "B21",
+    "title": "Rich Dad's Second Chance: For Your Money, Your Life and Our World",
+    "author": "Robert T. Kiyosaki",
+    "year": 2015,
+    "isbn": "978-1612680460",
+    "pages": 320,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Aspiring Investors", "Entrepreneurs", "Finance Enthusiasts"],
+    "notable_quotes": [
+        "Every crisis is an opportunity in disguise.",
+        "The key to success is to take action with the right knowledge and tools."
+    ],
+    "key_takeaways": [
+        "Learn how to identify financial opportunities during times of crisis.",
+        "Understand the importance of taking control of your financial future.",
+        "Discover strategies for building resilience in uncertain economic environments."
+    ],
+    "framework_tags": ["F1", "F3"],
+    "thematic_tags": ["wealth_building", "mindset_shift", "economic_theories"],
+    "priority": 74,
+    "keywords": ["second", "chance", "wealth"],
+    "related_books": ["B1", "B5", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680460",
+        "goodreads": "https://goodreads.com/book/show/23631734"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Planning Checklists", "Economic Resilience Guides"],
+    "series": "Rich Dad Series",
+    "influence": "A practical guide for turning financial challenges into opportunities for growth and wealth creation.",
+    "sales": "Over 400,000 copies sold",
+    "adaptations": ["Workshops", "Podcasts"],
+    "criticism": "Some readers feel the book reiterates points from previous Rich Dad books.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/second-chance-review",
+        "https://cnbc.com/financial-crisis-opportunities"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals who rebuilt their finances after setbacks.",
+        "Insights into leveraging crises as a springboard for success."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Crisis Opportunity Analyzer", "Financial Recovery Framework"],
+    "author_philosophy": "Inspire readers to view crises as opportunities to transform their financial future.",
+    "reviews": [
+        "A motivating and insightful read for those seeking financial freedom. - Reader Review"
+    ]
+},
+{
+    "id": "R70",
+    "title": "How the Stock Market Works: A Beginner's Guide to Investment",
+    "author": "Michael Becket",
+    "year": 2014,
+    "isbn": "978-0749474224",
+    "pages": 184,
+    "publisher": "Kogan Page",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.0,
+    "target_audience": ["Beginner Investors", "Young Professionals", "Finance Students"],
+    "notable_quotes": [
+        "The stock market is not just a casino; it is a place for disciplined wealth-building.",
+        "Understanding how the market works is the first step to becoming a successful investor."
+    ],
+    "key_takeaways": [
+        "Learn the fundamentals of the stock market, including how stocks are traded.",
+        "Understand key investment terms and strategies for beginners.",
+        "Discover how to identify and evaluate investment opportunities."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["stock_market", "investing_basics", "portfolio_income"],
+    "priority": 75,
+    "keywords": ["stocks", "market", "basics"],
+    "related_books": ["R67", "R63", "R48"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780749474224",
+        "goodreads": "https://goodreads.com/book/show/24430457"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Fifth Edition",
+    "awards": null,
+    "supplementary_materials": ["Investment Glossary", "Market Trend Analyses"],
+    "series": null,
+    "influence": "A popular introductory guide to stock market investing for those with no prior knowledge.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Online Tutorials", "Beginner Investor Webinars"],
+    "criticism": "Some readers feel the book is too basic for those with prior investment knowledge.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/stock-market-basics-review",
+        "https://cnbc.com/guide-to-stock-market"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of how understanding stock market basics led to successful investments.",
+        "Insights into common mistakes beginners make when investing."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["Stock Market Simulators", "Beginner Investing Apps"],
+    "author_philosophy": "Educate and empower beginner investors to approach the stock market with confidence.",
+    "reviews": [
+        "A fantastic starting point for anyone looking to understand the stock market. - Reader Review"
+    ]
+},
+{
+    "id": "R71",
+    "title": "The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich",
+    "author": "David Bach",
+    "year": 2004,
+    "isbn": "978-0767914109",
+    "pages": 272,
+    "publisher": "Crown Business",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Young Professionals", "Beginner Investors", "Personal Finance Enthusiasts"],
+    "notable_quotes": [
+        "You don’t need to be rich to live rich.",
+        "Pay yourself first and let the power of compounding work its magic."
+    ],
+    "key_takeaways": [
+        "Learn how to automate your finances to achieve financial independence effortlessly.",
+        "Discover the power of small changes, such as saving a portion of your income consistently.",
+        "Understand how to live a financially stress-free life through discipline and simplicity."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["savings_strategies", "financial_independence", "wealth_building"],
+    "priority": 76,
+    "keywords": ["automatic", "wealth", "millionaire"],
+    "related_books": ["R66", "R44", "P5"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780767914109",
+        "goodreads": "https://goodreads.com/book/show/60896"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": ["New York Times Bestseller"],
+    "supplementary_materials": ["Budgeting Worksheets", "Savings Rate Calculators"],
+    "series": "Finish Rich Series",
+    "influence": "Widely regarded as a practical guide for achieving financial freedom through automation.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the advice is too basic for those already managing their finances effectively.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/automatic-millionaire-review",
+        "https://cnbc.com/automated-saving-strategies"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals transforming their financial future by automating savings.",
+        "Insights into how compounding interest builds wealth over time."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Automated Savings Apps", "Compound Interest Calculators"],
+    "author_philosophy": "Simplify financial planning to make wealth-building accessible for everyone.",
+    "reviews": [
+        "A must-read for anyone looking to take control of their finances. - Reader Review"
+    ]
+},
+{
+    "id": "R72",
+    "title": "The Richest Man in Babylon",
+    "author": "George S. Clason",
+    "year": 1926,
+    "isbn": "978-0451205360",
+    "pages": 144,
+    "publisher": "Signet",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help", "Classics"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Personal Finance Enthusiasts", "Young Professionals", "Students"],
+    "notable_quotes": [
+        "A part of all you earn is yours to keep.",
+        "Gold laboring diligently and multiplying under the guidance of its wise owner is a true treasure."
+    ],
+    "key_takeaways": [
+        "Learn timeless principles of wealth-building through storytelling.",
+        "Discover the importance of saving, investing, and financial discipline.",
+        "Understand how to overcome financial challenges using simple yet effective strategies."
+    ],
+    "framework_tags": ["F3", "F4"],
+    "thematic_tags": ["savings_strategies", "financial_independence", "wealth_building"],
+    "priority": 77,
+    "keywords": ["Babylon", "wealth", "lessons"],
+    "related_books": ["R44", "R66", "P4"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780451205360",
+        "goodreads": "https://goodreads.com/book/show/1052"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Modern Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Principles Posters", "Saving Challenges"],
+    "series": null,
+    "influence": "Considered a classic in personal finance, with lessons still relevant nearly a century after publication.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Audiobook Dramatizations", "Workshops"],
+    "criticism": "Some readers find the language and archaic storytelling style dated.",
+    "readability_score": 90,
+    "media_mentions": [
+        "https://forbes.com/richest-man-in-babylon-review",
+        "https://cnbc.com/timeless-financial-advice"
+    ],
+    "cost": "$5-$15",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of ancient Babylonian wisdom on saving and growing wealth.",
+        "Insights into the enduring power of simple financial principles."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budgeting Worksheets", "Savings Calculators"],
+    "author_philosophy": "Teach financial literacy through parables and storytelling to make concepts relatable and memorable.",
+    "reviews": [
+        "A timeless classic that should be on everyone’s bookshelf. - Reader Review"
+    ]
+},
+{
+    "id": "R73",
+    "title": "Your Money and Your Brain: How the New Science of Neuroeconomics Can Help Make You Rich",
+    "author": "Jason Zweig",
+    "year": 2007,
+    "isbn": "978-0743276688",
+    "pages": 352,
+    "publisher": "Simon & Schuster",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Psychology", "Behavioral Science"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Investors", "Psychology Enthusiasts", "Finance Professionals"],
+    "notable_quotes": [
+        "The brain is not designed to make you rich. It’s designed to keep you alive.",
+        "Emotions are the enemy of financial decisions."
+    ],
+    "key_takeaways": [
+        "Learn how cognitive biases affect financial decisions and investment behavior.",
+        "Discover strategies to overcome emotional pitfalls and make rational choices.",
+        "Understand the intersection of neuroscience and economics to improve financial outcomes."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["behavioral_finance", "decision_making", "psychology_of_wealth"],
+    "priority": 78,
+    "keywords": ["neuroscience", "finance", "decisions"],
+    "related_books": ["R34", "R24", "B7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780743276688",
+        "goodreads": "https://goodreads.com/book/show/140652"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Cognitive Bias Worksheets", "Behavioral Finance Frameworks"],
+    "series": null,
+    "influence": "A groundbreaking exploration of how neuroscience can improve financial decision-making.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Podcasts", "Workshops"],
+    "criticism": "Some readers find the book too theoretical and lacking actionable advice.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/money-and-brain-review",
+        "https://cnbc.com/behavioral-finance-insights"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of investors overcoming biases to achieve better financial outcomes.",
+        "Insights into how understanding the brain can prevent common financial mistakes."
+    ],
+    "accessibility_options": ["Available in audiobook format"],
+    "related_tools": ["Behavioral Bias Analyzers", "Decision-Making Simulators"],
+    "author_philosophy": "Empower individuals with knowledge of cognitive biases to make smarter financial choices.",
+    "reviews": [
+        "An eye-opening look at the hidden forces driving our financial decisions. - Reader Review"
+    ]
+},
+{
+    "id": "R74",
+    "title": "The Little Book of Value Investing",
+    "author": "Christopher H. Browne",
+    "year": 2006,
+    "isbn": "978-0470055892",
+    "pages": 208,
+    "publisher": "Wiley",
+    "format": ["Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Individual Investors", "Value Investing Enthusiasts", "Beginner Investors"],
+    "notable_quotes": [
+        "The stock market is a device for transferring money from the impatient to the patient.",
+        "Value investing is about buying a business for less than it’s worth."
+    ],
+    "key_takeaways": [
+        "Learn the fundamental principles of value investing as outlined by legendary investors.",
+        "Understand how to identify undervalued companies for long-term investment.",
+        "Discover the importance of patience and discipline in achieving investment success."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["value_investing", "stock_market", "long_term_wealth"],
+    "priority": 79,
+    "keywords": ["value", "investing", "stocks"],
+    "related_books": ["R48", "R57", "R9"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470055892",
+        "goodreads": "https://goodreads.com/book/show/63450"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Value Investing Checklists", "Stock Analysis Templates"],
+    "series": "Little Book Series",
+    "influence": "A concise and practical guide to value investing, suitable for beginners and experienced investors alike.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Webinars", "Online Courses"],
+    "criticism": "Some readers find the book too focused on basic concepts without exploring advanced strategies.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/little-book-value-investing-review",
+        "https://cnbc.com/value-investing-strategies"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of successful value investing strategies over the decades.",
+        "Insights into how patience and research lead to superior returns."
+    ],
+    "accessibility_options": ["Available in audiobook format"],
+    "related_tools": ["Value Stock Screeners", "Portfolio Management Tools"],
+    "author_philosophy": "Promote disciplined, long-term investing strategies to achieve consistent returns.",
+    "reviews": [
+        "A perfect introduction to the art of value investing. - Reader Review"
+    ]
+},
+{
+    "id": "R75",
+    "title": "Manias, Panics, and Crashes: A History of Financial Crises",
+    "author": "Charles P. Kindleberger",
+    "year": 1978,
+    "isbn": "978-0231179245",
+    "pages": 368,
+    "publisher": "Palgrave Macmillan",
+    "format": ["Paperback", "Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Economics", "Finance", "History"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Economists", "Historians", "Finance Professionals"],
+    "notable_quotes": [
+        "Speculation, as old as humanity, will never vanish.",
+        "Markets are moved by waves of euphoria and despair."
+    ],
+    "key_takeaways": [
+        "Understand the historical patterns of financial bubbles, manias, and crashes.",
+        "Learn how irrational behavior and speculative excesses lead to economic crises.",
+        "Discover the role of central banks and policy decisions in mitigating or exacerbating crises."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["economic_history", "market_cycles", "risk_management"],
+    "priority": 80,
+    "keywords": ["manias", "panics", "crashes"],
+    "related_books": ["R57", "R45", "T5"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780231179245",
+        "goodreads": "https://goodreads.com/book/show/295739"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": null,
+    "supplementary_materials": ["Crisis Timelines", "Market Cycle Analysis"],
+    "series": null,
+    "influence": "A definitive resource on understanding financial crises, providing lessons from history to prevent future disasters.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Documentaries", "University Courses"],
+    "criticism": "Some readers find the analysis dense and academic.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/manias-panics-crashes-review",
+        "https://cnbc.com/financial-crisis-lessons"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Insights into famous crises such as the South Sea Bubble and the Great Depression.",
+        "Historical lessons from speculative excesses and their aftermaths."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Market Cycle Analyzers", "Crisis Prediction Models"],
+    "author_philosophy": "Study historical crises to understand and mitigate future financial turbulence.",
+    "reviews": [
+        "An essential read for understanding the anatomy of financial crises. - Reader Review"
+    ]
+},
+{
+    "id": "B22",
+    "title": "Rich Dad's Retire Young Retire Rich",
+    "author": "Robert T. Kiyosaki",
+    "year": 2002,
+    "isbn": "978-0446678438",
+    "pages": 320,
+    "publisher": "Warner Books",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Aspiring Retirees", "Young Professionals", "Investors"],
+    "notable_quotes": [
+        "Your wealth is determined by how much money you make while you're not working.",
+        "Financial freedom comes to those who take control of their finances."
+    ],
+    "key_takeaways": [
+        "Learn strategies to achieve financial independence and retire early.",
+        "Understand how to build passive income streams through investments and businesses.",
+        "Discover the mindset and steps needed to break free from the rat race."
+    ],
+    "framework_tags": ["F2", "F3", "F7"],
+    "thematic_tags": ["financial_independence", "passive_income", "wealth_building"],
+    "priority": 81,
+    "keywords": ["retire", "young", "freedom"],
+    "related_books": ["B1", "B3", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446678438",
+        "goodreads": "https://goodreads.com/book/show/81921"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Passive Income Planning Guides", "Investment Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "A motivational guide for those seeking financial freedom at an early age through discipline and strategic investments.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Webinars", "Seminars"],
+    "criticism": "Some readers feel the book focuses more on mindset and less on actionable steps.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/retire-young-review",
+        "https://cnbc.com/early-retirement-strategies"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals who achieved early retirement using Kiyosaki's principles.",
+        "Insights into overcoming financial hurdles to achieve freedom."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cashflow Quadrant Analyzers", "Passive Income Generators"],
+    "author_philosophy": "Encourage readers to pursue financial independence and freedom through education and action.",
+    "reviews": [
+        "An inspiring guide for anyone aiming to retire on their own terms. - Reader Review"
+    ]
+},
+{
+    "id": "B23",
+    "title": "Rich Dad's Midas Touch: Why Some Entrepreneurs Get Rich—and Why Most Don't",
+    "author": "Robert T. Kiyosaki, Donald J. Trump",
+    "year": 2011,
+    "isbn": "978-1612680958",
+    "pages": 288,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Entrepreneurship", "Personal Finance", "Business"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.1,
+    "target_audience": ["Entrepreneurs", "Business Owners", "Investors"],
+    "notable_quotes": [
+        "The ability to see opportunities is the essence of an entrepreneur.",
+        "It's not how much money you make, but how much you keep, how hard it works for you, and how many generations you keep it for."
+    ],
+    "key_takeaways": [
+        "Understand the traits that successful entrepreneurs possess.",
+        "Learn strategies to grow a business into a scalable and profitable venture.",
+        "Discover insights into managing risks and seizing opportunities as an entrepreneur."
+    ],
+    "framework_tags": ["F5", "F6"],
+    "thematic_tags": ["entrepreneurship", "business_growth", "leadership"],
+    "priority": 82,
+    "keywords": ["Midas", "touch", "entrepreneurship"],
+    "related_books": ["B11", "R30", "R62"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680958",
+        "goodreads": "https://goodreads.com/book/show/11542211"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Business Growth Checklists", "Risk Management Frameworks"],
+    "series": "Rich Dad Series",
+    "influence": "Offers a unique blend of perspectives from two successful entrepreneurs to inspire and guide future business leaders.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Online Seminars"],
+    "criticism": "Some readers feel the book is repetitive and lacks depth compared to other entrepreneurial guides.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/midas-touch-review",
+        "https://cnbc.com/entrepreneurship-lessons"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": ["Donald J. Trump"],
+    "featured_stories": [
+        "Case studies of businesses that succeeded by leveraging entrepreneurial principles.",
+        "Insights into the financial pitfalls many entrepreneurs face and how to overcome them."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Business Plan Templates", "Leadership Development Programs"],
+    "author_philosophy": "Empower entrepreneurs to achieve sustainable success by combining vision with strategic execution.",
+    "reviews": [
+        "A valuable guide for entrepreneurs looking to build lasting wealth. - Reader Review"
+    ]
+},
+{
+    "id": "R76",
+    "title": "The Millionaire Mind",
+    "author": "Thomas J. Stanley",
+    "year": 2000,
+    "isbn": "978-0740718587",
+    "pages": 416,
+    "publisher": "Andrews McMeel Publishing",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Personal Finance Enthusiasts", "Young Professionals", "Entrepreneurs"],
+    "notable_quotes": [
+        "Most millionaires achieved their wealth by working hard, living below their means, and making sound investments.",
+        "Financial success is not determined by luck, but by mindset and habits."
+    ],
+    "key_takeaways": [
+        "Understand the traits and behaviors that differentiate millionaires from others.",
+        "Learn how millionaires think about money, success, and risk.",
+        "Discover strategies for cultivating a mindset that supports wealth accumulation."
+    ],
+    "framework_tags": ["F1", "F3"],
+    "thematic_tags": ["mindset_shift", "wealth_building", "generational_wealth"],
+    "priority": 83,
+    "keywords": ["millionaires", "mind", "wealth"],
+    "related_books": ["R7", "R12", "B7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780740718587",
+        "goodreads": "https://goodreads.com/book/show/141054"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["USA"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Planning Worksheets", "Millionaire Habit Guides"],
+    "series": "Millionaire Series",
+    "influence": "A deep dive into the mindset and habits that lead to financial success, building on 'The Millionaire Next Door.'",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Online Courses", "Workshops"],
+    "criticism": "Some readers feel the book is repetitive and overly focused on U.S.-specific data.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/millionaire-mind-review",
+        "https://cnbc.com/millionaire-habits"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Profiles of self-made millionaires and their approaches to money and life.",
+        "Insights into how early financial habits shape long-term wealth outcomes."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Wealth Accumulation Calculators", "Habit Tracking Apps"],
+    "author_philosophy": "Promote the understanding that wealth-building is accessible through disciplined habits and the right mindset.",
+    "reviews": [
+        "A must-read for anyone wanting to understand the true nature of wealth. - Reader Review"
+    ]
+},
+{
+    "id": "R77",
+    "title": "The Automatic Millionaire: A Powerful One-Step Plan to Live and Finish Rich",
+    "author": "David Bach",
+    "year": 2004,
+    "isbn": "978-0767914109",
+    "pages": 272,
+    "publisher": "Crown Business",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Young Professionals", "Beginner Investors", "Personal Finance Enthusiasts"],
+    "notable_quotes": [
+        "You don’t need to be rich to live rich.",
+        "Pay yourself first and let the power of compounding work its magic."
+    ],
+    "key_takeaways": [
+        "Learn how to automate your finances to achieve financial independence effortlessly.",
+        "Discover the power of small changes, such as saving a portion of your income consistently.",
+        "Understand how to live a financially stress-free life through discipline and simplicity."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["savings_strategies", "financial_independence", "wealth_building"],
+    "priority": 84,
+    "keywords": ["automatic", "millionaire", "wealth"],
+    "related_books": ["R44", "R66", "P5"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780767914109",
+        "goodreads": "https://goodreads.com/book/show/60896"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": ["New York Times Bestseller"],
+    "supplementary_materials": ["Budgeting Worksheets", "Savings Rate Calculators"],
+    "series": "Finish Rich Series",
+    "influence": "Widely regarded as a practical guide for achieving financial freedom through automation.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the advice is too basic for those already managing their finances effectively.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/automatic-millionaire-review",
+        "https://cnbc.com/automated-saving-strategies"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals transforming their financial future by automating savings.",
+        "Insights into how compounding interest builds wealth over time."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Automated Savings Apps", "Compound Interest Calculators"],
+    "author_philosophy": "Simplify financial planning to make wealth-building accessible for everyone.",
+    "reviews": [
+        "A must-read for anyone looking to take control of their finances. - Reader Review"
+    ]
+},
+{
+    "id": "R78",
+    "title": "The Wealthy Gardener: Life Lessons on Prosperity Between Father and Son",
+    "author": "John Soforic",
+    "year": 2019,
+    "isbn": "978-0593189740",
+    "pages": 432,
+    "publisher": "Portfolio",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help", "Motivational"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Personal Finance Enthusiasts", "Parents", "Young Professionals"],
+    "notable_quotes": [
+        "Wealth is the reward for solving the problems of others.",
+        "Discipline is the bridge between goals and accomplishment."
+    ],
+    "key_takeaways": [
+        "Learn timeless financial principles through storytelling.",
+        "Discover strategies for creating prosperity while living a meaningful life.",
+        "Understand the importance of discipline and purposeful action in achieving wealth."
+    ],
+    "framework_tags": ["F1", "F3"],
+    "thematic_tags": ["wealth_building", "mindset_shift", "savings_strategies"],
+    "priority": 85,
+    "keywords": ["gardener", "wealth", "purpose"],
+    "related_books": ["R72", "B7", "P4"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780593189740",
+        "goodreads": "https://goodreads.com/book/show/43686472"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Life Planning Worksheets", "Savings and Investment Checklists"],
+    "series": null,
+    "influence": "A heartfelt narrative blending financial wisdom with life lessons, appealing to readers seeking purpose alongside prosperity.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the storytelling approach detracts from actionable advice.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/wealthy-gardener-review",
+        "https://cnbc.com/life-lessons-finance"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "A father’s lessons to his son on building wealth and living meaningfully.",
+        "Insights into how discipline and generosity lead to long-term success."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Life Goal Planners", "Financial Independence Frameworks"],
+    "author_philosophy": "Promote a balanced approach to wealth-building, focusing on financial success and life satisfaction.",
+    "reviews": [
+        "A beautifully written and practical guide to building a prosperous and meaningful life. - Reader Review"
+    ]
+},
+{
+    "id": "R79",
+    "title": "Family Fortunes: How to Build Family Wealth and Hold Onto It for 100 Years",
+    "author": "Bill Bonner, Will Bonner",
+    "year": 2012,
+    "isbn": "978-1118171411",
+    "pages": 352,
+    "publisher": "Wiley",
+    "format": ["Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Generational Wealth", "Family Business"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Families", "Wealth Managers", "Entrepreneurs"],
+    "notable_quotes": [
+        "Wealth is built over generations, not overnight.",
+        "The greatest wealth is the legacy you leave behind."
+    ],
+    "key_takeaways": [
+        "Learn strategies for building and preserving wealth across generations.",
+        "Understand the importance of family governance and values in maintaining wealth.",
+        "Discover practical tools for estate planning and succession management."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["generational_wealth", "estate_planning", "long_term_wealth"],
+    "priority": 86,
+    "keywords": ["family", "fortunes", "wealth"],
+    "related_books": ["P2", "P3", "R38"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781118171411",
+        "goodreads": "https://goodreads.com/book/show/13521254"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Estate Planning Templates", "Family Wealth Governance Guides"],
+    "series": null,
+    "influence": "A comprehensive guide for families aiming to create sustainable wealth that lasts for generations.",
+    "sales": "Over 150,000 copies sold",
+    "adaptations": ["Seminars", "Workshops"],
+    "criticism": "Some readers feel the book emphasizes family wealth models that are difficult to replicate for smaller families.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/family-fortunes-review",
+        "https://cnbc.com/generational-wealth-strategies"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": false,
+    "co_authors": ["Will Bonner"],
+    "featured_stories": [
+        "Examples of families successfully preserving wealth for multiple generations.",
+        "Insights into the pitfalls of wealth mismanagement and how to avoid them."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Wealth Succession Planners", "Family Constitution Templates"],
+    "author_philosophy": "Encourage families to combine practical financial strategies with shared values to achieve lasting prosperity.",
+    "reviews": [
+        "A vital resource for families serious about wealth preservation. - Reader Review"
+    ]
+},
+{
+    "id": "B24",
+    "title": "Rich Dad's Fake Teachers: Why the Education System is Failing You and What to Do About It",
+    "author": "Robert T. Kiyosaki",
+    "year": 2019,
+    "isbn": "978-1612680972",
+    "pages": 224,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Education", "Personal Finance"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Students", "Young Professionals", "Educators"],
+    "notable_quotes": [
+        "Real education is about real-world lessons, not academic theory.",
+        "Your best teacher is experience, not a lecture hall."
+    ],
+    "key_takeaways": [
+        "Understand the limitations of traditional education in teaching financial literacy.",
+        "Learn how to identify and avoid advice from 'fake teachers.'",
+        "Discover alternative ways to gain real-world financial knowledge."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["financial_education", "mindset_shift"],
+    "priority": 87,
+    "keywords": ["fake", "teachers", "education"],
+    "related_books": ["B16", "R34", "R41"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680972",
+        "goodreads": "https://goodreads.com/book/show/43237432"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Literacy Workbooks", "Alternative Education Resources"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to challenge conventional wisdom about education and take control of their learning journey.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the book lacks actionable solutions beyond critiquing traditional education.",
+    "readability_score": 82,
+    "media_mentions": [
+        "https://forbes.com/rich-dad-fake-teachers-review",
+        "https://cnbc.com/education-reform-discussion"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals who found success outside the traditional education system.",
+        "Insights into how to seek practical, hands-on financial education."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Rich Dad Education Platforms", "Alternative Learning Apps"],
+    "author_philosophy": "Empower individuals to question conventional education and seek practical, real-world learning opportunities.",
+    "reviews": [
+        "A thought-provoking critique of the education system and its impact on financial literacy. - Reader Review"
+    ]
+},
+{
+    "id": "R80",
+    "title": "Wealth Can't Wait: Avoid the 7 Wealth Traps, Implement the 7 Business Pillars, and Complete a Life Audit Today!",
+    "author": "David Osborn, Paul Morris",
+    "year": 2017,
+    "isbn": "978-1626344197",
+    "pages": 400,
+    "publisher": "Greenleaf Book Group Press",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Entrepreneurship"],
+    "reading_time": "9-11 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Entrepreneurs", "Investors", "Personal Development Enthusiasts"],
+    "notable_quotes": [
+        "Wealth isn't just money; it's freedom, impact, and the ability to live life on your terms.",
+        "Small, consistent actions lead to big, extraordinary results over time."
+    ],
+    "key_takeaways": [
+        "Learn to identify and overcome common wealth traps that hinder financial success.",
+        "Discover a step-by-step framework for building wealth through actionable business principles.",
+        "Understand the importance of mindset, discipline, and focus in achieving financial goals."
+    ],
+    "framework_tags": ["F3", "F7"],
+    "thematic_tags": ["wealth_building", "generational_wealth", "financial_independence"],
+    "priority": 88,
+    "keywords": ["wealth", "strategy", "success"],
+    "related_books": ["R72", "P1", "B22"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781626344197",
+        "goodreads": "https://goodreads.com/book/show/30961831"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Building Worksheets", "Business Pillar Checklists"],
+    "series": null,
+    "influence": "A comprehensive guide combining wealth-building strategies with personal development to inspire actionable change.",
+    "sales": "Over 150,000 copies sold",
+    "adaptations": ["Webinars", "Workshops"],
+    "criticism": "Some readers feel the book's length makes it less accessible for casual readers.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/wealth-cant-wait-review",
+        "https://cnbc.com/financial-freedom-strategies"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": ["Paul Morris"],
+    "featured_stories": [
+        "Case studies of entrepreneurs who applied the principles to achieve wealth.",
+        "Insights into breaking free from societal norms about money and success."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Wealth Tracker Apps", "Life Audit Frameworks"],
+    "author_philosophy": "Empower individuals to take proactive steps toward wealth and freedom without delay.",
+    "reviews": [
+        "A powerful book that bridges personal finance and personal growth. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

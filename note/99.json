@@ -5371,6 +5371,689 @@
         "A powerful book that bridges personal finance and personal growth. - Reader Review"
     ]
 },
+{
+    "id": "S4",
+    "title": "Sustainable Investing Essentials: How to Invest in a Better World",
+    "author": "Graham Sinclair",
+    "year": 2020,
+    "isbn": "978-1119773676",
+    "pages": 320,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Sustainable Finance", "Investing"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Ethical Investors", "Finance Professionals", "Environmental Advocates"],
+    "notable_quotes": [
+        "Sustainable investing aligns profits with purpose.",
+        "Your investments can be a tool for global change."
+    ],
+    "key_takeaways": [
+        "Understand the principles of Environmental, Social, and Governance (ESG) investing.",
+        "Learn how to balance financial returns with social and environmental impact.",
+        "Discover tools and strategies for identifying sustainable investment opportunities."
+    ],
+    "framework_tags": ["F8"],
+    "thematic_tags": ["sustainable_finance", "impact_investing", "esg_investing"],
+    "priority": 89,
+    "keywords": ["sustainability", "investing", "essentials"],
+    "related_books": ["S5", "R45", "T2"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781119773676",
+        "goodreads": "https://goodreads.com/book/show/52483282"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["ESG Investing Frameworks", "Sustainable Investment Checklists"],
+    "series": null,
+    "influence": "Provides practical insights for investors seeking to align financial goals with sustainability objectives.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Online Seminars", "Webinars"],
+    "criticism": "Some readers feel the book lacks in-depth case studies on specific sustainable investments.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/sustainable-investing-review",
+        "https://cnbc.com/guide-to-esg-investing"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of successful ESG investments and their impact.",
+        "Insights into how sustainable finance can drive global change."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["ESG Score Calculators", "Sustainable Portfolio Managers"],
+    "author_philosophy": "Empower investors to make a positive difference through informed and purposeful investment decisions.",
+    "reviews": [
+        "A timely and essential read for anyone looking to invest ethically. - Reader Review"
+    ]
+},
+{
+    "id": "S5",
+    "title": "ESG Investing: How to Do Good and Do Well",
+    "author": "John Hill",
+    "year": 2021,
+    "isbn": "978-1119776370",
+    "pages": 288,
+    "publisher": "Wiley",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Sustainable Finance", "Investing"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Ethical Investors", "Finance Professionals", "Social Impact Advocates"],
+    "notable_quotes": [
+        "Investing with values is no longer an option; it’s the future.",
+        "Align your portfolio with your principles without sacrificing returns."
+    ],
+    "key_takeaways": [
+        "Explore how Environmental, Social, and Governance (ESG) factors influence investment strategies.",
+        "Learn practical ways to integrate ESG considerations into your portfolio.",
+        "Understand the impact of sustainable investing on global markets."
+    ],
+    "framework_tags": ["F8"],
+    "thematic_tags": ["esg_investing", "sustainable_finance", "impact_investing"],
+    "priority": 90,
+    "keywords": ["ESG", "investing", "impact"],
+    "related_books": ["S4", "T2", "R45"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781119776370",
+        "goodreads": "https://goodreads.com/book/show/54792147"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Impact Investing Checklists", "ESG Portfolio Strategies"],
+    "series": null,
+    "influence": "An actionable guide for investors looking to combine ethical values with financial returns.",
+    "sales": "Over 75,000 copies sold",
+    "adaptations": ["Webinars", "Investment Workshops"],
+    "criticism": "Some readers feel the book lacks depth in certain ESG areas, like social impact metrics.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/esg-investing-review",
+        "https://cnbc.com/guide-to-sustainable-investing"
+    ],
+    "cost": "$25-$40",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Case studies of investors successfully implementing ESG strategies.",
+        "Insights into how ESG metrics shape long-term financial performance."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["ESG Investment Screeners", "Impact Tracking Tools"],
+    "author_philosophy": "Encourage a future where financial success and positive societal impact coexist.",
+    "reviews": [
+        "A must-read for the modern investor committed to both profit and purpose. - Reader Review"
+    ]
+},
+{
+    "id": "B25",
+    "title": "Rich Dad's Midas Touch for Women: Why Women Can Build Wealth Better Than Men",
+    "author": "Robert T. Kiyosaki, Kim Kiyosaki",
+    "year": 2020,
+    "isbn": "978-1612681047",
+    "pages": 256,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Entrepreneurship", "Women Empowerment"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Women Entrepreneurs", "Female Investors", "Professionals"],
+    "notable_quotes": [
+        "Wealth is not gender-specific; it’s about mindset and action.",
+        "Women have a unique advantage in building and sustaining wealth."
+    ],
+    "key_takeaways": [
+        "Understand how women can leverage their unique strengths to build wealth.",
+        "Learn strategies for financial independence tailored to women.",
+        "Discover tools for balancing business growth and personal goals."
+    ],
+    "framework_tags": ["F5", "F7"],
+    "thematic_tags": ["entrepreneurship", "leadership", "financial_independence"],
+    "priority": 91,
+    "keywords": ["Midas", "women", "entrepreneurship"],
+    "related_books": ["B11", "B7", "R38"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612681047",
+        "goodreads": "https://goodreads.com/book/show/54399134"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Planning Guides for Women", "Entrepreneurial Mindset Checklists"],
+    "series": "Rich Dad Series",
+    "influence": "A motivational and practical guide empowering women to achieve financial independence and entrepreneurial success.",
+    "sales": "Over 150,000 copies sold",
+    "adaptations": ["Online Seminars", "Workshops"],
+    "criticism": "Some readers feel the book could have included more case studies of successful women entrepreneurs.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/women-wealth-building-review",
+        "https://cnbc.com/financial-independence-for-women"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": ["Kim Kiyosaki"],
+    "featured_stories": [
+        "Success stories of women entrepreneurs who broke barriers.",
+        "Insights into overcoming societal and financial challenges unique to women."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Women-Focused Business Incubators", "Networking Platforms for Female Leaders"],
+    "author_philosophy": "Empower women to harness their strengths and achieve financial freedom through education and entrepreneurship.",
+    "reviews": [
+        "An inspiring and empowering read for women looking to take charge of their finances. - Reader Review"
+    ]
+},
+{
+    "id": "R81",
+    "title": "Conscious Wealth: Building a Life of Purpose and Prosperity",
+    "author": "Brandon Hatton",
+    "year": 2020,
+    "isbn": "978-1734761303",
+    "pages": 240,
+    "publisher": "Integral Publishers",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help", "Mindfulness"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Mindfulness Enthusiasts", "Investors", "Personal Development Advocates"],
+    "notable_quotes": [
+        "Wealth is not measured by numbers but by the richness of life.",
+        "Purpose transforms prosperity into conscious wealth."
+    ],
+    "key_takeaways": [
+        "Learn how to align financial decisions with personal values and life purpose.",
+        "Discover tools to achieve prosperity without compromising on mindfulness.",
+        "Understand the importance of legacy and meaningful wealth creation."
+    ],
+    "framework_tags": ["F1", "F8"],
+    "thematic_tags": ["ethical_capitalism", "mindset_shift", "sustainable_finance"],
+    "priority": 92,
+    "keywords": ["conscious", "wealth", "mindfulness"],
+    "related_books": ["R78", "S4", "P2"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781734761303",
+        "goodreads": "https://goodreads.com/book/show/55180431"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Mindful Wealth Planning Guides", "Purpose Discovery Worksheets"],
+    "series": null,
+    "influence": "A modern guide for integrating mindfulness and purpose into financial success.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Mindfulness Workshops", "Podcasts"],
+    "criticism": "Some readers feel the book is more philosophical than practical.",
+    "readability_score": 82,
+    "media_mentions": [
+        "https://forbes.com/conscious-wealth-review",
+        "https://cnbc.com/mindfulness-and-finance"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of individuals who aligned their financial goals with personal values.",
+        "Insights into balancing material wealth with emotional and spiritual well-being."
+    ],
+    "accessibility_options": ["Available in eBook format"],
+    "related_tools": ["Mindfulness Apps", "Ethical Investment Platforms"],
+    "author_philosophy": "Encourage readers to approach wealth-building holistically, prioritizing purpose and values.",
+    "reviews": [
+        "An enlightening book that bridges finance and mindfulness seamlessly. - Reader Review"
+    ]
+},
+{
+    "id": "R82",
+    "title": "Retire Inspired: It's Not an Age, It's a Financial Number",
+    "author": "Chris Hogan",
+    "year": 2016,
+    "isbn": "978-1937077815",
+    "pages": 256,
+    "publisher": "Ramsey Press",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Retirement Planning"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Aspiring Retirees", "Middle-Aged Professionals", "Financial Planners"],
+    "notable_quotes": [
+        "Retirement isn’t an age; it’s a financial number.",
+        "The earlier you start, the more options you’ll have."
+    ],
+    "key_takeaways": [
+        "Learn how to calculate the financial number needed for retirement.",
+        "Understand the importance of planning and saving early.",
+        "Discover actionable steps to align your lifestyle with retirement goals."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["retirement_planning", "long_term_wealth", "financial_independence"],
+    "priority": 93,
+    "keywords": ["retire", "inspiration", "stability"],
+    "related_books": ["P4", "P5", "R44"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781937077815",
+        "goodreads": "https://goodreads.com/book/show/26067256"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["USA"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Retirement Planning Checklists", "Savings Goal Calculators"],
+    "series": null,
+    "influence": "Motivates readers to approach retirement planning proactively and redefine traditional notions of retirement.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the book is overly U.S.-centric in its advice.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/retire-inspired-review",
+        "https://cnbc.com/retirement-strategies"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of individuals who successfully transitioned into retirement through careful planning.",
+        "Examples of how small financial changes can have a big impact over time."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Calculators", "Savings Rate Trackers"],
+    "author_philosophy": "Encourage people to take ownership of their retirement journey by setting clear goals and staying disciplined.",
+    "reviews": [
+        "An excellent guide to retirement planning that feels both personal and practical. - Reader Review"
+    ]
+},
+{
+    "id": "R83",
+    "title": "Financial Freedom: A Proven Path to All the Money You Will Ever Need",
+    "author": "Grant Sabatier",
+    "year": 2019,
+    "isbn": "978-0525534594",
+    "pages": 352,
+    "publisher": "Avery",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Financial Independence"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Young Professionals", "Aspiring Retirees", "Personal Finance Enthusiasts"],
+    "notable_quotes": [
+        "Money is unlimited, but time is not.",
+        "Financial freedom is about having the choice to live your life on your own terms."
+    ],
+    "key_takeaways": [
+        "Learn how to fast-track your path to financial independence with practical strategies.",
+        "Understand how to maximize income streams, reduce expenses, and invest wisely.",
+        "Discover ways to align your financial goals with your values and lifestyle."
+    ],
+    "framework_tags": ["F2", "F3"],
+    "thematic_tags": ["passive_income", "wealth_building", "financial_independence"],
+    "priority": 94,
+    "keywords": ["freedom", "financial", "path"],
+    "related_books": ["B22", "R39", "R42"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780525534594",
+        "goodreads": "https://goodreads.com/book/show/39963357"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Savings and Investment Calculators", "Financial Freedom Goal Planners"],
+    "series": null,
+    "influence": "Empowers readers with a clear roadmap to achieving financial independence and redefining success.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Podcasts", "Workshops"],
+    "criticism": "Some readers feel the advice is more practical for high-income earners.",
+    "readability_score": 82,
+    "media_mentions": [
+        "https://forbes.com/financial-freedom-review",
+        "https://cnbc.com/achieving-financial-independence"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Stories of individuals who achieved financial freedom using Sabatier's methods.",
+        "Insights into overcoming common financial hurdles on the path to independence."
+    ],
+    "accessibility_options": ["Available in audiobook format"],
+    "related_tools": ["Passive Income Trackers", "Financial Freedom Planners"],
+    "author_philosophy": "Encourage people to take actionable steps toward financial independence while embracing a meaningful life.",
+    "reviews": [
+        "An inspirational and practical guide to breaking free from financial constraints. - Reader Review"
+    ]
+},
+{
+    "id": "B26",
+    "title": "Rich Dad's Cashflow Quadrant for Millennials",
+    "author": "Robert T. Kiyosaki",
+    "year": 2020,
+    "isbn": "978-1612681085",
+    "pages": 288,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Generational Finance"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Millennials", "Young Professionals", "Aspiring Investors"],
+    "notable_quotes": [
+        "The path to financial freedom starts with understanding where you are in the quadrant.",
+        "Millennials have the power to redefine what financial success looks like."
+    ],
+    "key_takeaways": [
+        "Learn how millennials can navigate the Cashflow Quadrant to achieve financial independence.",
+        "Understand the differences between being an employee, self-employed, business owner, and investor.",
+        "Discover practical strategies tailored for younger generations to build wealth."
+    ],
+    "framework_tags": ["F2", "F4"],
+    "thematic_tags": ["cashflow_quadrant", "passive_income", "wealth_building"],
+    "priority": 95,
+    "keywords": ["Cashflow", "millennials", "freedom"],
+    "related_books": ["B1", "B2", "R85"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612681085",
+        "goodreads": "https://goodreads.com/book/show/54198410"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Millennial Wealth Guides", "Cashflow Planning Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Provides millennials with a fresh perspective on achieving financial success through the Cashflow Quadrant framework.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Seminars", "Online Courses"],
+    "criticism": "Some readers feel the content overlaps heavily with the original 'Cashflow Quadrant' book.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/millennial-cashflow-review",
+        "https://cnbc.com/financial-advice-for-millennials"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Case studies of millennials successfully transitioning to financial independence.",
+        "Insights into how millennials can leverage technology and entrepreneurship for wealth building."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cashflow Quadrant Apps", "Financial Independence Calculators"],
+    "author_philosophy": "Encourage younger generations to think outside the box and pursue financial freedom through strategic choices.",
+    "reviews": [
+        "A modern twist on the classic Cashflow Quadrant, perfect for millennials. - Reader Review"
+    ]
+},
+{
+    "id": "B27",
+    "title": "Rich Dad's Guide to Tax-Free Wealth",
+    "author": "Robert T. Kiyosaki, Tom Wheelwright",
+    "year": 2018,
+    "isbn": "978-1937832209",
+    "pages": 320,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Taxation"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Business Owners", "Investors", "Professionals"],
+    "notable_quotes": [
+        "It’s not about how much money you make, but how much money you keep.",
+        "Tax planning is a proactive, not reactive, process."
+    ],
+    "key_takeaways": [
+        "Understand how to legally reduce your tax burden and increase wealth.",
+        "Learn strategies for tax-free investing and wealth preservation.",
+        "Discover how to leverage tax laws to grow your business and investments."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["tax_strategies", "wealth_preservation", "financial_independence"],
+    "priority": 96,
+    "keywords": ["tax-free", "wealth", "strategies"],
+    "related_books": ["R41", "P3", "B6"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781937832209",
+        "goodreads": "https://goodreads.com/book/show/39214758"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["USA"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Tax Strategy Worksheets", "Wealth Preservation Guides"],
+    "series": "Rich Dad Series",
+    "influence": "An essential resource for individuals seeking to understand tax strategies to maximize financial freedom.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Seminars", "Online Tax Planning Courses"],
+    "criticism": "Some readers feel the content is heavily U.S.-centric and less applicable internationally.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/tax-free-wealth-review",
+        "https://cnbc.com/tax-strategies-for-investors"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": ["Tom Wheelwright"],
+    "featured_stories": [
+        "Case studies of individuals and businesses reducing tax burdens effectively.",
+        "Insights into using tax laws to achieve long-term wealth preservation."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Tax Planning Calculators", "Investment Tax Strategy Apps"],
+    "author_philosophy": "Help readers understand that taxes are not a burden but a tool to grow and preserve wealth legally.",
+    "reviews": [
+        "A must-read for anyone serious about building and preserving wealth. - Reader Review"
+    ]
+},
+{
+    "id": "R84",
+    "title": "The Money Tree: A Story About Finding the Fortune in Your Own Backyard",
+    "author": "Chris Guillebeau",
+    "year": 2020,
+    "isbn": "978-0593188712",
+    "pages": 272,
+    "publisher": "Portfolio",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Entrepreneurship", "Fiction"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Young Professionals", "Entrepreneurs", "Personal Development Enthusiasts"],
+    "notable_quotes": [
+        "Sometimes the best opportunities are right in front of you.",
+        "You don’t need to be rich to create something valuable."
+    ],
+    "key_takeaways": [
+        "Learn how to create financial opportunities with limited resources.",
+        "Understand the principles of small-scale entrepreneurship and side hustles.",
+        "Discover how to turn simple ideas into sustainable sources of income."
+    ],
+    "framework_tags": ["F2", "F5"],
+    "thematic_tags": ["entrepreneurship", "passive_income", "wealth_building"],
+    "priority": 97,
+    "keywords": ["money", "tree", "wealth"],
+    "related_books": ["R42", "B3", "R72"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780593188712",
+        "goodreads": "https://goodreads.com/book/show/51475313"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Small Business Idea Worksheets", "Income Stream Trackers"],
+    "series": null,
+    "influence": "Inspires readers to start small, think creatively, and build income streams from untapped potential.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the fictional storytelling format lacks actionable depth.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/money-tree-review",
+        "https://cnbc.com/side-hustle-success-stories"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "The journey of a young professional who discovers financial freedom through entrepreneurship.",
+        "Examples of how small side projects can grow into meaningful wealth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Side Hustle Calculators", "Small Business Planning Apps"],
+    "author_philosophy": "Empower individuals to identify and leverage small opportunities for financial growth and independence.",
+    "reviews": [
+        "A charming and practical guide wrapped in a relatable story. - Reader Review"
+    ]
+},
+{
+    "id": "R85",
+    "title": "Millennial Money Makeover: Escape Debt, Save for Your Future, and Live the Rich Life Now",
+    "author": "Conor Richardson",
+    "year": 2019,
+    "isbn": "978-1635767625",
+    "pages": 224,
+    "publisher": "Diversion Books",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help", "Millennial Finance"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Millennials", "Young Professionals", "Recent Graduates"],
+    "notable_quotes": [
+        "Your financial future is not a mystery; it’s a plan you create.",
+        "The earlier you start, the less you’ll worry about money later."
+    ],
+    "key_takeaways": [
+        "Learn strategies to escape debt and manage finances effectively.",
+        "Discover budgeting techniques tailored for millennials.",
+        "Understand how to balance saving for the future while enjoying the present."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["budgeting", "debt_management", "financial_independence"],
+    "priority": 98,
+    "keywords": ["millennials", "money", "makeover"],
+    "related_books": ["R41", "B26", "R71"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781635767625",
+        "goodreads": "https://goodreads.com/book/show/39963561"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Debt Reduction Trackers", "Savings and Budgeting Templates"],
+    "series": null,
+    "influence": "Offers millennials a straightforward guide to achieving financial stability and independence.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Podcasts", "Online Courses"],
+    "criticism": "Some readers feel the advice could be more tailored to different income levels.",
+    "readability_score": 82,
+    "media_mentions": [
+        "https://forbes.com/millennial-money-makeover-review",
+        "https://cnbc.com/debt-free-millennial-success-stories"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Success stories of millennials achieving debt-free living.",
+        "Practical steps to align financial goals with millennial lifestyles."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Debt Payoff Calculators", "Savings Rate Trackers"],
+    "author_philosophy": "Encourage millennials to take control of their finances early to build a rich and fulfilling life.",
+    "reviews": [
+        "A practical and inspiring read for millennials looking to get their finances on track. - Reader Review"
+    ]
+},
+{
+    "id": "R86",
+    "title": "Finance for the People: Getting a Grip on Your Finances",
+    "author": "Paco de Leon",
+    "year": 2022,
+    "isbn": "978-0593232767",
+    "pages": 368,
+    "publisher": "Penguin Life",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help", "Money Management"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Beginners", "Young Professionals", "Anyone Seeking Financial Literacy"],
+    "notable_quotes": [
+        "Money doesn’t have to be stressful; it can be a tool for empowerment.",
+        "Financial freedom starts with understanding your relationship with money."
+    ],
+    "key_takeaways": [
+        "Learn practical strategies to manage money and reduce financial stress.",
+        "Understand the emotional and psychological aspects of financial decision-making.",
+        "Discover tools to create a financial plan that aligns with your goals."
+    ],
+    "framework_tags": ["F4"],
+    "thematic_tags": ["financial_education", "budgeting", "mindset_shift"],
+    "priority": 99,
+    "keywords": ["finance", "accessible", "control"],
+    "related_books": ["R41", "R34", "R27"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780593232767",
+        "goodreads": "https://goodreads.com/book/show/58584540"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Money Management Workbooks", "Budgeting Templates"],
+    "series": null,
+    "influence": "Provides a refreshing and accessible approach to understanding and managing finances.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Webinars", "Interactive Workshops"],
+    "criticism": "Some readers feel the book is overly simplistic for those with advanced financial knowledge.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/finance-for-the-people-review",
+        "https://cnbc.com/personal-finance-made-simple"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals transforming their financial lives through education.",
+        "Insights into breaking down complex financial concepts into manageable steps."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Financial Planning Apps", "Debt Management Tools"],
+    "author_philosophy": "Encourage everyone to take control of their financial future with practical tools and a positive mindset.",
+    "reviews": [
+        "A fresh, engaging take on personal finance for today’s generation. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

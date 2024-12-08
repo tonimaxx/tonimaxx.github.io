@@ -1888,6 +1888,625 @@
         "An essential read for anyone serious about leadership and business growth. - Reader Review"
     ]
 },
+{
+    "id": "B12",
+    "title": "Rich Dad's Midas Touch",
+    "author": "Robert T. Kiyosaki and Donald J. Trump",
+    "year": 2011,
+    "isbn": "978-1612680958",
+    "pages": 320,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Entrepreneurship", "Personal Finance"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.1,
+    "target_audience": ["Aspiring Entrepreneurs", "Small Business Owners"],
+    "notable_quotes": [
+        "Success is about learning from failure and never giving up.",
+        "Your ability to sell is the single most important skill in business."
+    ],
+    "key_takeaways": [
+        "Discover the five key elements of entrepreneurial success: strength of character, focus, brand, relationships, and little things that count.",
+        "Learn how to turn setbacks into opportunities for growth.",
+        "Understand the value of persistence and smart risk-taking in building a business."
+    ],
+    "framework_tags": ["F5", "F6"],
+    "thematic_tags": ["business_growth", "leadership", "wealth_building"],
+    "priority": 32,
+    "keywords": ["Midas", "wealth", "entrepreneurship"],
+    "related_books": ["B11", "R30", "R62"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680958",
+        "goodreads": "https://goodreads.com/book/show/11990741"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Entrepreneurial Planning Guides"],
+    "series": "Rich Dad Series",
+    "influence": "Provides actionable insights into entrepreneurship and building a sustainable business.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the book is promotional and lacks depth.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/midas-touch-review",
+        "https://cnbc.com/entrepreneurship-lessons"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": false,
+    "co_authors": ["Donald J. Trump"],
+    "featured_stories": [
+        "Examples of entrepreneurs overcoming failures to achieve success.",
+        "Insights into building a personal brand and its impact on business growth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Business Plan Templates", "Risk Assessment Tools"],
+    "author_philosophy": "Empower aspiring entrepreneurs to build successful businesses by focusing on essential principles.",
+    "reviews": [
+        "A practical guide to entrepreneurial success with valuable lessons. - Reader Review"
+    ]
+},
+{
+    "id": "R57",
+    "title": "Mastering the Market Cycle: Getting the Odds on Your Side",
+    "author": "Howard Marks",
+    "year": 2018,
+    "isbn": "978-1328479259",
+    "pages": 336,
+    "publisher": "Mariner Books",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Investors", "Economists", "Financial Analysts"],
+    "notable_quotes": [
+        "You can’t predict, but you can prepare.",
+        "Success in investing doesn’t come from buying good things, but rather from buying things well."
+    ],
+    "key_takeaways": [
+        "Understand the patterns and psychology that drive financial market cycles.",
+        "Learn how to identify opportunities during different phases of the market cycle.",
+        "Explore practical strategies to mitigate risks and maximize returns."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["market_cycles", "risk_management", "long_term_wealth"],
+    "priority": 33,
+    "keywords": ["market", "cycles", "investing"],
+    "related_books": ["R50", "R54", "R48"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781328479259",
+        "goodreads": "https://goodreads.com/book/show/38744278"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Market Cycle Charts"],
+    "series": null,
+    "influence": "A highly regarded resource for understanding market cycles and their impact on investment strategy.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Investor Webinars", "Podcasts"],
+    "criticism": "Some readers feel the book assumes a prior understanding of market dynamics.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/mastering-market-cycle-review",
+        "https://cnbc.com/market-cycle-investing-guide"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Insights into how investors can navigate market booms and busts.",
+        "Case studies of successful investments during different market cycles."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Economic Indicators Dashboards", "Market Trend Analyzers"],
+    "author_philosophy": "Encourage investors to focus on long-term trends and avoid emotional decision-making.",
+    "reviews": [
+        "An essential read for understanding how market cycles influence investment success. - Reader Review"
+    ]
+},
+{
+    "id": "B13",
+    "title": "Rich Dad's Unfair Advantage",
+    "author": "Robert T. Kiyosaki",
+    "year": 2011,
+    "isbn": "978-1612680101",
+    "pages": 240,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Aspiring Investors", "Entrepreneurs", "Wealth Builders"],
+    "notable_quotes": [
+        "Knowledge is the new money.",
+        "Your financial education gives you your greatest advantage."
+    ],
+    "key_takeaways": [
+        "Learn how financial education can give you an edge in wealth creation.",
+        "Understand the principles of leveraging taxes, debt, and markets for financial growth.",
+        "Discover the importance of mindset and financial literacy in achieving long-term wealth."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["wealth_building", "asset_acquisition", "financial_independence"],
+    "priority": 34,
+    "keywords": ["advantage", "wealth", "strategy"],
+    "related_books": ["B1", "B2", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680101",
+        "goodreads": "https://goodreads.com/book/show/9508496"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Strategy Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Highlights the role of education and strategic thinking in building financial independence.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the book repeats concepts from earlier Rich Dad books.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/rich-dad-advantage-review",
+        "https://cnbc.com/unfair-advantage-guide"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of individuals applying Rich Dad principles to create wealth.",
+        "Insights into how financial literacy provides a competitive edge in today's markets."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Financial Planning Apps", "Tax Optimization Calculators"],
+    "author_philosophy": "Emphasize the importance of financial literacy as the foundation of success.",
+    "reviews": [
+        "An inspiring and practical guide for building wealth intelligently. - Reader Review"
+    ]
+},
+{
+    "id": "R58",
+    "title": "Principles: Life and Work",
+    "author": "Ray Dalio",
+    "year": 2017,
+    "isbn": "978-1501124020",
+    "pages": 592,
+    "publisher": "Simon & Schuster",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Business", "Self-Help", "Leadership"],
+    "reading_time": "12-14 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Leaders", "Entrepreneurs", "Professionals"],
+    "notable_quotes": [
+        "Pain + Reflection = Progress.",
+        "Think for yourself to decide what you want, what is true, and what you should do to achieve your goals."
+    ],
+    "key_takeaways": [
+        "Discover a framework for decision-making and achieving personal and professional success.",
+        "Understand the importance of radical transparency and truth in building effective systems.",
+        "Learn how to apply timeless principles to solve problems and manage relationships."
+    ],
+    "framework_tags": ["F1", "F5"],
+    "thematic_tags": ["leadership", "decision_making", "ethical_capitalism"],
+    "priority": 35,
+    "keywords": ["principles", "success", "finance"],
+    "related_books": ["R30", "R62", "R69"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781501124020",
+        "goodreads": "https://goodreads.com/book/show/34536488"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Financial Times and McKinsey Business Book of the Year Shortlist"],
+    "supplementary_materials": ["Workbooks", "Video Lessons"],
+    "series": null,
+    "influence": "Considered a seminal guide to personal and organizational management.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Documentaries", "Online Courses"],
+    "criticism": "Some readers find the book overly detailed and dense.",
+    "readability_score": 65,
+    "media_mentions": [
+        "https://forbes.com/ray-dalio-principles-review",
+        "https://cnbc.com/principles-life-and-work-analysis"
+    ],
+    "cost": "$20-$40",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples from Ray Dalio's career at Bridgewater Associates.",
+        "Insights into how principles can guide organizations through crises."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Principles App", "Decision-Making Frameworks"],
+    "author_philosophy": "Encourage readers to create and follow a set of guiding principles for success in life and work.",
+    "reviews": [
+        "A profound book that offers invaluable insights into decision-making and leadership. - Reader Review"
+    ]
+},
+{
+    "id": "T3",
+    "title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+    "author": "Nathaniel Popper",
+    "year": 2015,
+    "isbn": "978-0062362506",
+    "pages": 416,
+    "publisher": "Harper",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Cryptocurrency", "Technology", "Finance"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Crypto Enthusiasts", "Tech Historians", "Economists"],
+    "notable_quotes": [
+        "Bitcoin represents the first truly decentralized and trustless monetary system.",
+        "The story of Bitcoin is the story of a fight against traditional financial systems."
+    ],
+    "key_takeaways": [
+        "Understand the origins and evolution of Bitcoin as a decentralized currency.",
+        "Learn about the key players and events that shaped the cryptocurrency industry.",
+        "Explore the implications of blockchain technology on global finance and society."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["cryptocurrency", "economic_history", "risk_management"],
+    "priority": 36,
+    "keywords": ["Bitcoin", "digital", "gold"],
+    "related_books": ["R36", "T1", "R75"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780062362506",
+        "goodreads": "https://goodreads.com/book/show/24725860"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Bitcoin Adoption Timelines"],
+    "series": null,
+    "influence": "One of the first comprehensive books documenting Bitcoin's history and cultural impact.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Podcasts", "Documentaries"],
+    "criticism": "Some readers feel the book focuses too heavily on personalities over technical details.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/digital-gold-review",
+        "https://cnbc.com/bitcoin-history-timeline"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Accounts of early Bitcoin adopters and their successes and failures.",
+        "Insights into the ideological battles surrounding cryptocurrency."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Bitcoin Wallet Apps", "Crypto Market Analyzers"],
+    "author_philosophy": "Highlight the revolutionary potential of Bitcoin and the personalities behind its creation.",
+    "reviews": [
+        "A fascinating and detailed account of the origins of Bitcoin. - Reader Review"
+    ]
+},
+{
+    "id": "R50",
+    "title": "Common Stocks and Uncommon Profits",
+    "author": "Philip A. Fisher",
+    "year": 1958,
+    "isbn": "978-0471445509",
+    "pages": 320,
+    "publisher": "Wiley",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Value Investors", "Financial Advisors", "Portfolio Managers"],
+    "notable_quotes": [
+        "The stock market is filled with individuals who know the price of everything, but the value of nothing.",
+        "The greatest investment rewards come from finding the few truly outstanding companies."
+    ],
+    "key_takeaways": [
+        "Understand the principles of growth investing and selecting high-quality companies.",
+        "Learn how to evaluate businesses based on their management, innovation, and market position.",
+        "Explore the concept of 'scuttlebutt' as a way to gain insights into a company's potential."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["value_investing", "stock_market", "wealth_building"],
+    "priority": 37,
+    "keywords": ["stocks", "profits", "growth"],
+    "related_books": ["R54", "R7", "R48"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780471445509",
+        "goodreads": "https://goodreads.com/book/show/107572"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": null,
+    "supplementary_materials": ["Stock Analysis Worksheets"],
+    "series": null,
+    "influence": "A classic in investing literature, influencing generations of value investors, including Warren Buffett.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Investor Workshops"],
+    "criticism": "Some readers feel the examples are outdated for modern markets.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/growth-investing-strategies",
+        "https://cnbc.com/common-stocks-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Insights into Fisher's investment philosophy and successful stock picks.",
+        "Examples of how thorough research can lead to identifying superior companies."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Stock Screeners", "Growth Analysis Dashboards"],
+    "author_philosophy": "Encourage investors to focus on quality businesses and long-term growth.",
+    "reviews": [
+        "A timeless guide to finding and investing in outstanding companies. - Reader Review"
+    ]
+},
+{
+    "id": "P1",
+    "title": "Wealth Can't Wait",
+    "author": "David Osborn and Paul Morris",
+    "year": 2017,
+    "isbn": "978-1626344197",
+    "pages": 400,
+    "publisher": "Greenleaf Book Group Press",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Wealth Building"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Aspiring Entrepreneurs", "Investors", "Wealth Builders"],
+    "notable_quotes": [
+        "Wealth isn’t about how much money you make but how much you keep and grow.",
+        "Success doesn’t wait for the perfect moment—it happens when you take action."
+    ],
+    "key_takeaways": [
+        "Learn actionable strategies to accelerate wealth creation through real estate and entrepreneurship.",
+        "Discover the importance of mindset, habits, and systems in achieving financial independence.",
+        "Understand how to build passive income streams and leverage time effectively."
+    ],
+    "framework_tags": ["F3", "F7"],
+    "thematic_tags": ["wealth_building", "generational_wealth", "long_term_wealth"],
+    "priority": 38,
+    "keywords": ["wealth", "strategy", "success"],
+    "related_books": ["B1", "B4", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781626344197",
+        "goodreads": "https://goodreads.com/book/show/32703589"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Wealth Building Templates"],
+    "series": null,
+    "influence": "Provides a modern perspective on creating and managing wealth, emphasizing action over procrastination.",
+    "sales": "Over 250,000 copies sold",
+    "adaptations": ["Webinars", "Seminars"],
+    "criticism": "Some readers feel the book lacks depth in technical financial strategies.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/wealth-building-guide",
+        "https://cnbc.com/wealth-cant-wait-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": ["Paul Morris"],
+    "featured_stories": [
+        "Real-life examples of entrepreneurs achieving financial success through action and persistence.",
+        "Insights into leveraging real estate for passive income."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Goal-Setting Apps", "Real Estate Calculators"],
+    "author_philosophy": "Inspire readers to take decisive action to accelerate wealth creation.",
+    "reviews": [
+        "A practical and inspiring guide for those serious about building wealth. - Reader Review"
+    ]
+},
+{
+    "id": "R41",
+    "title": "I Will Teach You to Be Rich",
+    "author": "Ramit Sethi",
+    "year": 2009,
+    "isbn": "978-0761147480",
+    "pages": 352,
+    "publisher": "Workman Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Young Professionals", "New Investors", "Financial Beginners"],
+    "notable_quotes": [
+        "Spend extravagantly on the things you love, and cut costs mercilessly on the things you don't.",
+        "A rich life is about the freedom to make choices."
+    ],
+    "key_takeaways": [
+        "Learn a six-week plan to automate finances, invest smartly, and save effectively.",
+        "Understand how to use credit cards responsibly and maximize rewards.",
+        "Discover practical strategies for living a rich life aligned with your personal values."
+    ],
+    "framework_tags": ["F2", "F4"],
+    "thematic_tags": ["budgeting", "financial_education", "savings_strategies"],
+    "priority": 39,
+    "keywords": ["rich", "finance", "practical"],
+    "related_books": ["R39", "R71", "B1"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780761147480",
+        "goodreads": "https://goodreads.com/book/show/4922610"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Second Edition (Updated)",
+    "awards": null,
+    "supplementary_materials": ["Financial Worksheets", "Online Budgeting Tools"],
+    "series": null,
+    "influence": "Widely regarded as one of the most practical and approachable personal finance books.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Podcasts", "Webinars"],
+    "criticism": "Some readers feel the book's approach to debt reduction could be more comprehensive.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/teach-to-be-rich-review",
+        "https://cnbc.com/ramit-sethi-financial-tips"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals transforming their financial habits through automation.",
+        "Insights into balancing financial discipline with enjoying life's pleasures."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budget Automation Tools", "Savings Calculators"],
+    "author_philosophy": "Simplify personal finance by focusing on actionable, sustainable strategies.",
+    "reviews": [
+        "An excellent guide to managing money and living your best financial life. - Reader Review"
+    ]
+},
+{
+    "id": "B14",
+    "title": "Rich Dad's Second Chance",
+    "author": "Robert T. Kiyosaki",
+    "year": 2015,
+    "isbn": "978-1612680460",
+    "pages": 320,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Wealth Building"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Aspiring Investors", "Financial Planners", "Wealth Seekers"],
+    "notable_quotes": [
+        "A crisis is a terrible thing to waste.",
+        "Your financial education is your best investment."
+    ],
+    "key_takeaways": [
+        "Learn how to prepare for and capitalize on financial crises.",
+        "Understand the role of mindset and education in navigating economic downturns.",
+        "Discover strategies to build wealth during times of uncertainty."
+    ],
+    "framework_tags": ["F1", "F3"],
+    "thematic_tags": ["financial_independence", "wealth_building", "mindset_shift"],
+    "priority": 40,
+    "keywords": ["second", "chance", "opportunity"],
+    "related_books": ["B1", "B4", "R57"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680460",
+        "goodreads": "https://goodreads.com/book/show/23646661"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Crisis Opportunity Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to view financial downturns as opportunities for growth and wealth creation.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book is overly focused on crisis scenarios.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/rich-dad-second-chance-review",
+        "https://cnbc.com/wealth-building-during-crises"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals turning financial setbacks into opportunities for growth.",
+        "Insights into the strategies used by successful investors during recessions."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Risk Assessment Calculators", "Crisis Planning Apps"],
+    "author_philosophy": "Prepare readers to navigate and leverage economic cycles for long-term financial success.",
+    "reviews": [
+        "A powerful and practical guide to thriving in uncertain financial times. - Reader Review"
+    ]
+},{
+    "id": "R62",
+    "title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+    "author": "Michael E. Gerber",
+    "year": 1995,
+    "isbn": "978-0887307287",
+    "pages": 288,
+    "publisher": "Harper Business",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Entrepreneurship", "Business"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Small Business Owners", "Aspiring Entrepreneurs", "Startup Founders"],
+    "notable_quotes": [
+        "Work on your business, not just in your business.",
+        "The entrepreneurial myth is that businesses are started by entrepreneurs risking capital to make a profit."
+    ],
+    "key_takeaways": [
+        "Learn the importance of creating systems and processes for business scalability.",
+        "Understand the distinction between working in your business versus on your business.",
+        "Discover how to build a business that can operate independently of its owner."
+    ],
+    "framework_tags": ["F5"],
+    "thematic_tags": ["small_business", "systems_thinking", "business_growth"],
+    "priority": 41,
+    "keywords": ["business", "systems", "success"],
+    "related_books": ["R30", "B11", "R32"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780887307287",
+        "goodreads": "https://goodreads.com/book/show/81948"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": ["Business Book of the Year"],
+    "supplementary_materials": ["Business System Templates"],
+    "series": null,
+    "influence": "A widely respected guide for small business owners aiming to scale and achieve sustainability.",
+    "sales": "Over 5 million copies sold",
+    "adaptations": ["Workshops", "Online Courses"],
+    "criticism": "Some readers feel the examples are overly simplified for larger businesses.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/e-myth-revisited-review",
+        "https://cnbc.com/small-business-strategies"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of small businesses achieving sustainability through effective systems.",
+        "Insights into the common pitfalls faced by entrepreneurs."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Business Process Automation Apps", "Small Business Management Tools"],
+    "author_philosophy": "Empower small business owners to build scalable, sustainable enterprises through effective systems and processes.",
+    "reviews": [
+        "A must-read for small business owners looking to grow their companies. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
+
+
 
 
 

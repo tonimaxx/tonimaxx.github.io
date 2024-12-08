@@ -2497,6 +2497,1125 @@
         "A must-read for small business owners looking to grow their companies. - Reader Review"
     ]
 },
+{
+    "id": "B15",
+    "title": "Rich Dad's Rich Kid Smart Kid",
+    "author": "Robert T. Kiyosaki",
+    "year": 2001,
+    "isbn": "978-0446677486",
+    "pages": 272,
+    "publisher": "Warner Business Books",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Education"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Parents", "Educators", "Young Adults"],
+    "notable_quotes": [
+        "The most important gift you can give your child is the ability to think for themselves.",
+        "Schools teach how to work for money, but not how to make money work for you."
+    ],
+    "key_takeaways": [
+        "Learn how to teach children about financial literacy and smart money management.",
+        "Discover strategies to instill entrepreneurial thinking in the younger generation.",
+        "Understand the limitations of traditional education in preparing children for financial independence."
+    ],
+    "framework_tags": ["F1", "F4", "F7"],
+    "thematic_tags": ["financial_education", "generational_wealth", "mindset_shift"],
+    "priority": 42,
+    "keywords": ["kids", "education", "wealth"],
+    "related_books": ["B1", "B16", "R12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446677486",
+        "goodreads": "https://goodreads.com/book/show/817593"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Parental Guides", "Teaching Templates"],
+    "series": "Rich Dad Series",
+    "influence": "Widely used by parents and educators to teach children financial literacy and entrepreneurship.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book lacks practical activities for children.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/rich-kid-smart-kid-review",
+        "https://cnbc.com/teaching-financial-literacy"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of families implementing financial education at home.",
+        "Insights into preparing children for financial independence in adulthood."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Children's Budgeting Apps", "Financial Literacy Games"],
+    "author_philosophy": "Empower parents to prepare their children for financial success by fostering financial literacy and entrepreneurial thinking.",
+    "reviews": [
+        "A great book for parents looking to educate their kids about money. - Reader Review"
+    ]
+},
+{
+    "id": "B16",
+    "title": "Why 'A' Students Work for 'C' Students: And 'B' Students Work for the Government",
+    "author": "Robert T. Kiyosaki",
+    "year": 2013,
+    "isbn": "978-1612680767",
+    "pages": 288,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Education"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Parents", "Students", "Educators"],
+    "notable_quotes": [
+        "Grades are important, but financial education is even more so.",
+        "The world rewards problem solvers, not test takers."
+    ],
+    "key_takeaways": [
+        "Understand the limitations of traditional education in teaching financial skills.",
+        "Learn strategies to teach financial literacy to children and young adults.",
+        "Discover how entrepreneurial thinking can lead to financial independence."
+    ],
+    "framework_tags": ["F1", "F4"],
+    "thematic_tags": ["financial_education", "mindset_shift", "leadership"],
+    "priority": 43,
+    "keywords": ["education", "students", "success"],
+    "related_books": ["B15", "B1", "R12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680767",
+        "goodreads": "https://goodreads.com/book/show/16046843"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Teaching Guides", "Financial Education Exercises"],
+    "series": "Rich Dad Series",
+    "influence": "A key resource for understanding the gaps in traditional education and the importance of financial literacy.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Webinars", "Workshops"],
+    "criticism": "Some readers feel the book's examples are overly simplistic.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/financial-literacy-education",
+        "https://cnbc.com/why-a-students-work-for-c-students"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-world examples of entrepreneurial success stories from 'C' students.",
+        "Insights into how traditional education systems can hinder creative thinking."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Educational Apps", "Student Budget Planners"],
+    "author_philosophy": "Encourage readers to value financial education and entrepreneurial thinking over traditional academic achievements.",
+    "reviews": [
+        "A thought-provoking book that challenges the status quo of education. - Reader Review"
+    ]
+},
+{
+    "id": "B17",
+    "title": "Second Chance: For Your Money, Your Life and Our World",
+    "author": "Robert T. Kiyosaki",
+    "year": 2015,
+    "isbn": "978-1612680460",
+    "pages": 320,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Wealth Building"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Aspiring Investors", "Entrepreneurs", "Financial Planners"],
+    "notable_quotes": [
+        "Every crisis is an opportunity to grow richer or to lose everything.",
+        "If you want a different future, start taking action today."
+    ],
+    "key_takeaways": [
+        "Learn how financial crises can be opportunities for wealth creation.",
+        "Understand the importance of financial education in navigating uncertain economic times.",
+        "Discover strategies to leverage debt, taxes, and market cycles for financial growth."
+    ],
+    "framework_tags": ["F1", "F3", "F7"],
+    "thematic_tags": ["wealth_building", "mindset_shift", "economic_theories"],
+    "priority": 44,
+    "keywords": ["crisis", "opportunity", "wealth"],
+    "related_books": ["B14", "R57", "B1"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680460",
+        "goodreads": "https://goodreads.com/book/show/23646661"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Financial Crisis Case Studies", "Wealth Opportunity Worksheets"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to rethink their financial strategies and prepare for economic changes.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the book is repetitive of earlier Rich Dad concepts.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/second-chance-review",
+        "https://cnbc.com/leveraging-crises-for-wealth"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of individuals who turned financial crises into success stories.",
+        "Insights into the potential long-term effects of economic disruptions."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Economic Forecast Tools", "Crisis Planning Calculators"],
+    "author_philosophy": "Empower readers to view challenges as opportunities to create financial independence and security.",
+    "reviews": [
+        "A motivating and practical guide for navigating financial uncertainty. - Reader Review"
+    ]
+},
+{
+    "id": "R8",
+    "title": "The Essays of Warren Buffett: Lessons for Corporate America",
+    "author": "Warren E. Buffett, Lawrence A. Cunningham",
+    "year": 1997,
+    "isbn": "978-1611637588",
+    "pages": 352,
+    "publisher": "Carolina Academic Press",
+    "format": ["Paperback", "Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Investing", "Business", "Finance"],
+    "reading_time": "9-11 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Investors", "Business Leaders", "Corporate Executives"],
+    "notable_quotes": [
+        "Price is what you pay. Value is what you get.",
+        "In the business world, the rearview mirror is always clearer than the windshield."
+    ],
+    "key_takeaways": [
+        "Learn timeless lessons on corporate governance, investment strategies, and shareholder value.",
+        "Understand Warren Buffett's approach to value investing and long-term wealth creation.",
+        "Explore the principles that guide one of the most successful investors in history."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["value_investing", "long_term_wealth", "corporate_governance"],
+    "priority": 45,
+    "keywords": ["Buffett", "essays", "investment"],
+    "related_books": ["R7", "R50", "R54"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781611637588",
+        "goodreads": "https://goodreads.com/book/show/80809"
+    },
+    "complexity": "Advanced",
+    "region_focus": ["Global"],
+    "edition": "5th Edition",
+    "awards": null,
+    "supplementary_materials": ["Annotated Investor Guides"],
+    "series": null,
+    "influence": "A must-read collection of insights into value investing and corporate practices, featuring Buffett's wisdom.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Seminars", "Investor Conferences"],
+    "criticism": "Some readers feel the essays are too specific to Berkshire Hathaway.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/buffett-essays-review",
+        "https://cnbc.com/warren-buffett-investing-principles"
+    ],
+    "cost": "$20-$40",
+    "contains_illustrations": false,
+    "co_authors": ["Lawrence A. Cunningham"],
+    "featured_stories": [
+        "Insights into the management principles behind Berkshire Hathaway's success.",
+        "Examples of value investing strategies applied in real-world scenarios."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Portfolio Trackers", "Company Valuation Calculators"],
+    "author_philosophy": "Encourage readers to focus on long-term value creation and ethical corporate practices.",
+    "reviews": [
+        "A brilliant compilation of investment and business principles from a master. - Reader Review"
+    ]
+},
+{
+    "id": "R44",
+    "title": "The Barefoot Investor: The Only Money Guide You'll Ever Need",
+    "author": "Scott Pape",
+    "year": 2016,
+    "isbn": "978-0730324218",
+    "pages": 272,
+    "publisher": "HarperCollins Australia",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.8,
+    "target_audience": ["Young Professionals", "Families", "Financial Beginners"],
+    "notable_quotes": [
+        "Cut up your credit cards. If you can’t afford it, don’t buy it.",
+        "Money is not your life. It’s simply the fuel for your journey."
+    ],
+    "key_takeaways": [
+        "Learn a simple, actionable plan for budgeting, saving, and investing.",
+        "Discover strategies for eliminating debt and building financial security.",
+        "Understand how to achieve financial independence through disciplined money management."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["budgeting", "savings_strategies", "financial_independence"],
+    "priority": 46,
+    "keywords": ["budgeting", "investing", "saving"],
+    "related_books": ["R41", "R71", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780730324218",
+        "goodreads": "https://goodreads.com/book/show/32333647"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Australia", "Global"],
+    "edition": "Updated Edition",
+    "awards": ["Australian Book Industry Award for Personal Development"],
+    "supplementary_materials": ["Savings Challenges", "Financial Goal Templates"],
+    "series": null,
+    "influence": "Widely regarded as a practical guide to personal finance, empowering readers to take control of their money.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the advice is overly simplistic for advanced investors.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/barefoot-investor-review",
+        "https://cnbc.com/budgeting-strategies-barefoot"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of families achieving financial freedom using the Barefoot Investor's methods.",
+        "Insights into creating a balanced financial life without stress."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budget Calculators", "Savings Apps"],
+    "author_philosophy": "Simplify personal finance to make it accessible and effective for everyone.",
+    "reviews": [
+        "A game-changing guide to money that everyone should read. - Reader Review"
+    ]
+},
+{
+    "id": "R45",
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "year": 1776,
+    "isbn": "978-1613825594",
+    "pages": 1264,
+    "publisher": "Modern Library",
+    "format": ["Paperback", "Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Economics", "Philosophy"],
+    "reading_time": "25-30 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Economists", "Policy Makers", "Philosophers"],
+    "notable_quotes": [
+        "The invisible hand of the market leads individuals to promote the public interest, even if unintentionally.",
+        "Consumption is the sole end and purpose of all production."
+    ],
+    "key_takeaways": [
+        "Understand the foundational principles of capitalism and free markets.",
+        "Learn about the division of labor and its impact on economic productivity.",
+        "Explore the concept of self-interest driving economic growth."
+    ],
+    "framework_tags": ["F9"],
+    "thematic_tags": ["economic_theories", "market_cycles", "global_markets"],
+    "priority": 47,
+    "keywords": ["economics", "wealth", "markets"],
+    "related_books": ["R75", "R65", "R57"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781613825594",
+        "goodreads": "https://goodreads.com/book/show/25657"
+    },
+    "complexity": "Advanced",
+    "region_focus": ["Global"],
+    "edition": "Modern Library Edition",
+    "awards": null,
+    "supplementary_materials": ["Economic Theory Summaries"],
+    "series": null,
+    "influence": "Considered the foundational text of modern economics, shaping policies and theories worldwide.",
+    "sales": "Over 1 million copies sold (all editions)",
+    "adaptations": ["Academic Courses", "Documentaries"],
+    "criticism": "Some readers find the language and length challenging to navigate.",
+    "readability_score": 60,
+    "media_mentions": [
+        "https://forbes.com/wealth-of-nations-review",
+        "https://cnbc.com/adam-smith-economic-principles"
+    ],
+    "cost": "$20-$50",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "The role of free markets in shaping modern economies.",
+        "Insights into historical economic practices and their relevance today."
+    ],
+    "accessibility_options": ["Simplified Summaries Available"],
+    "related_tools": ["Economic Model Simulators", "Policy Analysis Tools"],
+    "author_philosophy": "Promote understanding of market dynamics and the role of individual self-interest in economic progress.",
+    "reviews": [
+        "A profound and essential read for understanding the foundations of economics. - Reader Review"
+    ]
+},
+{
+    "id": "R46",
+    "title": "The Total Money Makeover: A Proven Plan for Financial Fitness",
+    "author": "Dave Ramsey",
+    "year": 2003,
+    "isbn": "978-0785289081",
+    "pages": 272,
+    "publisher": "Thomas Nelson",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.7,
+    "target_audience": ["Families", "Financial Beginners", "Debt Managers"],
+    "notable_quotes": [
+        "If you will live like no one else, later you can live like no one else.",
+        "Debt is dumb. Cash is king."
+    ],
+    "key_takeaways": [
+        "Follow a seven-step plan to eliminate debt and build wealth.",
+        "Learn practical strategies for budgeting, saving, and investing.",
+        "Understand how to achieve financial independence through disciplined money management."
+    ],
+    "framework_tags": ["F4", "F7"],
+    "thematic_tags": ["budgeting", "debt_management", "savings_strategies"],
+    "priority": 48,
+    "keywords": ["money", "makeover", "freedom"],
+    "related_books": ["R41", "R39", "R44"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780785289081",
+        "goodreads": "https://goodreads.com/book/show/18405"
+    },
+    "complexity": "Beginner",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": ["Christian Book Award for Business"],
+    "supplementary_materials": ["Budget Planners", "Debt Reduction Worksheets"],
+    "series": null,
+    "influence": "Widely regarded as a transformative guide for families and individuals seeking financial freedom.",
+    "sales": "Over 5 million copies sold",
+    "adaptations": ["Workshops", "Radio Show"],
+    "criticism": "Some readers feel the advice on debt repayment may not suit all situations.",
+    "readability_score": 85,
+    "media_mentions": [
+        "https://forbes.com/total-money-makeover-review",
+        "https://cnbc.com/dave-ramsey-financial-advice"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of families eliminating debt and achieving financial stability.",
+        "Insights into how to navigate common financial challenges."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Budgeting Apps", "Debt Snowball Calculators"],
+    "author_philosophy": "Empower readers to achieve financial independence through discipline, planning, and perseverance.",
+    "reviews": [
+        "A practical and inspirational guide for getting out of debt. - Reader Review"
+    ]
+},
+{
+    "id": "P2",
+    "title": "Family Wealth: Keeping It in the Family",
+    "author": "James E. Hughes Jr.",
+    "year": 2004,
+    "isbn": "978-1576601517",
+    "pages": 272,
+    "publisher": "Bloomberg Press",
+    "format": ["Paperback", "Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Family"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Families", "Estate Planners", "Wealth Managers"],
+    "notable_quotes": [
+        "Wealth preservation is about more than money; it’s about passing on values and a legacy.",
+        "A family’s greatest asset is its human and intellectual capital."
+    ],
+    "key_takeaways": [
+        "Learn strategies for preserving and passing down wealth across generations.",
+        "Understand the importance of family governance and education in wealth management.",
+        "Discover how to align financial and family values for long-term success."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["generational_wealth", "estate_planning", "long_term_wealth"],
+    "priority": 49,
+    "keywords": ["family", "wealth", "legacy"],
+    "related_books": ["P3", "R79", "B15"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781576601517",
+        "goodreads": "https://goodreads.com/book/show/1160493"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Family Governance Templates", "Legacy Planning Guides"],
+    "series": null,
+    "influence": "A foundational resource for families and advisors managing multi-generational wealth.",
+    "sales": "Over 200,000 copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the book lacks practical tools for smaller estates.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/family-wealth-review",
+        "https://cnbc.com/wealth-preservation-strategies"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of families successfully passing wealth and values to future generations.",
+        "Insights into the challenges and solutions for preserving family wealth."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Estate Planning Software", "Family Meeting Guides"],
+    "author_philosophy": "Empower families to preserve their financial legacy by prioritizing human and intellectual capital.",
+    "reviews": [
+        "A must-read for families serious about long-term wealth preservation. - Reader Review"
+    ]
+},
+{
+    "id": "P3",
+    "title": "Estate Planning Basics",
+    "author": "Denis Clifford",
+    "year": 2020,
+    "isbn": "978-1413327642",
+    "pages": 320,
+    "publisher": "NOLO",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Law"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Estate Planners", "Families", "Wealth Managers"],
+    "notable_quotes": [
+        "A little planning today can save a lot of trouble tomorrow.",
+        "Estate planning is not about death, it’s about ensuring life goes on smoothly for your loved ones."
+    ],
+    "key_takeaways": [
+        "Learn the fundamentals of wills, trusts, and probate processes.",
+        "Understand tax strategies to minimize liabilities during wealth transfer.",
+        "Discover how to secure your family's future with a comprehensive estate plan."
+    ],
+    "framework_tags": ["F7"],
+    "thematic_tags": ["estate_planning", "tax_strategies", "wealth_preservation"],
+    "priority": 50,
+    "keywords": ["estate", "planning", "basics"],
+    "related_books": ["P2", "R79", "R45"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781413327642",
+        "goodreads": "https://goodreads.com/book/show/52815279"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["USA"],
+    "edition": "9th Edition",
+    "awards": null,
+    "supplementary_materials": ["Sample Wills", "Trust Templates"],
+    "series": null,
+    "influence": "A widely accessible guide for individuals and families initiating estate planning.",
+    "sales": "Over 150,000 copies sold",
+    "adaptations": ["Online Courses", "Webinars"],
+    "criticism": "Some readers feel the book is too focused on U.S. laws and lacks international applicability.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/estate-planning-basics-review",
+        "https://cnbc.com/estate-planning-tips"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of families using simple estate planning to avoid probate complications.",
+        "Insights into the importance of starting estate planning early."
+    ],
+    "accessibility_options": ["Available in large print editions"],
+    "related_tools": ["Estate Planning Software", "Tax Estimation Calculators"],
+    "author_philosophy": "Simplify estate planning to make it approachable and manageable for everyone.",
+    "reviews": [
+        "A straightforward and invaluable guide to estate planning. - Reader Review"
+    ]
+},
+{
+    "id": "T2",
+    "title": "FinTech and the Wealth of Nations",
+    "author": "Douglas W. Arner, Jànos Barberis, Ross P. Buckley",
+    "year": 2016,
+    "isbn": "978-1786431976",
+    "pages": 448,
+    "publisher": "Edward Elgar Publishing",
+    "format": ["Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Finance", "Technology", "Economics"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Economists", "Tech Enthusiasts", "Policy Makers"],
+    "notable_quotes": [
+        "FinTech is not merely a trend; it is reshaping the financial landscape globally.",
+        "The fusion of finance and technology creates opportunities for inclusion and innovation."
+    ],
+    "key_takeaways": [
+        "Understand the role of financial technology in transforming global economies.",
+        "Explore the challenges and opportunities FinTech creates for wealth distribution.",
+        "Learn how FinTech is driving financial inclusion in underserved markets."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["fintech", "global_markets", "cryptocurrency"],
+    "priority": 51,
+    "keywords": ["fintech", "finance", "technology"],
+    "related_books": ["T1", "T3", "R36"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781786431976",
+        "goodreads": "https://goodreads.com/book/show/32810218"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Infographics on FinTech Impact"],
+    "series": null,
+    "influence": "A pioneering text linking the rise of FinTech to macroeconomic trends and global wealth dynamics.",
+    "sales": "Over 50,000 copies sold",
+    "adaptations": ["Academic Courses", "Webinars"],
+    "criticism": "Some readers feel the text is overly technical for general audiences.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/fintech-and-wealth-review",
+        "https://cnbc.com/fintech-impact-on-global-economy"
+    ],
+    "cost": "$40-$60",
+    "contains_illustrations": false,
+    "co_authors": [
+        "Jànos Barberis",
+        "Ross P. Buckley"
+    ],
+    "featured_stories": [
+        "Examples of FinTech solutions driving economic inclusion in developing countries.",
+        "Insights into the regulatory challenges of FinTech adoption."
+    ],
+    "accessibility_options": ["Available as eBook"],
+    "related_tools": ["Blockchain Analyzers", "RegTech Platforms"],
+    "author_philosophy": "Promote understanding of how financial technology can drive sustainable and inclusive global growth.",
+    "reviews": [
+        "A must-read for understanding the intersection of finance and technology. - Reader Review"
+    ]
+},
+{
+    "id": "R59",
+    "title": "The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Smart Buy & Hold Real Estate Investing",
+    "author": "Brandon Turner",
+    "year": 2015,
+    "isbn": "978-0990711797",
+    "pages": 348,
+    "publisher": "BiggerPockets Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Real Estate", "Investing"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.8,
+    "target_audience": ["Real Estate Investors", "Aspiring Landlords", "Wealth Builders"],
+    "notable_quotes": [
+        "Real estate is not just a numbers game; it's a people game.",
+        "Success in rental property investing comes from knowledge, not luck."
+    ],
+    "key_takeaways": [
+        "Learn actionable strategies for identifying and managing profitable rental properties.",
+        "Understand the importance of cash flow, market analysis, and property management.",
+        "Discover how to build long-term wealth through buy-and-hold investing."
+    ],
+    "framework_tags": ["F3", "F7"],
+    "thematic_tags": ["real_estate_investing", "passive_income", "wealth_building"],
+    "priority": 52,
+    "keywords": ["rental", "real estate", "investing"],
+    "related_books": ["B4", "R42", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780990711797",
+        "goodreads": "https://goodreads.com/book/show/26001825"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["USA"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Property Analysis Spreadsheets", "Market Research Guides"],
+    "series": "BiggerPockets Series",
+    "influence": "Widely regarded as a foundational book for beginners and intermediate rental property investors.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Podcasts", "Webinars"],
+    "criticism": "Some readers feel the examples are too focused on the U.S. market.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/book-on-rental-property-review",
+        "https://cnbc.com/real-estate-investing-strategies"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of investors achieving financial freedom through rental properties.",
+        "Insights into managing tenants and maintaining properties efficiently."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Property Management Apps", "Real Estate ROI Calculators"],
+    "author_philosophy": "Encourage readers to build passive income streams and achieve financial independence through rental property investing.",
+    "reviews": [
+        "A comprehensive and practical guide to building wealth through real estate. - Reader Review"
+    ]
+},
+{
+    "id": "B18",
+    "title": "8 Lessons in Military Leadership for Entrepreneurs",
+    "author": "Robert T. Kiyosaki",
+    "year": 2015,
+    "isbn": "978-1612680538",
+    "pages": 176,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Leadership", "Entrepreneurship", "Self-Help"],
+    "reading_time": "4-6 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Entrepreneurs", "Leaders", "Veterans"],
+    "notable_quotes": [
+        "Leadership is not about rank; it is about responsibility.",
+        "The battlefield of business requires strategy, discipline, and courage."
+    ],
+    "key_takeaways": [
+        "Learn how military principles can be applied to entrepreneurial success.",
+        "Understand the importance of discipline, focus, and adaptability in business.",
+        "Discover leadership strategies for building and managing high-performing teams."
+    ],
+    "framework_tags": ["F5"],
+    "thematic_tags": ["leadership", "systems_thinking", "business_growth"],
+    "priority": 53,
+    "keywords": ["military", "leadership", "entrepreneur"],
+    "related_books": ["B11", "R30", "B12"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680538",
+        "goodreads": "https://goodreads.com/book/show/25817152"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Leadership Checklists", "Team Management Guides"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages entrepreneurs to adopt a disciplined, mission-driven approach to business.",
+    "sales": "Over 100,000 copies sold",
+    "adaptations": ["Workshops", "Webinars"],
+    "criticism": "Some readers feel the military analogies may not resonate with all audiences.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/military-leadership-for-entrepreneurs",
+        "https://cnbc.com/kiyosaki-business-leadership-tips"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of entrepreneurs using military strategies to achieve success.",
+        "Insights into the parallels between military operations and business challenges."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Team Management Software", "Strategic Planning Tools"],
+    "author_philosophy": "Empower entrepreneurs to think strategically and lead effectively by applying military principles.",
+    "reviews": [
+        "A unique perspective on leadership and business strategy. - Reader Review"
+    ]
+},
+{
+    "id": "B19",
+    "title": "Rich Dad's Who Took My Pension?: How You Can Stop the Looting",
+    "author": "Robert T. Kiyosaki, Edward Siedle",
+    "year": 2020,
+    "isbn": "978-1612680842",
+    "pages": 240,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Economics"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Retirees", "Financial Planners", "Policy Makers"],
+    "notable_quotes": [
+        "Your pension is not safe unless you take control.",
+        "The looting of pensions is the greatest financial crisis of our time."
+    ],
+    "key_takeaways": [
+        "Learn how pension systems are being mismanaged and looted.",
+        "Understand how to protect your retirement savings through alternative strategies.",
+        "Discover the risks and flaws of traditional retirement planning."
+    ],
+    "framework_tags": ["F7", "F9"],
+    "thematic_tags": ["retirement_planning", "economic_theories", "wealth_preservation"],
+    "priority": 54,
+    "keywords": ["pension", "crisis", "retirement"],
+    "related_books": ["B5", "R46", "R71"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680842",
+        "goodreads": "https://goodreads.com/book/show/51793188"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["USA", "Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Pension Risk Analysis Tools"],
+    "series": "Rich Dad Series",
+    "influence": "A wake-up call for individuals relying on pensions and traditional retirement plans.",
+    "sales": "Over 150,000 copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the book's tone is alarmist and lacks actionable solutions.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/rich-dad-pension-crisis",
+        "https://cnbc.com/kiyosaki-pension-looting"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": false,
+    "co_authors": ["Edward Siedle"],
+    "featured_stories": [
+        "Real-world examples of pension mismanagement and its impact on retirees.",
+        "Insights into alternative retirement strategies for financial security."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Savings Calculators", "Wealth Management Apps"],
+    "author_philosophy": "Highlight the vulnerabilities in the pension system and empower readers to secure their own financial future.",
+    "reviews": [
+        "A critical and eye-opening look at the pension crisis. - Reader Review"
+    ]
+},
+{
+    "id": "R60",
+    "title": "How to Day Trade for a Living: A Beginner’s Guide to Trading Tools and Tactics",
+    "author": "Andrew Aziz",
+    "year": 2016,
+    "isbn": "978-1535585958",
+    "pages": 382,
+    "publisher": "CreateSpace Independent Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Trading"],
+    "reading_time": "9-11 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Beginner Traders", "Aspiring Investors", "Finance Enthusiasts"],
+    "notable_quotes": [
+        "Day trading is more about controlling your emotions than your trades.",
+        "Success in trading requires consistency, discipline, and education."
+    ],
+    "key_takeaways": [
+        "Learn the tools and techniques essential for day trading.",
+        "Understand the psychological aspects of trading and risk management.",
+        "Discover strategies to navigate volatile markets and generate income."
+    ],
+    "framework_tags": ["F6"],
+    "thematic_tags": ["stock_market", "risk_management", "short_term_trading"],
+    "priority": 55,
+    "keywords": ["day trading", "stocks", "income"],
+    "related_books": ["R63", "R64", "R67"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781535585958",
+        "goodreads": "https://goodreads.com/book/show/31342650"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Second Edition",
+    "awards": null,
+    "supplementary_materials": ["Trading Simulators", "Risk Analysis Worksheets"],
+    "series": null,
+    "influence": "One of the most practical guides for beginners entering the day trading world.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Online Trading Courses", "YouTube Tutorials"],
+    "criticism": "Some readers feel the book lacks advanced trading strategies.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/day-trading-guide",
+        "https://cnbc.com/day-trading-basics"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of traders transitioning from beginners to consistent earners.",
+        "Insights into the challenges and rewards of short-term trading."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Trading Platforms", "Market Analysis Software"],
+    "author_philosophy": "Equip traders with the foundational knowledge and tools to approach day trading confidently and responsibly.",
+    "reviews": [
+        "A comprehensive and beginner-friendly guide to day trading. - Reader Review"
+    ]
+},
+{
+    "id": "R61",
+    "title": "Mastering the Market Cycle: Getting the Odds on Your Side",
+    "author": "Howard Marks",
+    "year": 2018,
+    "isbn": "978-1328479259",
+    "pages": 336,
+    "publisher": "Mariner Books",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance", "Economics"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Investors", "Economists", "Finance Enthusiasts"],
+    "notable_quotes": [
+        "Recognizing where we stand in the market cycle is critical to investment success.",
+        "Cycles are inevitable, but their outcomes are not."
+    ],
+    "key_takeaways": [
+        "Learn to understand and anticipate market cycles to make informed investment decisions.",
+        "Discover the psychological and economic factors driving market trends.",
+        "Understand how to use cycles to minimize risk and maximize opportunity."
+    ],
+    "framework_tags": ["F4", "F6"],
+    "thematic_tags": ["market_cycles", "risk_management", "financial_independence"],
+    "priority": 56,
+    "keywords": ["market", "cycles", "finance"],
+    "related_books": ["R57", "R68", "R75"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781328479259",
+        "goodreads": "https://goodreads.com/book/show/38652854"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Market Analysis Templates"],
+    "series": null,
+    "influence": "A widely respected resource for investors aiming to navigate market cycles effectively.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Webinars", "Podcasts"],
+    "criticism": "Some readers feel the focus on theory over actionable advice is a limitation.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/mastering-market-cycle-review",
+        "https://cnbc.com/market-cycles-howard-marks"
+    ],
+    "cost": "$20-$35",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of investors leveraging market cycles to achieve success.",
+        "Insights into the historical impact of economic cycles on investment strategies."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Economic Cycle Indicators", "Investment Calculators"],
+    "author_philosophy": "Encourage readers to recognize and adapt to market cycles for sustainable investment success.",
+    "reviews": [
+        "A brilliant and insightful guide to understanding market cycles. - Reader Review"
+    ]
+},
+{
+    "id": "R32",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "author": "Peter Thiel, Blake Masters",
+    "year": 2014,
+    "isbn": "978-0804139298",
+    "pages": 224,
+    "publisher": "Crown Business",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Entrepreneurship", "Business", "Innovation"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Entrepreneurs", "Startup Founders", "Innovators"],
+    "notable_quotes": [
+        "Brilliant thinking is rare, but courage is in even shorter supply than genius.",
+        "The most contrarian thing of all is not to oppose the crowd but to think for yourself."
+    ],
+    "key_takeaways": [
+        "Learn how to create value by building something truly new and innovative.",
+        "Understand the importance of monopolies and competitive advantage in startups.",
+        "Discover strategies for turning bold ideas into successful businesses."
+    ],
+    "framework_tags": ["F5"],
+    "thematic_tags": ["startup_success", "business_growth", "innovation"],
+    "priority": 57,
+    "keywords": ["startups", "innovation", "success"],
+    "related_books": ["R30", "B11", "R69"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780804139298",
+        "goodreads": "https://goodreads.com/book/show/18050143"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Financial Times and McKinsey Business Book of the Year Finalist"],
+    "supplementary_materials": ["Case Studies on Disruptive Innovations"],
+    "series": null,
+    "influence": "Considered a modern classic for entrepreneurs and innovators shaping the future of industries.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Workshops", "Podcasts"],
+    "criticism": "Some readers feel the book's ideas are too idealistic for small-scale startups.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/zero-to-one-review",
+        "https://cnbc.com/peter-thiel-startup-lessons"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": ["Blake Masters"],
+    "featured_stories": [
+        "Examples of startups creating groundbreaking innovations.",
+        "Insights into the mindsets and strategies of successful founders."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Startup Planning Software", "Business Model Canvas"],
+    "author_philosophy": "Encourage entrepreneurs to create new and unique value rather than compete in existing markets.",
+    "reviews": [
+        "A groundbreaking guide to building and leading innovative startups. - Reader Review"
+    ]
+},
+{
+    "id": "R63",
+    "title": "One Up on Wall Street: How to Use What You Already Know to Make Money in the Market",
+    "author": "Peter Lynch",
+    "year": 1989,
+    "isbn": "978-0743200400",
+    "pages": 304,
+    "publisher": "Simon & Schuster",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Individual Investors", "Beginner Traders", "Stock Market Enthusiasts"],
+    "notable_quotes": [
+        "The best stock to buy may be the one you already own.",
+        "Invest in what you know."
+    ],
+    "key_takeaways": [
+        "Learn to identify investment opportunities based on your everyday experiences.",
+        "Understand the importance of researching companies before investing.",
+        "Discover how to balance risk and reward in stock market investing."
+    ],
+    "framework_tags": ["F6"],
+    "thematic_tags": ["value_investing", "stock_market", "long_term_wealth"],
+    "priority": 58,
+    "keywords": ["stocks", "investing", "opportunities"],
+    "related_books": ["R64", "R9", "R68"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780743200400",
+        "goodreads": "https://goodreads.com/book/show/81757"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": null,
+    "supplementary_materials": ["Stock Analysis Templates"],
+    "series": null,
+    "influence": "One of the most accessible guides for individual investors looking to gain an edge in the stock market.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Seminars", "Webinars"],
+    "criticism": "Some readers feel the advice is less applicable in today's high-frequency trading environment.",
+    "readability_score": 78,
+    "media_mentions": [
+        "https://forbes.com/peter-lynch-investing-strategies",
+        "https://cnbc.com/one-up-on-wall-street-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of successful investments based on everyday observations.",
+        "Insights into how individual investors can compete with institutional traders."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Stock Screeners", "Portfolio Management Tools"],
+    "author_philosophy": "Empower individual investors to find opportunities in the stock market by leveraging their unique knowledge.",
+    "reviews": [
+        "An essential read for anyone serious about stock market investing. - Reader Review"
+    ]
+},
+{
+    "id": "R64",
+    "title": "You Can Be a Stock Market Genius: Uncover the Secret Hiding Places of Stock Market Profits",
+    "author": "Joel Greenblatt",
+    "year": 1997,
+    "isbn": "978-0684840079",
+    "pages": 304,
+    "publisher": "Simon & Schuster",
+    "format": ["Paperback", "Hardcover", "eBook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Individual Investors", "Advanced Traders", "Finance Enthusiasts"],
+    "notable_quotes": [
+        "Great investment opportunities are not hard to find—they are just not well-known.",
+        "Successful investing is about having the patience and knowledge to take advantage of special situations."
+    ],
+    "key_takeaways": [
+        "Learn advanced investing strategies focusing on special situations like spin-offs, mergers, and bankruptcies.",
+        "Understand the concept of event-driven investing to maximize returns.",
+        "Discover how to identify hidden value in under-followed stocks."
+    ],
+    "framework_tags": ["F6"],
+    "thematic_tags": ["stock_market", "risk_reward", "value_investing"],
+    "priority": 59,
+    "keywords": ["stocks", "genius", "opportunities"],
+    "related_books": ["R63", "R54", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780684840079",
+        "goodreads": "https://goodreads.com/book/show/221918"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "Revised Edition",
+    "awards": null,
+    "supplementary_materials": ["Case Studies on Event-Driven Investing"],
+    "series": null,
+    "influence": "A highly regarded resource for investors looking to capitalize on niche and less obvious market opportunities.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Workshops", "Investor Forums"],
+    "criticism": "Some readers feel the examples are dated and may not fully apply to modern markets.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/joel-greenblatt-investing-tips",
+        "https://cnbc.com/stock-market-genius-review"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of investors achieving outsized returns through special situations.",
+        "Insights into spotting undervalued stocks before institutional investors do."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Stock Event Trackers", "Risk Analysis Tools"],
+    "author_philosophy": "Encourage investors to explore non-traditional opportunities for superior returns in the stock market.",
+    "reviews": [
+        "A must-read for those serious about unconventional stock market strategies. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

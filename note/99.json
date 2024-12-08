@@ -1461,6 +1461,441 @@
         "A compelling read that explains blockchain's potential to change the world. - Reader Review"
     ]
 },
+{
+    "id": "R36",
+    "title": "The Bitcoin Standard: The Decentralized Alternative to Central Banking",
+    "author": "Saifedean Ammous",
+    "year": 2018,
+    "isbn": "978-1119473862",
+    "pages": 304,
+    "publisher": "Wiley",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Cryptocurrency", "Economics", "Finance"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Crypto Enthusiasts", "Economists", "Investors"],
+    "notable_quotes": [
+        "Bitcoin is the first example of a digital asset that cannot be copied, tampered with, or inflated.",
+        "Sound money is the foundation of civilization."
+    ],
+    "key_takeaways": [
+        "Understand the economic principles behind Bitcoin and its role as digital gold.",
+        "Explore Bitcoin's potential to replace traditional fiat currencies and central banking systems.",
+        "Learn about the history of money and its evolution towards decentralized systems."
+    ],
+    "framework_tags": ["F6", "F9"],
+    "thematic_tags": ["cryptocurrency", "economic_theories", "fintech"],
+    "priority": 25,
+    "keywords": ["Bitcoin", "crypto", "finance"],
+    "related_books": ["T1", "T5", "R75"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781119473862",
+        "goodreads": "https://goodreads.com/book/show/36448503"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Bitcoin Charts"],
+    "series": null,
+    "influence": "Widely regarded as one of the most influential books on Bitcoin and its economic implications.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Podcasts", "Webinars"],
+    "criticism": "Some readers feel the book is overly critical of fiat currencies without sufficient counterpoints.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/bitcoin-standard-review",
+        "https://cnbc.com/bitcoin-implications-guide"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Insights into Bitcoin's adoption as a store of value in developing economies.",
+        "Case studies of Bitcoin's use in bypassing hyperinflation."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Crypto Price Trackers", "Bitcoin Wallets"],
+    "author_philosophy": "Advocate for Bitcoin as a superior form of money that can bring economic stability.",
+    "reviews": [
+        "A must-read for anyone looking to understand Bitcoin and its transformative potential. - Reader Review"
+    ]
+},
+{
+    "id": "B9",
+    "title": "Rich Dad's Success Stories",
+    "author": "Robert T. Kiyosaki",
+    "year": 2003,
+    "isbn": "978-0446691802",
+    "pages": 256,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Self-Help"],
+    "reading_time": "5-7 hours",
+    "average_rating": 4.2,
+    "target_audience": ["Aspiring Entrepreneurs", "Wealth Seekers"],
+    "notable_quotes": [
+        "The stories of others can guide you, but it’s your own story that creates wealth.",
+        "Success is not a matter of luck; it’s a matter of practice and perseverance."
+    ],
+    "key_takeaways": [
+        "Learn from real-life examples of individuals who applied Rich Dad principles to achieve financial success.",
+        "Understand how mindset and practical strategies can transform financial outcomes.",
+        "Discover the diversity of paths to wealth creation, including real estate, business, and investing."
+    ],
+    "framework_tags": ["F1", "F5"],
+    "thematic_tags": ["success", "wealth_building", "financial_independence"],
+    "priority": 26,
+    "keywords": ["success", "stories", "Rich Dad"],
+    "related_books": ["B1", "B4", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446691802",
+        "goodreads": "https://goodreads.com/book/show/817591"
+    },
+    "complexity": "Beginner to Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Success Strategy Templates"],
+    "series": "Rich Dad Series",
+    "influence": "Showcases the practical application of Rich Dad philosophies across various domains.",
+    "sales": "Over 500,000 copies sold",
+    "adaptations": ["Seminars", "Webinars"],
+    "criticism": "Some readers feel the stories are overly simplified and lack actionable steps.",
+    "readability_score": 80,
+    "media_mentions": [
+        "https://forbes.com/rich-dad-success-stories-review",
+        "https://cnbc.com/wealth-success-stories"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of real estate investments yielding significant returns.",
+        "Stories of individuals transitioning from employee to entrepreneur."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Goal-Setting Apps", "Success Journals"],
+    "author_philosophy": "Motivate readers through relatable success stories and inspire them to take action.",
+    "reviews": [
+        "A motivating read with real-life examples of financial success. - Reader Review"
+    ]
+},
+{
+    "id": "B10",
+    "title": "Rich Dad's Prophecy",
+    "author": "Robert T. Kiyosaki",
+    "year": 2002,
+    "isbn": "978-1612680255",
+    "pages": 272,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Personal Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Retirement Planners", "Aspiring Investors"],
+    "notable_quotes": [
+        "It's not what you know today; it's what you prepare for tomorrow that will make the difference.",
+        "The greatest risk in life is not taking one."
+    ],
+    "key_takeaways": [
+        "Learn how to prepare for economic downturns by building passive income streams.",
+        "Understand the flaws in traditional retirement systems and strategies.",
+        "Adopt proactive measures to secure financial independence."
+    ],
+    "framework_tags": ["F3", "F6", "F7"],
+    "thematic_tags": ["economic_theories", "risk_management", "financial_independence"],
+    "priority": 27,
+    "keywords": ["prophecy", "wealth", "future"],
+    "related_books": ["B1", "R57", "R39"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9781612680255",
+        "goodreads": "https://goodreads.com/book/show/1124"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Retirement Planning Tools"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to rethink traditional retirement planning and take charge of their financial future.",
+    "sales": "Over 2 million copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers find the book overly speculative and alarmist.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/retirement-planning-guide",
+        "https://cnbc.com/rich-dad-prophecy-review"
+    ],
+    "cost": "$10-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of strategies used by individuals to safeguard their wealth during economic crises.",
+        "Insights into how economic trends affect personal finance decisions."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Retirement Calculators", "Passive Income Trackers"],
+    "author_philosophy": "Prepare readers for future economic shifts by building resilient financial strategies.",
+    "reviews": [
+        "A powerful book that challenges conventional wisdom about retirement. - Reader Review"
+    ]
+},
+{
+    "id": "R9",
+    "title": "Stocks for the Long Run",
+    "author": "Jeremy J. Siegel",
+    "year": 1994,
+    "isbn": "978-0071800518",
+    "pages": 448,
+    "publisher": "McGraw-Hill Education",
+    "format": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Investing", "Finance"],
+    "reading_time": "10-12 hours",
+    "average_rating": 4.6,
+    "target_audience": ["Long-term Investors", "Financial Advisors", "Portfolio Managers"],
+    "notable_quotes": [
+        "Time, not timing, is key to building wealth in the stock market.",
+        "Over the long run, stocks have outperformed every other investment."
+    ],
+    "key_takeaways": [
+        "Learn why stocks are the best-performing asset class over the long term.",
+        "Understand the historical trends and patterns of stock market performance.",
+        "Gain insights into effective portfolio management and risk diversification."
+    ],
+    "framework_tags": ["F3", "F6"],
+    "thematic_tags": ["stock_market", "long_term_wealth", "portfolio_income"],
+    "priority": 28,
+    "keywords": ["stocks", "long-term", "investing"],
+    "related_books": ["R48", "R54", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780071800518",
+        "goodreads": "https://goodreads.com/book/show/279581"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Fifth Edition",
+    "awards": null,
+    "supplementary_materials": ["Historical Stock Market Data Charts"],
+    "series": null,
+    "influence": "Recognized as a definitive guide for long-term stock market investors.",
+    "sales": "Over 1.5 million copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the historical data may not account for future market changes.",
+    "readability_score": 70,
+    "media_mentions": [
+        "https://forbes.com/long-term-investing-guide",
+        "https://cnbc.com/stocks-for-the-long-run-review"
+    ],
+    "cost": "$20-$40",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of portfolios that have withstood market crashes over decades.",
+        "Insights into the impact of inflation and interest rates on stock performance."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Portfolio Growth Calculators", "Dividend Tracking Apps"],
+    "author_philosophy": "Encourage a disciplined, long-term approach to investing based on historical evidence.",
+    "reviews": [
+        "A must-read for anyone serious about long-term investing. - Reader Review"
+    ]
+},
+{
+    "id": "R24",
+    "title": "The Little Book of Behavioral Investing: How Not to Be Your Own Worst Enemy",
+    "author": "James Montier",
+    "year": 2010,
+    "isbn": "978-0470686027",
+    "pages": 236,
+    "publisher": "Wiley",
+    "format": ["Hardcover", "Paperback", "eBook"],
+    "language": "English",
+    "genres": ["Behavioral Finance", "Investing"],
+    "reading_time": "6-8 hours",
+    "average_rating": 4.4,
+    "target_audience": ["Investors", "Behavioral Economists", "General Readers"],
+    "notable_quotes": [
+        "Investing is not about beating others at their game. It’s about controlling yourself at your own game.",
+        "Emotion is the investor’s worst enemy."
+    ],
+    "key_takeaways": [
+        "Learn how cognitive biases and emotional decisions negatively impact investment outcomes.",
+        "Understand the psychological traps investors face and how to avoid them.",
+        "Adopt practical strategies to maintain discipline and focus in financial markets."
+    ],
+    "framework_tags": ["F1", "F6"],
+    "thematic_tags": ["behavioral_finance", "decision_making", "risk_management"],
+    "priority": 29,
+    "keywords": ["behavioral", "investing", "psychology"],
+    "related_books": ["R27", "R47", "R7"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780470686027",
+        "goodreads": "https://goodreads.com/book/show/8203987"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": null,
+    "supplementary_materials": ["Behavioral Finance Exercises"],
+    "series": null,
+    "influence": "A leading resource on how behavioral biases influence investment decisions.",
+    "sales": "Over 300,000 copies sold",
+    "adaptations": ["Investor Psychology Workshops", "Podcasts"],
+    "criticism": "Some readers feel the book is more theoretical than practical.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/behavioral-investing-review",
+        "https://cnbc.com/investing-mindset-guide"
+    ],
+    "cost": "$15-$25",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of investors overcoming biases to improve their portfolios.",
+        "Insights into how psychological traps influence market bubbles and crashes."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Cognitive Bias Tests", "Behavioral Finance Simulators"],
+    "author_philosophy": "Help investors recognize and mitigate their emotional and cognitive biases.",
+    "reviews": [
+        "An essential guide to understanding the role of psychology in investing. - Reader Review"
+    ]
+},
+{
+    "id": "B11",
+    "title": "Rich Dad's Before You Quit Your Job",
+    "author": "Robert T. Kiyosaki",
+    "year": 2005,
+    "isbn": "978-0446696371",
+    "pages": 336,
+    "publisher": "Plata Publishing",
+    "format": ["Paperback", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Entrepreneurship", "Personal Finance"],
+    "reading_time": "7-9 hours",
+    "average_rating": 4.3,
+    "target_audience": ["Aspiring Entrepreneurs", "Small Business Owners", "Career Changers"],
+    "notable_quotes": [
+        "Dreams are free, but the journey to the dream is not.",
+        "Your job is not your life. Your job is your job."
+    ],
+    "key_takeaways": [
+        "Learn the principles and risks of transitioning from an employee to an entrepreneur.",
+        "Understand the key elements required to start and grow a successful business.",
+        "Prepare for the challenges and mindset shifts necessary for entrepreneurial success."
+    ],
+    "framework_tags": ["F1", "F5"],
+    "thematic_tags": ["business_growth", "leadership", "startup_success"],
+    "priority": 30,
+    "keywords": ["business", "entrepreneurship", "success"],
+    "related_books": ["B4", "R32", "R62"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780446696371",
+        "goodreads": "https://goodreads.com/book/show/816894"
+    },
+    "complexity": "Intermediate",
+    "region_focus": ["Global"],
+    "edition": "Updated Edition",
+    "awards": null,
+    "supplementary_materials": ["Entrepreneurship Planning Templates"],
+    "series": "Rich Dad Series",
+    "influence": "Encourages readers to take calculated risks and explore entrepreneurship as a path to financial independence.",
+    "sales": "Over 1 million copies sold",
+    "adaptations": ["Workshops", "Seminars"],
+    "criticism": "Some readers feel the book focuses more on mindset than actionable steps.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/entrepreneurship-guides",
+        "https://cnbc.com/startup-success-strategies"
+    ],
+    "cost": "$10-$20",
+    "contains_illustrations": false,
+    "co_authors": null,
+    "featured_stories": [
+        "Real-life examples of individuals successfully starting their own businesses.",
+        "Insights into overcoming fear and taking the leap into entrepreneurship."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Startup Calculators", "Risk Assessment Tools"],
+    "author_philosophy": "Motivate readers to take control of their careers and consider entrepreneurship as a path to freedom.",
+    "reviews": [
+        "A practical and inspiring read for aspiring entrepreneurs. - Reader Review"
+    ]
+},
+{
+    "id": "R30",
+    "title": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+    "author": "Jim Collins",
+    "year": 2001,
+    "isbn": "978-0066620992",
+    "pages": 320,
+    "publisher": "HarperBusiness",
+    "format": ["Paperback", "Hardcover", "eBook", "Audiobook"],
+    "language": "English",
+    "genres": ["Business", "Leadership"],
+    "reading_time": "8-10 hours",
+    "average_rating": 4.5,
+    "target_audience": ["Business Leaders", "Entrepreneurs", "Corporate Professionals"],
+    "notable_quotes": [
+        "Good is the enemy of great.",
+        "Leadership is not about personality; it’s about humility and professional will."
+    ],
+    "key_takeaways": [
+        "Learn the key principles that help companies transition from good to great.",
+        "Understand the importance of disciplined people, disciplined thought, and disciplined action.",
+        "Explore the concept of the 'Hedgehog Principle' for sustained success."
+    ],
+    "framework_tags": ["F5", "F6"],
+    "thematic_tags": ["business_growth", "leadership", "systems_thinking"],
+    "priority": 31,
+    "keywords": ["greatness", "business", "leadership"],
+    "related_books": ["R62", "R58", "R32"],
+    "available_links": {
+        "amazon": "https://amazon.com/dp/9780066620992",
+        "goodreads": "https://goodreads.com/book/show/76865"
+    },
+    "complexity": "Intermediate to Advanced",
+    "region_focus": ["Global"],
+    "edition": "First Edition",
+    "awards": ["Business Book of the Year"],
+    "supplementary_materials": ["Company Case Studies"],
+    "series": null,
+    "influence": "A foundational text for understanding how companies achieve sustained excellence.",
+    "sales": "Over 4 million copies sold",
+    "adaptations": ["Workshops", "Executive Training Programs"],
+    "criticism": "Some readers feel the book's focus on case studies limits its general applicability.",
+    "readability_score": 75,
+    "media_mentions": [
+        "https://forbes.com/business-leadership-guide",
+        "https://cnbc.com/good-to-great-analysis"
+    ],
+    "cost": "$15-$30",
+    "contains_illustrations": true,
+    "co_authors": null,
+    "featured_stories": [
+        "Examples of companies that achieved extraordinary results by focusing on disciplined actions.",
+        "Insights into leadership styles that prioritize company vision over personal ambition."
+    ],
+    "accessibility_options": ["Translated into multiple languages"],
+    "related_tools": ["Leadership Assessment Tools", "Hedgehog Principle Framework"],
+    "author_philosophy": "Help businesses and leaders understand the principles behind enduring greatness.",
+    "reviews": [
+        "An essential read for anyone serious about leadership and business growth. - Reader Review"
+    ]
+},
+
+
+
+
+
+
+
+
 
 
 

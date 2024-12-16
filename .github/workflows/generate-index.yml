@@ -14,6 +14,8 @@ jobs:
       # Step 1: Check out the code
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Set up Python
       - name: Set up Python
@@ -36,5 +38,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto-generate index.md files"
-          git push
+          git commit -m "Auto-generate index.md files" || echo "No changes to commit"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}

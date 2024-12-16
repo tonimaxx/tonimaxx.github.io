@@ -82,8 +82,13 @@ I believe in a holistic approach to life and learning:
 
 *Bridging technology, creativity, and human experience* 🌱
 
+---
+#### 🚀 “Oops, I Forgot to Pull! Git Fix Shortcut 🎯”
+**Note:** This repository is also managed by a bot 🤖, so always pull before pushing to avoid conflicts!
+```
 git pull --rebase origin main
 
 git add .
 git commit -m ""
 git push
+```

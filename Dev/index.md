@@ -9,7 +9,4 @@
 - [github-actions-manual-trigger.md](github-actions-manual-trigger.md)
 - [laravel-guide.md](laravel-guide.md)
 - [netlify-guide.md](netlify-guide.md)
-- [react-guide.md](react-guide.md)
-- [react-native-expo.md](react-native-expo.md)
 - [symfony-api-guide.md](symfony-api-guide.md)
-- [symfony-guide.md](symfony-guide.md)

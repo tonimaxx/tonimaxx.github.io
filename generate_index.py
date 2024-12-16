@@ -4,6 +4,10 @@ import os
 EXCLUDE_DIRS = ['.github/workflows']
 
 def generate_index_for_directory(root_dir):
+    # Skip generating index.md in the root directory
+    if root_dir == '.':
+        return
+
     index_file = os.path.join(root_dir, 'index.md')
 
     with open(index_file, 'w') as f:
@@ -15,8 +19,10 @@ def generate_index_for_directory(root_dir):
 
 def walk_directories_and_generate_index():
     for root, dirs, files in os.walk('.'):
+        # Skip excluded directories
         if any(excl in root for excl in EXCLUDE_DIRS):
-            continue  # Skip excluded directories
+            continue
+        
         generate_index_for_directory(root)
 
 if __name__ == "__main__":

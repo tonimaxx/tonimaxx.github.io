@@ -9,13 +9,14 @@ on:
 jobs:
   generate-index:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Allow pushing commits to the repository
+      workflows: write  # Allow updates to workflow files, if necessary
 
     steps:
       # Step 1: Check out the code
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Set up Python
       - name: Set up Python
@@ -27,7 +28,7 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install --upgrade pip
 
-      # Step 4: Run the script to generate index.md
+      # Step 4: Generate index.md files
       - name: Generate index.md files
         run: |
           python generate_index.py
@@ -39,4 +40,4 @@ jobs:
           git config user.email "actions@github.com"
           git add .
           git commit -m "Auto-generate index.md files" || echo "No changes to commit"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+          git push

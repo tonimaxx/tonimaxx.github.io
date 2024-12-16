@@ -1,18 +1,24 @@
 import os
 
-def generate_index_for_folder(folder_path):
-    output_file = os.path.join(folder_path, "index.md")
-    with open(output_file, "w") as f:
-        f.write(f"# Files in {folder_path}\n\n")
-        for file_name in os.listdir(folder_path):
-            if file_name.endswith(".md") and file_name != "index.md":
-                f.write(f"- [{file_name}]({file_name})\n")
+# Directories to exclude from processing
+EXCLUDE_DIRS = ['.github/workflows']
 
-def generate_indexes(root_path="."):
-    for subdir, _, _ in os.walk(root_path):
-        if subdir == ".git" or "node_modules" in subdir:
-            continue
-        generate_index_for_folder(subdir)
+def generate_index_for_directory(root_dir):
+    index_file = os.path.join(root_dir, 'index.md')
+
+    with open(index_file, 'w') as f:
+        f.write("# Index of files\n\n")
+        for filename in sorted(os.listdir(root_dir)):
+            if filename in ['index.md', '.DS_Store'] or os.path.isdir(os.path.join(root_dir, filename)):
+                continue
+            f.write(f"- [{filename}]({filename})\n")
+
+def walk_directories_and_generate_index():
+    for root, dirs, files in os.walk('.'):
+        if any(excl in root for excl in EXCLUDE_DIRS):
+            continue  # Skip excluded directories
+        generate_index_for_directory(root)
 
 if __name__ == "__main__":
-    generate_indexes()
+    walk_directories_and_generate_index()
+    print("Index.md files have been generated successfully!")

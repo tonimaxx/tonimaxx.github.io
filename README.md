@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=From+Apple+II+to+global+innovation;Code+craftsman%2C+problem+solver;Multilingual+in+tech+languages;Entrepreneur+at+heart%2C+global+mind;Building+solutions+that+matter;Musician%2C+learner%2C+tech+explorer;Bridging+creativity+and+code;Transforming+ideas+into+impact;Sharing+knowledge%2C+inspiring+growth;Curious+mind%2C+endless+potential)](https://git.io/typing-svg)
 
+[🔗 Developer](./Dev/) [🔗 Note](./Note/) [🔗 Recipe](./Recipe/) [🔗 Project](./Project/)
+
 ## 👋 Journey of Curiosity and Creation
 
 From the early days of Apple II programming to working with tech giants, my journey has been a rich tapestry of technology, entrepreneurship, and continuous learning. I'm not just a programmer—I'm a storyteller, explorer, and connector who believes that life's most profound lessons emerge from diverse experiences.

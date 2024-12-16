@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write   # Allow pushing commits to the repository
-      workflows: write  # Allow updates to workflow files, if necessary
 
     steps:
       # Step 1: Check out the code

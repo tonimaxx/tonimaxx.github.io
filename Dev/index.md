@@ -5,6 +5,7 @@
 - [cloud-native-guide.md](cloud-native-guide.md)
 - [composer-cheatsheet.md](composer-cheatsheet.md)
 - [cybersecurity-guide.md](cybersecurity-guide.md)
+- [expo-commands.html](expo-commands.html)
 - [future-tech-guide.md](future-tech-guide.md)
 - [git-diverged-branches-guide.md](git-diverged-branches-guide.md)
 - [git-github-cheatsheet.md](git-github-cheatsheet.md)

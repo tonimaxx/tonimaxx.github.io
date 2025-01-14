@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .command { cursor: pointer; }
+        .command:hover { background-color: #f8f9fa; }
+        .toast { position: fixed; top: 20px; right: 20px; z-index: 1050; }
+        td { vertical-align: middle; }
+        .na { color: #6c757d; font-style: italic; }
+        .section-header { background-color: #f8f9fa; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container-fluid py-3">
+        <div class="toast align-items-center text-white bg-success border-0" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="d-flex">
+                <div class="toast-body">Command copied!</div>
+            </div>
+        </div>
+        
+        <div class="table-responsive">
+            <table class="table table-hover table-bordered">
+                <thead class="table-light sticky-top">
+                    <tr>
+                        <th>Task</th>
+                        <th>npm Command</th>
+                        <th>Yarn Command</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Project Initialization -->
+                    <tr class="section-header"><td colspan="3">Project Setup</td></tr>
+                    <tr><td>Initialize a new project</td><td><code class="command">npx create-expo-app my-app</code></td><td><code class="command">yarn create expo-app my-app</code></td></tr>
+                    <tr><td>Initialize with TypeScript</td><td><code class="command">npx create-expo-app -t expo-template-blank-typescript</code></td><td><code class="command">yarn create expo-app -t expo-template-blank-typescript</code></td></tr>
+                    <tr><td>Install dependencies</td><td><code class="command">npm install</code></td><td><code class="command">yarn install</code></td></tr>
+
+                    <!-- Development -->
+                    <tr class="section-header"><td colspan="3">Development Commands</td></tr>
+                    <tr><td>Start Expo project (new)</td><td><code class="command">npx expo start</code></td><td><code class="command">yarn expo start</code></td></tr>
+                    <tr><td>Start Expo project (legacy)</td><td><code class="command">npm start</code></td><td><code class="command">yarn start</code></td></tr>
+                    <tr><td>Start with clearing cache</td><td><code class="command">npx expo start -c</code></td><td><code class="command">yarn expo start -c</code></td></tr>
+                    <tr><td>Start offline mode</td><td><code class="command">npx expo start --offline</code></td><td><code class="command">yarn expo start --offline</code></td></tr>
+                    <tr><td>Start on specific port</td><td><code class="command">npx expo start --port 19001</code></td><td><code class="command">yarn expo start --port 19001</code></td></tr>
+                    <tr><td>Start dev client</td><td><code class="command">npx expo start --dev-client</code></td><td><code class="command">yarn expo start --dev-client</code></td></tr>
+                    <tr><td>Run on iOS (new)</td><td><code class="command">npx expo run:ios</code></td><td><code class="command">yarn expo run:ios</code></td></tr>
+                    <tr><td>Run on iOS (legacy)</td><td><code class="command">npm run ios</code></td><td><code class="command">yarn ios</code></td></tr>
+                    <tr><td>Run on Android (new)</td><td><code class="command">npx expo run:android</code></td><td><code class="command">yarn expo run:android</code></td></tr>
+                    <tr><td>Run on Android (legacy)</td><td><code class="command">npm run android</code></td><td><code class="command">yarn android</code></td></tr>
+                    <tr><td>Run on web</td><td><code class="command">npm run web</code></td><td><code class="command">yarn web</code></td></tr>
+
+                    <!-- Package Management -->
+                    <tr class="section-header"><td colspan="3">Package Management</td></tr>
+                    <tr><td>Add a dependency</td><td><code class="command">npm install &lt;package&gt;</code></td><td><code class="command">yarn add &lt;package&gt;</code></td></tr>
+                    <tr><td>Add a specific version</td><td><code class="command">npm install &lt;package&gt;@&lt;version&gt;</code></td><td><code class="command">yarn add &lt;package&gt;@&lt;version&gt;</code></td></tr>
+                    <tr><td>Add as a dev dependency</td><td><code class="command">npm install &lt;package&gt; --save-dev</code></td><td><code class="command">yarn add &lt;package&gt; --dev</code></td></tr>
+                    <tr><td>Remove a dependency</td><td><code class="command">npm uninstall &lt;package&gt;</code></td><td><code class="command">yarn remove &lt;package&gt;</code></td></tr>
+                    <tr><td>Check outdated dependencies</td><td><code class="command">npm outdated</code></td><td><code class="command">yarn outdated</code></td></tr>
+                    <tr><td>Update dependencies</td><td><code class="command">npm update &lt;package&gt;</code></td><td><code class="command">yarn upgrade &lt;package&gt;</code></td></tr>
+                    <tr><td>Audit for vulnerabilities</td><td><code class="command">npm audit</code></td><td class="na">N/A (Use yarn-deduplicate)</td></tr>
+
+                    <!-- Expo Specific -->
+                    <tr class="section-header"><td colspan="3">Expo SDK Management</td></tr>
+                    <tr><td>Upgrade Expo SDK</td><td><code class="command">npm install expo@latest</code></td><td><code class="command">yarn add expo@latest</code></td></tr>
+                    <tr><td>Install specific Expo version</td><td><code class="command">npm install expo@&lt;version&gt;</code></td><td><code class="command">yarn add expo@&lt;version&gt;</code></td></tr>
+                    <tr><td>Add Expo Dev Client</td><td><code class="command">npm install expo-dev-client</code></td><td><code class="command">yarn add expo-dev-client</code></td></tr>
+                    <tr><td>Install EAS CLI</td><td><code class="command">npm install -g eas-cli</code></td><td><code class="command">yarn global add eas-cli</code></td></tr>
+                    <tr><td>Build preview</td><td><code class="command">npx expo start --no-dev --minify</code></td><td><code class="command">yarn expo start --no-dev --minify</code></td></tr>
+
+                    <!-- Global Operations -->
+                    <tr class="section-header"><td colspan="3">Global Package Management</td></tr>
+                    <tr><td>Install globally</td><td><code class="command">npm install -g &lt;package&gt;</code></td><td><code class="command">yarn global add &lt;package&gt;</code></td></tr>
+                    <tr><td>Global package removal</td><td><code class="command">npm uninstall -g &lt;package&gt;</code></td><td><code class="command">yarn global remove &lt;package&gt;</code></td></tr>
+                    <tr><td>Clear cache</td><td><code class="command">npm cache clean --force</code></td><td><code class="command">yarn cache clean</code></td></tr>
+                    <tr><td>List globally installed pkgs</td><td><code class="command">npm list -g --depth=0</code></td><td><code class="command">yarn global list</code></td></tr>
+                    <tr><td>Check package versions</td><td><code class="command">npm view &lt;package&gt;</code></td><td><code class="command">yarn info &lt;package&gt;</code></td></tr>
+
+                    <!-- Build and Deployment -->
+                    <tr class="section-header"><td colspan="3">Build and Deployment</td></tr>
+                    <tr><td>Build for production</td><td><code class="command">npx expo build:android</code></td><td><code class="command">yarn expo build:android</code></td></tr>
+                    <tr><td>Generate Android bundle</td><td><code class="command">npx expo export</code></td><td><code class="command">yarn expo export</code></td></tr>
+                    <tr><td>EAS Build</td><td><code class="command">npx eas build</code></td><td><code class="command">yarn eas build</code></td></tr>
+                    <tr><td>EAS Build for Android</td><td><code class="command">npx eas build --platform android</code></td><td><code class="command">yarn eas build --platform android</code></td></tr>
+                    <tr><td>EAS Build for iOS</td><td><code class="command">npx eas build --platform ios</code></td><td><code class="command">yarn eas build --platform ios</code></td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const toast = new bootstrap.Toast(document.querySelector('.toast'), { delay: 1000 });
+        document.querySelectorAll('.command').forEach(cmd => {
+            cmd.addEventListener('click', function() {
+                navigator.clipboard.writeText(this.textContent);
+                toast.show();
+            });
+        });
+    </script>
+</body>
+</html>

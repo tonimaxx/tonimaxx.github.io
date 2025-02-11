@@ -5,6 +5,7 @@
 - [cloud-native-guide.md](cloud-native-guide.md)
 - [composer-cheatsheet.md](composer-cheatsheet.md)
 - [cybersecurity-guide.md](cybersecurity-guide.md)
+- [eas-scenarios-comparison.md](eas-scenarios-comparison.md)
 - [expo-commands.html](expo-commands.html)
 - [expo-dev-client-guide.md](expo-dev-client-guide.md)
 - [future-tech-guide.md](future-tech-guide.md)
